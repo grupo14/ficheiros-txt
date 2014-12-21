@@ -1,0 +1,34 @@
+type: source
+location: [0:248844](+)
+qualifiers: 
+    Key: db_xref, Value: ['taxon:272624']
+    Key: mol_type, Value: ['genomic DNA']
+    Key: organism, Value: ['Legionella pneumophila subsp. pneumophila str. Philadelphia 1']
+    Key: strain, Value: ['Philadelphia 1']
+    Key: sub_species, Value: ['pneumophila']
+
+type: misc_feature
+location: [2799:3051](+)
+qualifiers: 
+    Key: locus_tag, Value: ['lpg2798']
+    Key: note, Value: ['identified by homology, RNA-binding protein containing KH domain,  pseudogene']
+
+type: misc_feature
+location: [84765:85173](-)
+qualifiers: 
+    Key: locus_tag, Value: ['lpg2857']
+    Key: note, Value: ['probably truncated or frameshifted gene']
+
+type: misc_feature
+location: [133620:133971](+)
+qualifiers: 
+    Key: locus_tag, Value: ['lpg2899']
+    Key: note, Value: ['identified by homology, ferredoxin component, pseudogene']
+
+type: tRNA
+location: [214122:214209](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834538']
+    Key: locus_tag, Value: ['lpg2973']
+    Key: product, Value: ['tRNA-Met']
+
