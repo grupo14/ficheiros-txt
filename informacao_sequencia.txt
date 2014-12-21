@@ -1,0 +1,25 @@
+Registo NCBI
+ID: NC_002942.5
+Name: NC_002942
+Description: Legionella pneumophila subsp. pneumophila str. Philadelphia 1 chromosome, complete genome.
+Database cross-references: BioProject:PRJNA57609
+Number of features: 421
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AE017354.
+On Sep 29, 2004 this sequence version replaced gi:50659180.
+RefSeq Category: Reference Genome
+            COM: Community Selected
+            TYS: Designated Type Strain
+            UPR: UniProt Genome
+COMPLETENESS: full length.
+/sequence_version=5
+/source=Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+/taxonomy=['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+/keywords=['RefSeq']
+/references=[Reference(title='The genomic sequence of the accidental pathogen Legionella pneumophila', ...), Reference(title='Direct Submission', ...), Reference(title='Direct Submission', ...)]
+/accessions=['NC_002942', 'REGION:', '3148911..3397754']
+/data_file_division=CON
+/date=17-DEC-2014
+/organism=Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+/gi=52840256
+Seq('GTACTCTCGATAAATAACTACTGATAAAATTAATGTCCTTCTGCCGGATTTTCT...TCG', IUPACAmbiguousDNA())
