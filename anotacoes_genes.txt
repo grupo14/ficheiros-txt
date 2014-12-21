@@ -1,0 +1,1335 @@
+type: gene
+location: [29:1949](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834361']
+    Key: gene, Value: ['ftsH']
+    Key: locus_tag, Value: ['lpg2796']
+
+type: gene
+location: [2061:2805](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834362']
+    Key: locus_tag, Value: ['lpg2797']
+
+type: gene
+location: [2799:3051](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834363']
+    Key: locus_tag, Value: ['lpg2798']
+
+type: gene
+location: [3101:5078](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834364']
+    Key: locus_tag, Value: ['lpg2799']
+
+type: gene
+location: [5263:6991](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834365']
+    Key: gene, Value: ['frgA']
+    Key: locus_tag, Value: ['lpg2800']
+
+type: gene
+location: [7250:7805](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834366']
+    Key: locus_tag, Value: ['lpg2801']
+
+type: gene
+location: [7762:8500](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834367']
+    Key: locus_tag, Value: ['lpg2802']
+
+type: gene
+location: [8725:9583](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834368']
+    Key: locus_tag, Value: ['lpg2803']
+
+type: gene
+location: [9467:10874](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834369']
+    Key: locus_tag, Value: ['lpg2804']
+
+type: gene
+location: [10979:12482](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834370']
+    Key: gene, Value: ['yhiP']
+    Key: locus_tag, Value: ['lpg2805']
+
+type: gene
+location: [12549:13932](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834371']
+    Key: locus_tag, Value: ['lpg2806']
+
+type: gene
+location: [14069:15182](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834372']
+    Key: locus_tag, Value: ['lpg2807']
+
+type: gene
+location: [15231:16029](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834373']
+    Key: gene, Value: ['aroE']
+    Key: locus_tag, Value: ['lpg2808']
+
+type: gene
+location: [16238:18836](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834374']
+    Key: gene, Value: ['pepN']
+    Key: locus_tag, Value: ['lpg2809']
+
+type: gene
+location: [18927:20934](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834375']
+    Key: gene, Value: ['prkA']
+    Key: locus_tag, Value: ['lpg2810']
+
+type: gene
+location: [21072:22353](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834376']
+    Key: locus_tag, Value: ['lpg2811']
+
+type: gene
+location: [22349:23873](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834377']
+    Key: locus_tag, Value: ['lpg2812']
+
+type: gene
+location: [24164:25025](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834378']
+    Key: gene, Value: ['vipE']
+    Key: locus_tag, Value: ['lpg2813']
+
+type: gene
+location: [25105:26374](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834379']
+    Key: locus_tag, Value: ['lpg2814']
+
+type: gene
+location: [26423:28475](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834380']
+    Key: locus_tag, Value: ['lpg2815']
+
+type: gene
+location: [28558:30556](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834381']
+    Key: gene, Value: ['rep']
+    Key: locus_tag, Value: ['lpg2816']
+
+type: gene
+location: [30953:31817](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834382']
+    Key: gene, Value: ['yrfI']
+    Key: locus_tag, Value: ['lpg2817']
+
+type: gene
+location: [31830:32328](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834383']
+    Key: locus_tag, Value: ['lpg2818']
+
+type: gene
+location: [32595:33555](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834384']
+    Key: locus_tag, Value: ['lpg2819']
+
+type: gene
+location: [33732:34743](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834385']
+    Key: locus_tag, Value: ['lpg2820']
+
+type: gene
+location: [34850:35663](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834386']
+    Key: locus_tag, Value: ['lpg2821']
+
+type: gene
+location: [35774:37601](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834387']
+    Key: gene, Value: ['bipA']
+    Key: locus_tag, Value: ['lpg2822']
+
+type: gene
+location: [37607:38495](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834388']
+    Key: gene, Value: ['ppnK']
+    Key: locus_tag, Value: ['lpg2823']
+
+type: gene
+location: [38498:40166](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834389']
+    Key: gene, Value: ['recN']
+    Key: locus_tag, Value: ['lpg2824']
+
+type: gene
+location: [40332:40539](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834390']
+    Key: locus_tag, Value: ['lpg2825']
+
+type: gene
+location: [40877:42611](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834391']
+    Key: locus_tag, Value: ['lpg2826']
+
+type: gene
+location: [42956:43934](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834392']
+    Key: locus_tag, Value: ['lpg2827']
+
+type: gene
+location: [44081:45338](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834393']
+    Key: locus_tag, Value: ['lpg2828']
+
+type: gene
+location: [45404:52082](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834394']
+    Key: gene, Value: ['sidH']
+    Key: locus_tag, Value: ['lpg2829']
+
+type: gene
+location: [52202:52943](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834395']
+    Key: gene, Value: ['legU2']
+    Key: locus_tag, Value: ['lpg2830']
+
+type: gene
+location: [53194:55060](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834396']
+    Key: gene, Value: ['vipD']
+    Key: locus_tag, Value: ['lpg2831']
+
+type: gene
+location: [55114:56755](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834397']
+    Key: locus_tag, Value: ['lpg2832']
+
+type: gene
+location: [56751:57132](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834398']
+    Key: gene, Value: ['yciA']
+    Key: locus_tag, Value: ['lpg2833']
+
+type: gene
+location: [57134:59504](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834399']
+    Key: locus_tag, Value: ['lpg2834']
+
+type: gene
+location: [59627:60293](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834400']
+    Key: gene, Value: ['tpm']
+    Key: locus_tag, Value: ['lpg2835']
+
+type: gene
+location: [60289:62104](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834401']
+    Key: gene, Value: ['glmS']
+    Key: locus_tag, Value: ['lpg2836']
+
+type: gene
+location: [62467:63769](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834402']
+    Key: locus_tag, Value: ['lpg2837']
+
+type: gene
+location: [64021:64786](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834403']
+    Key: locus_tag, Value: ['lpg2838']
+
+type: gene
+location: [64897:65368](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834404']
+    Key: gene, Value: ['smpB']
+    Key: locus_tag, Value: ['lpg2839']
+
+type: gene
+location: [65325:65844](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834405']
+    Key: locus_tag, Value: ['lpg2840']
+
+type: gene
+location: [65969:67169](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834406']
+    Key: locus_tag, Value: ['lpg2841']
+
+type: gene
+location: [67323:68730](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834407']
+    Key: locus_tag, Value: ['lpg2842']
+
+type: gene
+location: [68752:69766](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834408']
+    Key: locus_tag, Value: ['lpg2843']
+
+type: gene
+location: [69796:70882](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834409']
+    Key: locus_tag, Value: ['lpg2844']
+
+type: gene
+location: [71493:72303](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834410']
+    Key: locus_tag, Value: ['lpg2845']
+
+type: gene
+location: [72449:72683](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834411']
+    Key: locus_tag, Value: ['lpg2846']
+
+type: gene
+location: [72750:73713](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834412']
+    Key: locus_tag, Value: ['lpg2847']
+
+type: gene
+location: [73850:74864](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834413']
+    Key: locus_tag, Value: ['lpg2848']
+
+type: gene
+location: [74993:76298](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834414']
+    Key: locus_tag, Value: ['lpg2849']
+
+type: gene
+location: [76397:76613](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834415']
+    Key: locus_tag, Value: ['lpg2850']
+
+type: gene
+location: [76852:78361](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834416']
+    Key: gene, Value: ['hemG']
+    Key: locus_tag, Value: ['lpg2851']
+
+type: gene
+location: [78591:79980](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834417']
+    Key: gene, Value: ['amiC']
+    Key: locus_tag, Value: ['lpg2852']
+
+type: gene
+location: [80210:81869](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834418']
+    Key: locus_tag, Value: ['lpg2853']
+
+type: gene
+location: [81856:82783](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834419']
+    Key: locus_tag, Value: ['lpg2854']
+
+type: gene
+location: [82779:83712](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834420']
+    Key: locus_tag, Value: ['lpg2855']
+
+type: gene
+location: [83701:84760](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834421']
+    Key: locus_tag, Value: ['lpg2856']
+
+type: gene
+location: [84765:85173](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834422']
+    Key: locus_tag, Value: ['lpg2857']
+
+type: gene
+location: [85201:86113](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834423']
+    Key: locus_tag, Value: ['lpg2858']
+
+type: gene
+location: [86122:87118](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834424']
+    Key: locus_tag, Value: ['lpg2859']
+
+type: gene
+location: [87294:87771](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834425']
+    Key: locus_tag, Value: ['lpg2860']
+
+type: gene
+location: [87816:88806](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834426']
+    Key: locus_tag, Value: ['lpg2861']
+
+type: gene
+location: [88981:90892](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834427']
+    Key: gene, Value: ['legC8']
+    Key: locus_tag, Value: ['lpg2862']
+
+type: gene
+location: [91017:91797](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834428']
+    Key: locus_tag, Value: ['lpg2863']
+
+type: gene
+location: [91943:93062](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834429']
+    Key: locus_tag, Value: ['lpg2864']
+
+type: gene
+location: [93064:93559](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834430']
+    Key: locus_tag, Value: ['lpg2865']
+
+type: gene
+location: [93559:95737](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834431']
+    Key: locus_tag, Value: ['lpg2866']
+
+type: gene
+location: [95733:96126](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834432']
+    Key: locus_tag, Value: ['lpg2867']
+
+type: gene
+location: [96587:97382](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834433']
+    Key: gene, Value: ['thyA']
+    Key: locus_tag, Value: ['lpg2868']
+
+type: gene
+location: [97378:98149](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834434']
+    Key: gene, Value: ['lgt']
+    Key: locus_tag, Value: ['lpg2869']
+
+type: gene
+location: [98166:98973](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834435']
+    Key: locus_tag, Value: ['lpg2870']
+
+type: gene
+location: [98969:101264](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834436']
+    Key: gene, Value: ['ptsP']
+    Key: locus_tag, Value: ['lpg2871']
+
+type: gene
+location: [101264:101792](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834437']
+    Key: locus_tag, Value: ['lpg2872']
+
+type: gene
+location: [102144:103155](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834438']
+    Key: locus_tag, Value: ['lpg2873']
+
+type: gene
+location: [103252:104137](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834439']
+    Key: locus_tag, Value: ['lpg2874']
+
+type: gene
+location: [104258:105644](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834440']
+    Key: gene, Value: ['glmU']
+    Key: locus_tag, Value: ['lpg2875']
+
+type: gene
+location: [105660:106902](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834441']
+    Key: locus_tag, Value: ['lpg2876']
+
+type: gene
+location: [106928:108218](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834442']
+    Key: locus_tag, Value: ['lpg2877']
+
+type: gene
+location: [108487:109552](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834443']
+    Key: gene, Value: ['corA']
+    Key: locus_tag, Value: ['lpg2878']
+
+type: gene
+location: [109664:111416](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834444']
+    Key: locus_tag, Value: ['lpg2879']
+
+type: gene
+location: [111656:112292](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834445']
+    Key: gene, Value: ['nth']
+    Key: locus_tag, Value: ['lpg2880']
+
+type: gene
+location: [112284:112899](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834446']
+    Key: locus_tag, Value: ['lpg2881']
+
+type: gene
+location: [112898:114911](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834447']
+    Key: gene, Value: ['metG']
+    Key: locus_tag, Value: ['lpg2882']
+
+type: gene
+location: [115189:115759](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834448']
+    Key: locus_tag, Value: ['lpg2883']
+
+type: gene
+location: [115814:116552](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834449']
+    Key: locus_tag, Value: ['lpg2884']
+
+type: gene
+location: [116861:117416](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834450']
+    Key: locus_tag, Value: ['lpg2885']
+
+type: gene
+location: [117458:118160](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834451']
+    Key: locus_tag, Value: ['lpg2886']
+
+type: gene
+location: [118177:119671](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834452']
+    Key: gene, Value: ['rfbA']
+    Key: locus_tag, Value: ['lpg2887']
+
+type: gene
+location: [119898:121812](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834453']
+    Key: locus_tag, Value: ['lpg2888']
+
+type: gene
+location: [121942:123817](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834454']
+    Key: gene, Value: ['gidA']
+    Key: locus_tag, Value: ['lpg2889']
+
+type: gene
+location: [123813:124440](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834455']
+    Key: gene, Value: ['gidB']
+    Key: locus_tag, Value: ['lpg2890']
+
+type: gene
+location: [124442:125213](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834456']
+    Key: gene, Value: ['soj']
+    Key: locus_tag, Value: ['lpg2891']
+
+type: gene
+location: [125226:126096](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834457']
+    Key: locus_tag, Value: ['lpg2892']
+
+type: gene
+location: [126124:126667](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834458']
+    Key: locus_tag, Value: ['lpg2893']
+
+type: gene
+location: [127145:128015](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834459']
+    Key: locus_tag, Value: ['lpg2894']
+
+type: gene
+location: [128173:128719](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834460']
+    Key: gene, Value: ['coxG']
+    Key: locus_tag, Value: ['lpg2895']
+
+type: gene
+location: [128728:130345](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834461']
+    Key: locus_tag, Value: ['lpg2896']
+
+type: gene
+location: [130341:131547](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834462']
+    Key: locus_tag, Value: ['lpg2897']
+
+type: gene
+location: [131628:133242](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834463']
+    Key: locus_tag, Value: ['lpg2898']
+
+type: gene
+location: [133620:133971](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834464']
+    Key: locus_tag, Value: ['lpg2899']
+
+type: gene
+location: [134039:135068](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834465']
+    Key: gene, Value: ['capM2']
+    Key: locus_tag, Value: ['lpg2900']
+
+type: gene
+location: [135125:135731](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834466']
+    Key: locus_tag, Value: ['lpg2901']
+
+type: gene
+location: [135956:136382](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834467']
+    Key: locus_tag, Value: ['lpg2902']
+
+type: gene
+location: [136506:137259](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834468']
+    Key: locus_tag, Value: ['lpg2903']
+
+type: gene
+location: [137260:137884](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834469']
+    Key: locus_tag, Value: ['lpg2904']
+
+type: gene
+location: [137973:139623](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834470']
+    Key: locus_tag, Value: ['lpg2905']
+
+type: gene
+location: [139806:140076](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834471']
+    Key: gene, Value: ['tatB']
+    Key: locus_tag, Value: ['lpg2906']
+
+type: gene
+location: [140263:141526](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834472']
+    Key: locus_tag, Value: ['lpg2907']
+
+type: gene
+location: [141549:142419](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834473']
+    Key: gene, Value: ['msrA']
+    Key: locus_tag, Value: ['lpg2908']
+
+type: gene
+location: [143080:143269](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834474']
+    Key: locus_tag, Value: ['lpg2909']
+
+type: gene
+location: [143485:145420](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834475']
+    Key: gene, Value: ['tynA']
+    Key: locus_tag, Value: ['lpg2910']
+
+type: gene
+location: [146276:147548](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834476']
+    Key: locus_tag, Value: ['lpg2911']
+
+type: gene
+location: [148053:149541](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834477']
+    Key: locus_tag, Value: ['lpg2912']
+
+type: gene
+location: [149702:151145](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834478']
+    Key: locus_tag, Value: ['lpg2913']
+
+type: gene
+location: [151992:152283](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834479']
+    Key: locus_tag, Value: ['lpg2914']
+
+type: gene
+location: [152392:152614](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834480']
+    Key: locus_tag, Value: ['lpg2915']
+
+type: gene
+location: [152818:153355](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834481']
+    Key: locus_tag, Value: ['lpg2916']
+
+type: gene
+location: [153431:154478](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834482']
+    Key: locus_tag, Value: ['lpg2917']
+
+type: gene
+location: [154781:155759](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834483']
+    Key: locus_tag, Value: ['lpg2918']
+
+type: gene
+location: [156273:157452](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834484']
+    Key: locus_tag, Value: ['lpg2919']
+
+type: gene
+location: [157685:158105](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834485']
+    Key: locus_tag, Value: ['lpg2920']
+
+type: gene
+location: [158097:158424](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834486']
+    Key: locus_tag, Value: ['lpg2921']
+
+type: gene
+location: [158496:159744](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834487']
+    Key: locus_tag, Value: ['lpg2922']
+
+type: gene
+location: [159686:160388](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834488']
+    Key: locus_tag, Value: ['lpg2923']
+
+type: gene
+location: [160368:161514](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834489']
+    Key: locus_tag, Value: ['lpg2924']
+
+type: gene
+location: [161510:163139](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834490']
+    Key: locus_tag, Value: ['lpg2925']
+
+type: gene
+location: [163182:164028](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834491']
+    Key: gene, Value: ['apaH']
+    Key: locus_tag, Value: ['lpg2926']
+
+type: gene
+location: [164005:165355](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834492']
+    Key: locus_tag, Value: ['lpg2927']
+
+type: gene
+location: [165379:166150](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834493']
+    Key: gene, Value: ['ksgA']
+    Key: locus_tag, Value: ['lpg2928']
+
+type: gene
+location: [166485:166887](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834494']
+    Key: gene, Value: ['panD']
+    Key: locus_tag, Value: ['lpg2929']
+
+type: gene
+location: [166992:167718](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834495']
+    Key: gene, Value: ['tatC']
+    Key: locus_tag, Value: ['lpg2930']
+
+type: gene
+location: [167767:168091](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834496']
+    Key: locus_tag, Value: ['lpg2931']
+
+type: gene
+location: [168341:169079](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834497']
+    Key: gene, Value: ['ubiB']
+    Key: locus_tag, Value: ['lpg2932']
+
+type: gene
+location: [169054:170521](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834498']
+    Key: gene, Value: ['yigC']
+    Key: locus_tag, Value: ['lpg2933']
+
+type: gene
+location: [170665:171937](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834499']
+    Key: gene, Value: ['rho']
+    Key: locus_tag, Value: ['lpg2934']
+
+type: gene
+location: [172250:172577](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834500']
+    Key: gene, Value: ['trxA']
+    Key: locus_tag, Value: ['lpg2935']
+
+type: gene
+location: [172789:173524](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834501']
+    Key: locus_tag, Value: ['lpg2936']
+
+type: gene
+location: [173687:175082](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834502']
+    Key: gene, Value: ['fumC']
+    Key: locus_tag, Value: ['lpg2937']
+
+type: gene
+location: [175173:175797](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834503']
+    Key: locus_tag, Value: ['lpg2938']
+
+type: gene
+location: [175793:176966](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834504']
+    Key: locus_tag, Value: ['lpg2939']
+
+type: gene
+location: [177004:177841](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834505']
+    Key: gene, Value: ['waaM']
+    Key: locus_tag, Value: ['lpg2940']
+
+type: gene
+location: [177833:178682](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834506']
+    Key: gene, Value: ['waaM']
+    Key: locus_tag, Value: ['lpg2941']
+
+type: gene
+location: [178903:179974](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834507']
+    Key: locus_tag, Value: ['lpg2942']
+
+type: gene
+location: [180127:180958](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834508']
+    Key: locus_tag, Value: ['lpg2943']
+
+type: gene
+location: [180967:182005](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834509']
+    Key: gene, Value: ['lpxD']
+    Key: locus_tag, Value: ['lpg2944']
+
+type: gene
+location: [181976:183134](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834510']
+    Key: gene, Value: ['lpxB']
+    Key: locus_tag, Value: ['lpg2945']
+
+type: gene
+location: [183311:184169](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834511']
+    Key: locus_tag, Value: ['lpg2946']
+
+type: gene
+location: [184198:186001](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834512']
+    Key: locus_tag, Value: ['lpg2947']
+
+type: gene
+location: [186539:186854](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834513']
+    Key: locus_tag, Value: ['lpg2948']
+
+type: gene
+location: [186879:188706](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834514']
+    Key: gene, Value: ['wbmI']
+    Key: locus_tag, Value: ['lpg2949']
+
+type: gene
+location: [188847:189813](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834515']
+    Key: locus_tag, Value: ['lpg2950']
+
+type: gene
+location: [191123:192074](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834516']
+    Key: locus_tag, Value: ['lpg2951']
+
+type: gene
+location: [192168:193212](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834517']
+    Key: locus_tag, Value: ['lpg2952']
+
+type: gene
+location: [193796:194522](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834518']
+    Key: locus_tag, Value: ['lpg2953']
+
+type: gene
+location: [194526:195243](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834519']
+    Key: locus_tag, Value: ['lpg2954']
+
+type: gene
+location: [195495:195807](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834520']
+    Key: gene, Value: ['hipB']
+    Key: locus_tag, Value: ['lpg2955']
+
+type: gene
+location: [195822:196389](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834521']
+    Key: gene, Value: ['dcd']
+    Key: locus_tag, Value: ['lpg2956']
+
+type: gene
+location: [196627:197407](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834522']
+    Key: locus_tag, Value: ['lpg2957']
+
+type: gene
+location: [197425:198931](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834523']
+    Key: locus_tag, Value: ['lpg2958']
+
+type: gene
+location: [199137:200730](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834524']
+    Key: locus_tag, Value: ['lpg2959']
+
+type: gene
+location: [201026:201998](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834525']
+    Key: locus_tag, Value: ['lpg2960']
+
+type: gene
+location: [202070:202937](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834526']
+    Key: locus_tag, Value: ['lpg2961']
+
+type: gene
+location: [203247:204147](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834527']
+    Key: locus_tag, Value: ['lpg2962']
+
+type: gene
+location: [204159:205239](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834528']
+    Key: gene, Value: ['pyrC']
+    Key: locus_tag, Value: ['lpg2963']
+
+type: gene
+location: [205222:205846](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834529']
+    Key: gene, Value: ['rnt']
+    Key: locus_tag, Value: ['lpg2964']
+
+type: gene
+location: [205972:206578](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834530']
+    Key: locus_tag, Value: ['lpg2965']
+
+type: gene
+location: [206630:206900](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834531']
+    Key: locus_tag, Value: ['lpg2966']
+
+type: gene
+location: [207266:207857](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834532']
+    Key: gene, Value: ['sodB']
+    Key: locus_tag, Value: ['lpg2967']
+
+type: gene
+location: [207916:209086](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834533']
+    Key: gene, Value: ['argD']
+    Key: locus_tag, Value: ['lpg2968']
+
+type: gene
+location: [209214:210000](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834534']
+    Key: locus_tag, Value: ['lpg2969']
+
+type: gene
+location: [210137:210926](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834535']
+    Key: locus_tag, Value: ['lpg2970']
+
+type: gene
+location: [211171:212842](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834536']
+    Key: gene, Value: ['maeA']
+    Key: locus_tag, Value: ['lpg2971']
+
+type: gene
+location: [213071:214040](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834537']
+    Key: locus_tag, Value: ['lpg2972']
+
+type: gene
+location: [214122:214209](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834538']
+    Key: locus_tag, Value: ['lpg2973']
+
+type: gene
+location: [214213:215065](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834539']
+    Key: gene, Value: ['psd']
+    Key: locus_tag, Value: ['lpg2974']
+
+type: gene
+location: [215157:217773](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834540']
+    Key: locus_tag, Value: ['lpg2975']
+
+type: gene
+location: [218035:219565](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834541']
+    Key: locus_tag, Value: ['lpg2976']
+
+type: gene
+location: [220137:221487](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834542']
+    Key: locus_tag, Value: ['lpg2977']
+
+type: gene
+location: [221467:221827](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834543']
+    Key: locus_tag, Value: ['lpg2978']
+
+type: gene
+location: [222053:222908](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834544']
+    Key: locus_tag, Value: ['lpg2979']
+
+type: gene
+location: [223014:225270](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834545']
+    Key: gene, Value: ['parC']
+    Key: locus_tag, Value: ['lpg2980']
+
+type: gene
+location: [225897:226320](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834546']
+    Key: gene, Value: ['atpC']
+    Key: locus_tag, Value: ['lpg2981']
+
+type: gene
+location: [226331:227708](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834547']
+    Key: gene, Value: ['atpD']
+    Key: locus_tag, Value: ['lpg2982']
+
+type: gene
+location: [227720:228587](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834548']
+    Key: gene, Value: ['atpG']
+    Key: locus_tag, Value: ['lpg2983']
+
+type: gene
+location: [228676:230230](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834549']
+    Key: locus_tag, Value: ['lpg2984']
+
+type: gene
+location: [230247:230805](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834300']
+    Key: gene, Value: ['atpH']
+    Key: locus_tag, Value: ['lpg2985']
+
+type: gene
+location: [230791:231262](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834550']
+    Key: gene, Value: ['atpF']
+    Key: locus_tag, Value: ['lpg2986']
+
+type: gene
+location: [231313:231589](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834551']
+    Key: gene, Value: ['atpE']
+    Key: locus_tag, Value: ['lpg2987']
+
+type: gene
+location: [231629:232508](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834552']
+    Key: gene, Value: ['atpB']
+    Key: locus_tag, Value: ['lpg2988']
+
+type: gene
+location: [232458:232854](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834553']
+    Key: gene, Value: ['atpI']
+    Key: locus_tag, Value: ['lpg2989']
+
+type: gene
+location: [232993:233137](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834554']
+    Key: locus_tag, Value: ['lpg2990']
+
+type: gene
+location: [233322:233910](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834555']
+    Key: locus_tag, Value: ['lpg2991']
+
+type: gene
+location: [233911:234484](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834556']
+    Key: locus_tag, Value: ['lpg2992']
+
+type: gene
+location: [234487:235087](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834557']
+    Key: gene, Value: ['gmhA']
+    Key: locus_tag, Value: ['lpg2993']
+
+type: gene
+location: [235113:235470](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834558']
+    Key: locus_tag, Value: ['lpg2994']
+
+type: gene
+location: [235491:237303](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834559']
+    Key: locus_tag, Value: ['lpg2995']
+
+type: gene
+location: [237342:238194](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834560']
+    Key: locus_tag, Value: ['lpg2996']
+
+type: gene
+location: [238224:239391](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834561']
+    Key: locus_tag, Value: ['lpg2997']
+
+type: gene
+location: [239438:241616](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834562']
+    Key: locus_tag, Value: ['lpg2998']
+
+type: gene
+location: [242092:242893](+)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834563']
+    Key: gene, Value: ['legP']
+    Key: locus_tag, Value: ['lpg2999']
+
+type: gene
+location: [242889:244728](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834564']
+    Key: locus_tag, Value: ['lpg3000']
+
+type: gene
+location: [245023:246364](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834565']
+    Key: gene, Value: ['trmE']
+    Key: gene_synonym, Value: ['mnmE; thdF']
+    Key: locus_tag, Value: ['lpg3001']
+
+type: gene
+location: [246364:248035](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834566']
+    Key: locus_tag, Value: ['lpg3002']
+
+type: gene
+location: [248044:248290](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834567']
+    Key: locus_tag, Value: ['lpg3003']
+
+type: gene
+location: [248256:248445](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834568']
+    Key: gene, Value: ['rnpA']
+    Key: locus_tag, Value: ['lpg3004']
+
+type: gene
+location: [248601:248736](-)
+qualifiers: 
+    Key: db_xref, Value: ['GeneID:19834569']
+    Key: gene, Value: ['rpmH']
+    Key: locus_tag, Value: ['lpg3005']
+
