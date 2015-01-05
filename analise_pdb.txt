@@ -1,0 +1,22 @@
+****Analise do ficheiro 4F67.pdb****
+
+Palavras Chave: structural genomics, psi-biology, protein structure initiative, northeast structural genomics consortium, nesg, upf0176 protein lpq2838, unknown function
+
+Nome do Organismo:  three dimensional structure of the double mutant of upf0176 protein lpg2838 from legionella pneumophila at the resolution 1.8a, northeast structural genomics consortium (nesg) target lgr82
+
+Cabecalho: structural genomics, unknown function   14-may-12   4f67
+Data da deposicao: 2012-05-14
+
+Data da publicacaos: 2012-05-30
+
+Metodo usado: x-ray diffraction
+
+Resolucao: 1.79
+
+Referencia da estrutura: []
+
+Referencia de artigo: a.kuzin,h.neely,l.street,n.odukwe,j.seetharaman,m.maor.xiao,e.kohan,j.k.everett,t.b.acton,g.t.montelione,lj.f.hunt three dimensional structure of the double mutant of uprotein lpg2838 from legionella pneumophila at the resolution 1.8a, northeast structural genomics consor(nesg) target lgr82 to be published 
+
+Autor: A.Kuzin,H.Neely,L.Street,N.Odukwe,J.Seetharaman,M.Mao,R.Xiao,E.Kohan,J.K.Everett,T.B.Acton,G.T.Montelione,L.Tong,J.F.Hunt,NortheastStructural Genomics Consortium (Nesg)
+
+Composto: {'1': {'molecule': 'upf0176 protein lpg2838', 'misc': '', 'engineered': 'yes', 'chain': 'a', 'mutation': 'yes'}}
