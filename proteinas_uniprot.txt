@@ -1,0 +1,816 @@
+
+APAH_LEGPH              Reviewed;         276 AA.
+
+RecName: Full=Bis(5'-nucleosyl)-tetraphosphatase, symmetrical {ECO:0000255|HAMAP-Rule:MF_00199}; EC=3.6.1.41 {ECO:0000255|HAMAP-Rule:MF_00199}; AltName: Full=Ap4A hydrolase {ECO:0000255|HAMAP-Rule:MF_00199}; AltName: Full=Diadenosine 5',5'''-P1,P4-tetraphosphate pyrophosphohydrolase {ECO:0000255|HAMAP-Rule:MF_00199}; AltName: Full=Diadenosine tetraphosphatase {ECO:0000255|HAMAP-Rule:MF_00199};
+
+AROE_LEGPH              Reviewed;         265 AA.
+
+RecName: Full=Shikimate dehydrogenase {ECO:0000255|HAMAP-Rule:MF_00222}; EC=1.1.1.25 {ECO:0000255|HAMAP-Rule:MF_00222};
+
+ATPA2_LEGPH             Reviewed;         517 AA.
+
+RecName: Full=ATP synthase subunit alpha 2 {ECO:0000255|HAMAP-Rule:MF_01346}; EC=3.6.3.14 {ECO:0000255|HAMAP-Rule:MF_01346}; AltName: Full=ATP synthase F1 sector subunit alpha 2 {ECO:0000255|HAMAP-Rule:MF_01346}; AltName: Full=F-ATPase subunit alpha 2 {ECO:0000255|HAMAP-Rule:MF_01346};
+
+ATPB_LEGPH              Reviewed;         458 AA.
+
+RecName: Full=ATP synthase subunit beta {ECO:0000255|HAMAP-Rule:MF_01347}; EC=3.6.3.14 {ECO:0000255|HAMAP-Rule:MF_01347}; AltName: Full=ATP synthase F1 sector subunit beta {ECO:0000255|HAMAP-Rule:MF_01347}; AltName: Full=F-ATPase subunit beta {ECO:0000255|HAMAP-Rule:MF_01347};
+
+ATPD_LEGPH              Reviewed;         180 AA.
+
+RecName: Full=ATP synthase subunit delta {ECO:0000255|HAMAP-Rule:MF_01416}; AltName: Full=ATP synthase F(1) sector subunit delta {ECO:0000255|HAMAP-Rule:MF_01416}; AltName: Full=F-type ATPase subunit delta {ECO:0000255|HAMAP-Rule:MF_01416}; Short=F-ATPase subunit delta {ECO:0000255|HAMAP-Rule:MF_01416};
+
+ATPE_LEGPH              Reviewed;         140 AA.
+
+RecName: Full=ATP synthase epsilon chain {ECO:0000255|HAMAP-Rule:MF_00530}; AltName: Full=ATP synthase F1 sector epsilon subunit {ECO:0000255|HAMAP-Rule:MF_00530}; AltName: Full=F-ATPase epsilon subunit {ECO:0000255|HAMAP-Rule:MF_00530};
+
+ATPF_LEGPH              Reviewed;         156 AA.
+
+RecName: Full=ATP synthase subunit b {ECO:0000255|HAMAP-Rule:MF_01398}; AltName: Full=ATP synthase F(0) sector subunit b {ECO:0000255|HAMAP-Rule:MF_01398}; AltName: Full=ATPase subunit I {ECO:0000255|HAMAP-Rule:MF_01398}; AltName: Full=F-type ATPase subunit b {ECO:0000255|HAMAP-Rule:MF_01398}; Short=F-ATPase subunit b {ECO:0000255|HAMAP-Rule:MF_01398};
+
+ATPG_LEGPH              Reviewed;         288 AA.
+
+RecName: Full=ATP synthase gamma chain {ECO:0000255|HAMAP-Rule:MF_00815}; AltName: Full=ATP synthase F1 sector gamma subunit {ECO:0000255|HAMAP-Rule:MF_00815}; AltName: Full=F-ATPase gamma subunit {ECO:0000255|HAMAP-Rule:MF_00815};
+
+DCD_LEGPH               Reviewed;         188 AA.
+
+RecName: Full=Deoxycytidine triphosphate deaminase {ECO:0000255|HAMAP-Rule:MF_00146}; Short=dCTP deaminase {ECO:0000255|HAMAP-Rule:MF_00146}; EC=3.5.4.13 {ECO:0000255|HAMAP-Rule:MF_00146};
+
+GLMS_LEGPH              Reviewed;         604 AA.
+
+RecName: Full=Glutamine--fructose-6-phosphate aminotransferase [isomerizing] {ECO:0000255|HAMAP-Rule:MF_00164}; EC=2.6.1.16 {ECO:0000255|HAMAP-Rule:MF_00164}; AltName: Full=D-fructose-6-phosphate amidotransferase {ECO:0000255|HAMAP-Rule:MF_00164}; AltName: Full=GFAT {ECO:0000255|HAMAP-Rule:MF_00164}; AltName: Full=Glucosamine-6-phosphate synthase {ECO:0000255|HAMAP-Rule:MF_00164}; AltName: Full=Hexosephosphate aminotransferase {ECO:0000255|HAMAP-Rule:MF_00164}; AltName: Full=L-glutamine--D-fructose-6-phosphate amidotransferase {ECO:0000255|HAMAP-Rule:MF_00164};
+
+GLMU_LEGPH              Reviewed;         461 AA.
+
+RecName: Full=Bifunctional protein GlmU {ECO:0000255|HAMAP-Rule:MF_01631}; Includes: RecName: Full=UDP-N-acetylglucosamine pyrophosphorylase {ECO:0000255|HAMAP-Rule:MF_01631}; EC=2.7.7.23 {ECO:0000255|HAMAP-Rule:MF_01631}; AltName: Full=N-acetylglucosamine-1-phosphate uridyltransferase {ECO:0000255|HAMAP-Rule:MF_01631}; Includes: RecName: Full=Glucosamine-1-phosphate N-acetyltransferase {ECO:0000255|HAMAP-Rule:MF_01631}; EC=2.3.1.157 {ECO:0000255|HAMAP-Rule:MF_01631};
+
+GLRXA_LEGPH             Reviewed;          89 AA.
+
+RecName: Full=Probable monothiol glutaredoxin GrlA;
+
+LGT_LEGPH               Reviewed;         256 AA.
+
+RecName: Full=Prolipoprotein diacylglyceryl transferase {ECO:0000255|HAMAP-Rule:MF_01147}; EC=2.4.99.- {ECO:0000255|HAMAP-Rule:MF_01147};
+
+LPXB2_LEGPH             Reviewed;         385 AA.
+
+RecName: Full=Lipid-A-disaccharide synthase 2 {ECO:0000255|HAMAP-Rule:MF_00392}; EC=2.4.1.182 {ECO:0000255|HAMAP-Rule:MF_00392};
+
+LPXD2_LEGPH             Reviewed;         343 AA.
+
+RecName: Full=UDP-3-O-acylglucosamine N-acyltransferase 2 {ECO:0000255|HAMAP-Rule:MF_00523}; EC=2.3.1.- {ECO:0000255|HAMAP-Rule:MF_00523};
+
+LUBX_LEGPH              Reviewed;         246 AA.
+
+RecName: Full=E3 ubiquitin-protein ligase LubX; EC=6.3.2.-; AltName: Full=Legionella U-box protein;
+
+MNME_LEGPH              Reviewed;         446 AA.
+
+RecName: Full=tRNA modification GTPase MnmE {ECO:0000255|HAMAP-Rule:MF_00379}; EC=3.6.-.- {ECO:0000255|HAMAP-Rule:MF_00379};
+
+MNMG_LEGPH              Reviewed;         624 AA.
+
+RecName: Full=tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}; AltName: Full=Glucose-inhibited division protein A {ECO:0000255|HAMAP-Rule:MF_00129};
+
+NADK_LEGPH              Reviewed;         295 AA.
+
+RecName: Full=NAD kinase {ECO:0000255|HAMAP-Rule:MF_00361}; EC=2.7.1.23 {ECO:0000255|HAMAP-Rule:MF_00361}; AltName: Full=ATP-dependent NAD kinase {ECO:0000255|HAMAP-Rule:MF_00361};
+
+NNRE_LEGPH              Reviewed;         270 AA.
+
+RecName: Full=NAD(P)H-hydrate epimerase {ECO:0000255|HAMAP-Rule:MF_01966}; EC=5.1.99.6 {ECO:0000255|HAMAP-Rule:MF_01966}; AltName: Full=NAD(P)HX epimerase {ECO:0000255|HAMAP-Rule:MF_01966};
+
+PAND_LEGPH              Reviewed;         133 AA.
+
+RecName: Full=Aspartate 1-decarboxylase {ECO:0000255|HAMAP-Rule:MF_00446}; EC=4.1.1.11 {ECO:0000255|HAMAP-Rule:MF_00446}; AltName: Full=Aspartate alpha-decarboxylase {ECO:0000255|HAMAP-Rule:MF_00446}; Contains: RecName: Full=Aspartate 1-decarboxylase beta chain {ECO:0000255|HAMAP-Rule:MF_00446}; Contains: RecName: Full=Aspartate 1-decarboxylase alpha chain {ECO:0000255|HAMAP-Rule:MF_00446}; Flags: Precursor;
+
+PSD_LEGPH               Reviewed;         283 AA.
+
+RecName: Full=Phosphatidylserine decarboxylase proenzyme {ECO:0000255|HAMAP-Rule:MF_00662}; EC=4.1.1.65 {ECO:0000255|HAMAP-Rule:MF_00662}; Contains: RecName: Full=Phosphatidylserine decarboxylase alpha chain {ECO:0000255|HAMAP-Rule:MF_00662}; Contains: RecName: Full=Phosphatidylserine decarboxylase beta chain {ECO:0000255|HAMAP-Rule:MF_00662};
+
+QUEC_LEGPH              Reviewed;         228 AA.
+
+RecName: Full=7-cyano-7-deazaguanine synthase {ECO:0000255|HAMAP-Rule:MF_01633}; EC=6.3.4.20 {ECO:0000255|HAMAP-Rule:MF_01633}; AltName: Full=7-cyano-7-carbaguanine synthase {ECO:0000255|HAMAP-Rule:MF_01633}; AltName: Full=PreQ(0) synthase {ECO:0000255|HAMAP-Rule:MF_01633}; AltName: Full=Queuosine biosynthesis protein QueC {ECO:0000255|HAMAP-Rule:MF_01633};
+
+RL34_LEGPH              Reviewed;          44 AA.
+
+RecName: Full=50S ribosomal protein L34 {ECO:0000255|HAMAP-Rule:MF_00391};
+
+RLME_LEGPH              Reviewed;         206 AA.
+
+RecName: Full=Ribosomal RNA large subunit methyltransferase E {ECO:0000255|HAMAP-Rule:MF_01547}; EC=2.1.1.166 {ECO:0000255|HAMAP-Rule:MF_01547}; AltName: Full=23S rRNA Um2552 methyltransferase {ECO:0000255|HAMAP-Rule:MF_01547}; AltName: Full=rRNA (uridine-2'-O-)-methyltransferase {ECO:0000255|HAMAP-Rule:MF_01547};
+
+RPPH_LEGPH              Reviewed;         175 AA.
+
+RecName: Full=RNA pyrophosphohydrolase {ECO:0000255|HAMAP-Rule:MF_00298}; EC=3.6.1.- {ECO:0000255|HAMAP-Rule:MF_00298}; AltName: Full=(Di)nucleoside polyphosphate hydrolase {ECO:0000255|HAMAP-Rule:MF_00298};
+
+RSMA_LEGPH              Reviewed;         256 AA.
+
+RecName: Full=Ribosomal RNA small subunit methyltransferase A {ECO:0000255|HAMAP-Rule:MF_00607}; EC=2.1.1.182 {ECO:0000255|HAMAP-Rule:MF_00607}; AltName: Full=16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase {ECO:0000255|HAMAP-Rule:MF_00607}; AltName: Full=16S rRNA dimethyladenosine transferase {ECO:0000255|HAMAP-Rule:MF_00607}; AltName: Full=16S rRNA dimethylase {ECO:0000255|HAMAP-Rule:MF_00607}; AltName: Full=S-adenosylmethionine-6-N', N'-adenosyl(rRNA) dimethyltransferase {ECO:0000255|HAMAP-Rule:MF_00607};
+
+RSMG_LEGPH              Reviewed;         208 AA.
+
+RecName: Full=Ribosomal RNA small subunit methyltransferase G {ECO:0000255|HAMAP-Rule:MF_00074}; EC=2.1.1.170 {ECO:0000255|HAMAP-Rule:MF_00074}; AltName: Full=16S rRNA 7-methylguanosine methyltransferase {ECO:0000255|HAMAP-Rule:MF_00074}; Short=16S rRNA m7G methyltransferase {ECO:0000255|HAMAP-Rule:MF_00074};
+
+SODF_LEGPH              Reviewed;         192 AA.
+
+RecName: Full=Superoxide dismutase [Fe]; EC=1.15.1.1;
+
+SSRP_LEGPH              Reviewed;         156 AA.
+
+RecName: Full=SsrA-binding protein {ECO:0000255|HAMAP-Rule:MF_00023};
+
+SYM_LEGPH               Reviewed;         670 AA.
+
+RecName: Full=Methionine--tRNA ligase {ECO:0000255|HAMAP-Rule:MF_00098}; EC=6.1.1.10 {ECO:0000255|HAMAP-Rule:MF_00098}; AltName: Full=Methionyl-tRNA synthetase {ECO:0000255|HAMAP-Rule:MF_00098}; Short=MetRS {ECO:0000255|HAMAP-Rule:MF_00098};
+
+TYSY_LEGPH              Reviewed;         264 AA.
+
+RecName: Full=Thymidylate synthase {ECO:0000255|HAMAP-Rule:MF_00008}; Short=TS {ECO:0000255|HAMAP-Rule:MF_00008}; Short=TSase {ECO:0000255|HAMAP-Rule:MF_00008}; EC=2.1.1.45 {ECO:0000255|HAMAP-Rule:MF_00008};
+
+UBID_LEGPH              Reviewed;         488 AA.
+
+RecName: Full=3-octaprenyl-4-hydroxybenzoate carboxy-lyase {ECO:0000255|HAMAP-Rule:MF_01636}; EC=4.1.1.- {ECO:0000255|HAMAP-Rule:MF_01636}; AltName: Full=Polyprenyl p-hydroxybenzoate decarboxylase {ECO:0000255|HAMAP-Rule:MF_01636};
+
+UBIE_LEGPH              Reviewed;         250 AA.
+
+RecName: Full=Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE {ECO:0000255|HAMAP-Rule:MF_01813}; EC=2.1.1.163 {ECO:0000255|HAMAP-Rule:MF_01813}; EC=2.1.1.201 {ECO:0000255|HAMAP-Rule:MF_01813}; AltName: Full=2-methoxy-6-polyprenyl-1,4-benzoquinol methylase {ECO:0000255|HAMAP-Rule:MF_01813}; AltName: Full=Demethylmenaquinone methyltransferase {ECO:0000255|HAMAP-Rule:MF_01813};
+
+Y2838_LEGPH             Reviewed;         254 AA.
+
+RecName: Full=UPF0176 protein lpg2838 {ECO:0000255|HAMAP-Rule:MF_00469};
+
+Y2959_LEGPH             Reviewed;         530 AA.
+
+RecName: Full=UPF0422 protein lpg2959; Flags: Precursor;
+
+Y2994_LEGPH             Reviewed;         118 AA.
+
+RecName: Full=UPF0102 protein lpg2994 {ECO:0000255|HAMAP-Rule:MF_00048};
+
+YIDC_LEGPH              Reviewed;         556 AA.
+
+RecName: Full=Membrane protein insertase YidC {ECO:0000255|HAMAP-Rule:MF_01810}; AltName: Full=Foldase YidC {ECO:0000255|HAMAP-Rule:MF_01810}; AltName: Full=Membrane integrase YidC {ECO:0000255|HAMAP-Rule:MF_01810}; AltName: Full=Membrane protein YidC {ECO:0000255|HAMAP-Rule:MF_01810};
+
+YIDD_LEGPH              Reviewed;          81 AA.
+
+RecName: Full=Putative membrane protein insertion efficiency factor {ECO:0000255|HAMAP-Rule:MF_00386};
+
+Q5ZRC7_LEGPH            Unreviewed;       103 AA.
+
+RecName: Full=Integration host factor subunit beta {ECO:0000256|RuleBase:RU003941, ECO:0000256|SAAS:SAAS00021215};
+
+Q5ZRK0_LEGPH            Unreviewed;       204 AA.
+
+SubName: Full=Iron-sulfur cluster binding protein {ECO:0000313|EMBL:AAU28928.1};
+
+Q5ZRM0_LEGPH            Unreviewed;       329 AA.
+
+RecName: Full=tRNA-dihydrouridine synthase {ECO:0000256|PIRNR:PIRNR006621}; EC=1.-.-.- {ECO:0000256|PIRNR:PIRNR006621};
+
+Q5ZRK1_LEGPH            Unreviewed;       211 AA.
+
+RecName: Full=Endonuclease III {ECO:0000256|HAMAP-Rule:MF_00942, ECO:0000256|PIRNR:PIRNR001435}; EC=4.2.99.18 {ECO:0000256|HAMAP-Rule:MF_00942, ECO:0000256|PIRNR:PIRNR001435}; AltName: Full=DNA-(apurinic or apyrimidinic site) lyase {ECO:0000256|HAMAP-Rule:MF_00942};
+
+Q5ZR96_LEGPH            Unreviewed;        91 AA.
+
+RecName: Full=ATP synthase subunit c {ECO:0000256|SAAS:SAAS00106001};
+
+Q5ZRQ5_LEGPH            Unreviewed;        68 AA.
+
+SubName: Full=Cold shock protein CspE {ECO:0000313|EMBL:AAU28873.1};
+
+Q5ZRT2_LEGPH            Unreviewed;       639 AA.
+
+RecName: Full=ATP-dependent zinc metalloprotease FtsH {ECO:0000256|HAMAP-Rule:MF_01458}; EC=3.4.24.- {ECO:0000256|HAMAP-Rule:MF_01458};
+
+Q5ZRL5_LEGPH            Unreviewed;       725 AA.
+
+SubName: Full=Primosomal protein N {ECO:0000313|EMBL:AAU28913.1};
+
+Q5ZRB1_LEGPH            Unreviewed;       556 AA.
+
+SubName: Full=Malate dehydrogenase (NAD-linked), malic enzyme {ECO:0000313|EMBL:AAU29017.1}; EC=1.1.1.38 {ECO:0000313|EMBL:AAU29017.1};
+
+Q5ZRD9_LEGPH            Unreviewed;       276 AA.
+
+RecName: Full=Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase {ECO:0000256|SAAS:SAAS00064156}; EC=2.3.1.129 {ECO:0000256|SAAS:SAAS00064186};
+
+Q5ZRG0_LEGPH            Unreviewed;       415 AA.
+
+SubName: Full=ABC transporter, permease {ECO:0000313|EMBL:AAU28968.1};
+
+Q5ZRB4_LEGPH            Unreviewed;       389 AA.
+
+RecName: Full=Acetylornithine aminotransferase {ECO:0000256|HAMAP-Rule:MF_01107}; Short=ACOAT {ECO:0000256|HAMAP-Rule:MF_01107}; EC=2.6.1.11 {ECO:0000256|HAMAP-Rule:MF_01107};
+
+Q5ZRP9_LEGPH            Unreviewed;       621 AA.
+
+SubName: Full=VipD {ECO:0000313|EMBL:AAU28879.1};
+
+Q5ZRB8_LEGPH            Unreviewed;       207 AA.
+
+RecName: Full=Ribonuclease T {ECO:0000256|HAMAP-Rule:MF_00157, ECO:0000256|SAAS:SAAS00082443}; EC=3.1.13.- {ECO:0000256|HAMAP-Rule:MF_00157, ECO:0000256|SAAS:SAAS00082423}; AltName: Full=Exoribonuclease T {ECO:0000256|HAMAP-Rule:MF_00157};
+
+Q5ZRN0_LEGPH            Unreviewed;        71 AA.
+
+SubName: Full=Cold shock transcriptional regulator CspA {ECO:0000313|EMBL:AAU28898.1};
+
+Q5ZRL0_LEGPH            Unreviewed;       764 AA.
+
+SubName: Full=Phosphoenolpyruvate protein phosphotransferase PtsP {ECO:0000313|EMBL:AAU28918.1}; EC=2.7.3.9 {ECO:0000313|EMBL:AAU28918.1};
+
+Q5ZRB9_LEGPH            Unreviewed;       359 AA.
+
+RecName: Full=Dihydroorotase {ECO:0000256|RuleBase:RU003440, ECO:0000256|SAAS:SAAS00106694}; EC=3.5.2.3 {ECO:0000256|RuleBase:RU003440, ECO:0000256|SAAS:SAAS00106688};
+
+Q5ZR79_LEGPH            Unreviewed;        62 AA.
+
+RecName: Full=Ribonuclease P protein component {ECO:0000256|SAAS:SAAS00022577}; EC=3.1.26.5 {ECO:0000256|SAAS:SAAS00022596};
+
+Q5ZRI4_LEGPH            Unreviewed;       401 AA.
+
+RecName: Full=Cytochrome c oxidase subunit 2 {ECO:0000256|RuleBase:RU004024}; EC=1.9.3.1 {ECO:0000256|RuleBase:RU004024};
+
+Q5ZRH4_LEGPH            Unreviewed;       289 AA.
+
+RecName: Full=Peptide methionine sulfoxide reductase MsrA {ECO:0000256|HAMAP-Rule:MF_01401}; Short=Protein-methionine-S-oxide reductase {ECO:0000256|HAMAP-Rule:MF_01401}; EC=1.8.4.11 {ECO:0000256|HAMAP-Rule:MF_01401}; AltName: Full=Peptide-methionine (S)-S-oxide reductase {ECO:0000256|HAMAP-Rule:MF_01401};
+
+Q5ZRL6_LEGPH            Unreviewed;       164 AA.
+
+SubName: Full=6-pyruvoyl tetrahydropterin synthase, putative {ECO:0000313|EMBL:AAU28912.1}; EC=4.2.3.12 {ECO:0000313|EMBL:AAU28912.1};
+
+Q5ZRM1_LEGPH            Unreviewed;       158 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28907.1};
+
+Q5ZRK7_LEGPH            Unreviewed;       294 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28921.1};
+
+Q5ZRP3_LEGPH            Unreviewed;       433 AA.
+
+SubName: Full=Phospholipase/lecithinase/hemolysin, lysophospholipase A, glycerophospholipid-cholesterol acyltransferase {ECO:0000313|EMBL:AAU28885.1};
+
+Q5ZRM3_LEGPH            Unreviewed;       303 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28905.1};
+
+Q5ZRC9_LEGPH            Unreviewed;       241 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28999.1};
+
+Q5ZRH7_LEGPH            Unreviewed;       549 AA.
+
+RecName: Full=Probable protein kinase UbiB {ECO:0000256|HAMAP-Rule:MF_00414, ECO:0000256|SAAS:SAAS00091726}; EC=2.7.-.- {ECO:0000256|HAMAP-Rule:MF_00414, ECO:0000256|SAAS:SAAS00091724}; AltName: Full=Ubiquinone biosynthesis protein UbiB {ECO:0000256|HAMAP-Rule:MF_00414};
+
+Q5ZRG4_LEGPH            Unreviewed;       325 AA.
+
+SubName: Full=Lytic murein transglycosylase {ECO:0000313|EMBL:AAU28964.1};
+
+Q5ZRI0_LEGPH            Unreviewed;       141 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28948.1};
+
+Q5ZR94_LEGPH            Unreviewed;       131 AA.
+
+SubName: Full=ATP synthase protein I {ECO:0000313|EMBL:AAU29034.1};
+
+Q5ZRB0_LEGPH            Unreviewed;       322 AA.
+
+RecName: Full=Threonylcarbamoyl-AMP synthase {ECO:0000256|PIRNR:PIRNR004930}; Short=TC-AMP synthase {ECO:0000256|PIRNR:PIRNR004930}; EC=2.7.7.87 {ECO:0000256|PIRNR:PIRNR004930}; AltName: Full=L-threonylcarbamoyladenylate synthase {ECO:0000256|PIRNR:PIRNR004930};
+
+Q5ZRD2_LEGPH            Unreviewed;       321 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28996.1};
+
+Q5ZRE8_LEGPH            Unreviewed;       423 AA.
+
+RecName: Full=Transcription termination factor Rho {ECO:0000256|HAMAP-Rule:MF_01884}; EC=3.6.4.- {ECO:0000256|HAMAP-Rule:MF_01884}; AltName: Full=ATP-dependent helicase Rho {ECO:0000256|HAMAP-Rule:MF_01884};
+
+Q5ZRM2_LEGPH            Unreviewed;       331 AA.
+
+SubName: Full=MoxR protein (ATPase) methanol dehydrogenase regulatory protein {ECO:0000313|EMBL:AAU28906.1};
+
+Q5ZRE3_LEGPH            Unreviewed;       390 AA.
+
+SubName: Full=Hypothetical BNR/Asp box repeat protein {ECO:0000313|EMBL:AAU28985.1};
+
+Q5ZR87_LEGPH            Unreviewed;       283 AA.
+
+RecName: Full=Ribosomal RNA small subunit methyltransferase I {ECO:0000256|HAMAP-Rule:MF_01877}; EC=2.1.1.198 {ECO:0000256|HAMAP-Rule:MF_01877}; AltName: Full=16S rRNA 2'-O-ribose C1402 methyltransferase {ECO:0000256|HAMAP-Rule:MF_01877}; AltName: Full=rRNA (cytidine-2'-O-)-methyltransferase RsmI {ECO:0000256|HAMAP-Rule:MF_01877};
+
+Q5ZRQ8_LEGPH            Unreviewed;       608 AA.
+
+SubName: Full=Virulence regulator BipA {ECO:0000313|EMBL:AAU28870.1};
+
+Q5ZRH1_LEGPH            Unreviewed;       423 AA.
+
+SubName: Full=Serine carboxypeptidase {ECO:0000313|EMBL:AAU28957.1}; EC=3.4.16.- {ECO:0000313|EMBL:AAU28957.1};
+
+Q5ZRR6_LEGPH            Unreviewed;       422 AA.
+
+SubName: Full=Aminopeptidase {ECO:0000313|EMBL:AAU28862.1};
+
+Q5ZRE1_LEGPH            Unreviewed;       282 AA.
+
+SubName: Full=WaaM {ECO:0000313|EMBL:AAU28987.1}; EC=2.3.1.- {ECO:0000313|EMBL:AAU28987.1};
+
+Q5ZRL8_LEGPH            Unreviewed;       259 AA.
+
+SubName: Full=Pteridine reductase 1 {ECO:0000313|EMBL:AAU28910.1};
+
+Q5ZRP0_LEGPH            Unreviewed;       172 AA.
+
+SubName: Full=Peroxiredoxin, AhpC/TSA family protein {ECO:0000313|EMBL:AAU28888.1};
+
+Q5ZRJ0_LEGPH            Unreviewed;       256 AA.
+
+SubName: Full=Sporulation initiation inhibitor protein Soj {ECO:0000313|EMBL:AAU28938.1};
+
+Q5ZRG1_LEGPH            Unreviewed;       108 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28967.1};
+
+Q5ZR91_LEGPH            Unreviewed;       190 AA.
+
+SubName: Full=Periplasmic protein {ECO:0000313|EMBL:AAU29037.1};
+
+Q5ZRP8_LEGPH            Unreviewed;       546 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28880.1};
+
+Q5ZRH8_LEGPH            Unreviewed;       207 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28950.1};
+
+Q5ZR95_LEGPH            Unreviewed;       292 AA.
+
+RecName: Full=ATP synthase subunit a {ECO:0000256|HAMAP-Rule:MF_01393, ECO:0000256|RuleBase:RU000483}; AltName: Full=ATP synthase F0 sector subunit a {ECO:0000256|HAMAP-Rule:MF_01393}; AltName: Full=F-ATPase subunit 6 {ECO:0000256|HAMAP-Rule:MF_01393};
+
+Q5ZRB7_LEGPH            Unreviewed;       201 AA.
+
+SubName: Full=Peroxynitrite reductase, AhpC/Tsa family {ECO:0000313|EMBL:AAU29011.1};
+
+Q5ZRE6_LEGPH            Unreviewed;       244 AA.
+
+RecName: Full=Ribosomal RNA small subunit methyltransferase E {ECO:0000256|PIRNR:PIRNR015601}; EC=2.1.1.193 {ECO:0000256|PIRNR:PIRNR015601};
+
+Q5ZRC8_LEGPH            Unreviewed;       238 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU29000.1};
+
+Q5ZRR7_LEGPH            Unreviewed;       286 AA.
+
+SubName: Full=VipE {ECO:0000313|EMBL:AAU28861.1};
+
+Q5ZRP7_LEGPH            Unreviewed;       126 AA.
+
+SubName: Full=Acyl-CoA thioester hydrolase {ECO:0000313|EMBL:AAU28881.1}; EC=3.1.2.- {ECO:0000313|EMBL:AAU28881.1};
+
+Q5ZRG6_LEGPH            Unreviewed;       178 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28962.1};
+
+Q5ZRF7_LEGPH            Unreviewed;       542 AA.
+
+SubName: Full=Outer membrane efflux protein {ECO:0000313|EMBL:AAU28971.1};
+
+Q5ZRF0_LEGPH            Unreviewed;       245 AA.
+
+SubName: Full=CDP-6-deoxy-3,4-glucoseen reductase {ECO:0000313|EMBL:AAU28978.1}; EC=1.5.1.30 {ECO:0000313|EMBL:AAU28978.1};
+
+Q5ZRF2_LEGPH            Unreviewed;       241 AA.
+
+RecName: Full=Sec-independent protein translocase protein TatC {ECO:0000256|HAMAP-Rule:MF_00902};
+
+Q5ZRR5_LEGPH            Unreviewed;       683 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28863.1};
+
+Q5ZRA7_LEGPH            Unreviewed;       509 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU29021.1};
+
+Q5ZRK5_LEGPH            Unreviewed;       413 AA.
+
+SubName: Full=Arsenite efflux protein ArsB {ECO:0000313|EMBL:AAU28923.1};
+
+Q5ZRJ6_LEGPH            Unreviewed;       184 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28932.1};
+
+Q5ZRG9_LEGPH            Unreviewed;       480 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28959.1};
+
+Q5ZRQ2_LEGPH            Unreviewed;       418 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28876.1};
+
+Q5ZRE0_LEGPH            Unreviewed;       356 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28988.1};
+
+Q5ZRH2_LEGPH            Unreviewed;       644 AA.
+
+RecName: Full=Amine oxidase {ECO:0000256|RuleBase:RU000672};
+
+Q5ZRE5_LEGPH            Unreviewed;       464 AA.
+
+RecName: Full=Fumarate hydratase class II {ECO:0000256|HAMAP-Rule:MF_00743}; Short=Fumarase C {ECO:0000256|HAMAP-Rule:MF_00743}; EC=4.2.1.2 {ECO:0000256|HAMAP-Rule:MF_00743};
+
+Q5ZRF8_LEGPH            Unreviewed;       381 AA.
+
+SubName: Full=Lipoprotein {ECO:0000313|EMBL:AAU28970.1};
+
+Q5ZRM9_LEGPH            Unreviewed;       502 AA.
+
+SubName: Full=Protoporphyrinogen oxidase {ECO:0000313|EMBL:AAU28899.1}; EC=1.3.3.4 {ECO:0000313|EMBL:AAU28899.1};
+
+Q5ZR84_LEGPH            Unreviewed;       266 AA.
+
+SubName: Full=Astacin protease {ECO:0000313|EMBL:AAU29044.1};
+
+Q5ZRJ4_LEGPH            Unreviewed;       497 AA.
+
+SubName: Full=Phosphomannose isomerase GDP mannose pyrophosphorylase {ECO:0000313|EMBL:AAU28934.1}; EC=2.7.7.22 {ECO:0000313|EMBL:AAU28934.1};
+
+Q5ZR85_LEGPH            Unreviewed;       725 AA.
+
+SubName: Full=Sulfate transporter {ECO:0000313|EMBL:AAU29043.1};
+
+Q5ZRN4_LEGPH            Unreviewed;        77 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28894.1};
+
+Q5ZRC4_LEGPH            Unreviewed;       501 AA.
+
+SubName: Full=Transmembrane protein {ECO:0000313|EMBL:AAU29004.1};
+
+Q5ZRK8_LEGPH            Unreviewed;       336 AA.
+
+SubName: Full=L-asparaginase I (Cytoplasmic) {ECO:0000313|EMBL:AAU28920.1};
+
+Q5ZRG8_LEGPH            Unreviewed;        96 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28960.1};
+
+Q5ZRR0_LEGPH            Unreviewed;       336 AA.
+
+SubName: Full=Aldo/keto reductase {ECO:0000313|EMBL:AAU28868.1};
+
+Q5ZR83_LEGPH            Unreviewed;       612 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU29045.1};
+
+Q5ZRI7_LEGPH            Unreviewed;       289 AA.
+
+SubName: Full=Cytochrome c oxidase, subunit III {ECO:0000313|EMBL:AAU28941.1}; EC=1.9.3.1 {ECO:0000313|EMBL:AAU28941.1};
+
+Q5ZRN1_LEGPH            Unreviewed;       434 AA.
+
+SubName: Full=TPR repeat {ECO:0000313|EMBL:AAU28897.1};
+
+Q5ZRN2_LEGPH            Unreviewed;       337 AA.
+
+SubName: Full=Ribonuclease, T2 family {ECO:0000313|EMBL:AAU28896.1};
+
+Q5ZRS8_LEGPH            Unreviewed;       245 AA.
+
+SubName: Full=DnaA-like family protein {ECO:0000313|EMBL:AAU28850.1};
+
+Q5ZRD1_LEGPH            Unreviewed;       316 AA.
+
+SubName: Full=Cystathionine beta synthase {ECO:0000313|EMBL:AAU28997.1}; EC=2.5.1.47 {ECO:0000313|EMBL:AAU28997.1};
+
+Q5ZRI2_LEGPH            Unreviewed;       342 AA.
+
+SubName: Full=CapM protein, capsular polysaccharide biosynthesis {ECO:0000313|EMBL:AAU28946.1};
+
+Q5ZRS9_LEGPH            Unreviewed;       184 AA.
+
+SubName: Full=Phosphatidylglycerophosphate synthase {ECO:0000313|EMBL:AAU28849.1}; EC=2.7.8.5 {ECO:0000313|EMBL:AAU28849.1};
+
+Q5ZRQ6_LEGPH            Unreviewed;       555 AA.
+
+RecName: Full=DNA repair protein RecN {ECO:0000256|PIRNR:PIRNR003128}; AltName: Full=Recombination protein N {ECO:0000256|PIRNR:PIRNR003128};
+
+Q5ZRC1_LEGPH            Unreviewed;       288 AA.
+
+SubName: Full=Major outer membrane protein {ECO:0000313|EMBL:AAU29007.1};
+
+Q5ZRF5_LEGPH            Unreviewed;       449 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28973.1};
+
+Q5ZRG2_LEGPH            Unreviewed;       139 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28966.1};
+
+Q5ZRS6_LEGPH            Unreviewed;       468 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28852.1};
+
+Q5ZRK4_LEGPH            Unreviewed;       429 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28924.1};
+
+Q5ZRS5_LEGPH            Unreviewed;       500 AA.
+
+SubName: Full=Peptide transport protein, POT family {ECO:0000313|EMBL:AAU28853.1};
+
+Q5ZRS4_LEGPH            Unreviewed;       460 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28854.1};
+
+Q5ZRI9_LEGPH            Unreviewed;       289 AA.
+
+SubName: Full=Chromosome partitioning protein ParB {ECO:0000313|EMBL:AAU28939.1};
+
+Q5ZRC0_LEGPH            Unreviewed;       299 AA.
+
+SubName: Full=Sodium-type flagellar protein {ECO:0000313|EMBL:AAU29008.1};
+
+Q5ZRK3_LEGPH            Unreviewed;       354 AA.
+
+SubName: Full=Cobalt/magnesium uptake transporter {ECO:0000313|EMBL:AAU28925.1};
+
+Q5ZRP6_LEGPH            Unreviewed;       789 AA.
+
+SubName: Full=Transcription accessory protein {ECO:0000313|EMBL:AAU28882.1};
+
+Q5ZRI3_LEGPH            Unreviewed;       537 AA.
+
+SubName: Full=Cytochrome c {ECO:0000313|EMBL:AAU28945.1};
+
+Q5ZRD4_LEGPH            Unreviewed;       104 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28994.1};
+
+Q5ZRN9_LEGPH            Unreviewed;       399 AA.
+
+SubName: Full=Major facilitator superfamily {ECO:0000313|EMBL:AAU28889.1};
+
+Q5ZRQ3_LEGPH            Unreviewed;       325 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28875.1};
+
+Q5ZRI6_LEGPH            Unreviewed;       181 AA.
+
+SubName: Full=Cytochrome c oxidase, assembly transmembrane protein CoxG {ECO:0000313|EMBL:AAU28942.1};
+
+Q5ZRD5_LEGPH            Unreviewed;       600 AA.
+
+SubName: Full=ABC transporter, ATP binding protein {ECO:0000313|EMBL:AAU28993.1};
+
+Q5ZRK2_LEGPH            Unreviewed;       583 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28926.1};
+
+Q5ZRS7_LEGPH            Unreviewed;       285 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28851.1};
+
+Q5ZRN3_LEGPH            Unreviewed;       320 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28895.1};
+
+Q5ZRA8_LEGPH            Unreviewed;       871 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU29020.1};
+
+Q5ZRH6_LEGPH            Unreviewed;        89 AA.
+
+SubName: Full=Sec-independent protein translocase TatB {ECO:0000313|EMBL:AAU28952.1};
+
+Q3V863_LEGPH            Unreviewed;       575 AA.
+
+SubName: Full=Siderophore biosynthetic protein, iron repressed gene FrgA {ECO:0000313|EMBL:AAU28848.1};
+
+Q5ZRR9_LEGPH            Unreviewed;       426 AA.
+
+RecName: Full=UPF0229 protein lpg2811 {ECO:0000256|HAMAP-Rule:MF_01232};
+
+Q5ZRB2_LEGPH            Unreviewed;       262 AA.
+
+SubName: Full=Glycerophosphoryl diester phosphodiesterase {ECO:0000313|EMBL:AAU29016.1}; EC=3.1.4.46 {ECO:0000313|EMBL:AAU29016.1};
+
+Q5ZRD3_LEGPH            Unreviewed;       608 AA.
+
+SubName: Full=Asparagine synthetase (B) {ECO:0000313|EMBL:AAU28995.1};
+
+Q5ZRL4_LEGPH            Unreviewed;       130 AA.
+
+SubName: Full=Thioesterase {ECO:0000313|EMBL:AAU28914.1};
+
+Q5ZRL7_LEGPH            Unreviewed;       372 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28911.1};
+
+Q5ZR88_LEGPH            Unreviewed;       603 AA.
+
+SubName: Full=Lipoprotein {ECO:0000313|EMBL:AAU29040.1};
+
+Q5ZRA3_LEGPH            Unreviewed;       751 AA.
+
+RecName: Full=DNA topoisomerase 4 subunit A {ECO:0000256|HAMAP-Rule:MF_00936}; EC=5.99.1.3 {ECO:0000256|HAMAP-Rule:MF_00936}; AltName: Full=Topoisomerase IV subunit A {ECO:0000256|HAMAP-Rule:MF_00936};
+
+Q5ZRB3_LEGPH            Unreviewed;       261 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU29015.1};
+
+Q5ZRA6_LEGPH            Unreviewed;       449 AA.
+
+SubName: Full=Zinc metalloprotease (Virulence metalloprotease) {ECO:0000313|EMBL:AAU29022.1}; EC=3.4.24.- {ECO:0000313|EMBL:AAU29022.1};
+
+Q5ZRS3_LEGPH            Unreviewed;       370 AA.
+
+SubName: Full=Patatin family protein {ECO:0000313|EMBL:AAU28855.1};
+
+Q5ZR86_LEGPH            Unreviewed;       388 AA.
+
+SubName: Full=Alkane-1-monooxygenase {ECO:0000313|EMBL:AAU29042.1};
+
+Q5ZRQ1_LEGPH            Unreviewed;      2225 AA.
+
+SubName: Full=SidH {ECO:0000313|EMBL:AAU28877.1};
+
+Q5ZRE2_LEGPH            Unreviewed;       278 AA.
+
+SubName: Full=Lipid A lauroyl acyltransferase {ECO:0000313|EMBL:AAU28986.1}; EC=2.3.1.- {ECO:0000313|EMBL:AAU28986.1};
+
+Q5ZRN5_LEGPH            Unreviewed;       269 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28893.1};
+
+Q5ZRG5_LEGPH            Unreviewed;       348 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28963.1};
+
+Q5ZRN6_LEGPH            Unreviewed;       361 AA.
+
+SubName: Full=Hypothetical histidine-rich protein {ECO:0000313|EMBL:AAU28892.1};
+
+Q5ZRS1_LEGPH            Unreviewed;       865 AA.
+
+SubName: Full=Aminopeptidase N {ECO:0000313|EMBL:AAU28857.1}; EC=3.4.11.2 {ECO:0000313|EMBL:AAU28857.1};
+
+Q5ZRM5_LEGPH            Unreviewed;       310 AA.
+
+SubName: Full=TPR (Repeat) domain protein {ECO:0000313|EMBL:AAU28903.1};
+
+Q5ZRG7_LEGPH            Unreviewed;        73 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28961.1};
+
+Q5ZRA4_LEGPH            Unreviewed;       284 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU29024.1};
+
+Q5ZRF9_LEGPH            Unreviewed;       233 AA.
+
+SubName: Full=ABC transporter, ATP binding protein {ECO:0000313|EMBL:AAU28969.1};
+
+Q5ZRH0_LEGPH            Unreviewed;       495 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28958.1};
+
+Q5ZRC2_LEGPH            Unreviewed;       323 AA.
+
+SubName: Full=Major outer membrane protein {ECO:0000313|EMBL:AAU29006.1};
+
+Q5ZRJ7_LEGPH            Unreviewed;       245 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28931.1};
+
+Q5ZRD6_LEGPH            Unreviewed;       285 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28992.1};
+
+Q5ZRH3_LEGPH            Unreviewed;        62 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28955.1};
+
+Q5ZRM4_LEGPH            Unreviewed;       352 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28904.1};
+
+Q5ZRA5_LEGPH            Unreviewed;       119 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU29023.1};
+
+Q5ZRJ8_LEGPH            Unreviewed;       189 AA.
+
+SubName: Full=3-octaprenyl-4-hydroxybenzoate carboxy-lyase {ECO:0000313|EMBL:AAU28930.1}; EC=4.1.1.- {ECO:0000313|EMBL:AAU28930.1};
+
+Q5ZRL1_LEGPH            Unreviewed;       268 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28917.1};
+
+Q5ZRD0_LEGPH            Unreviewed;       347 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28998.1};
+
+Q5ZRQ4_LEGPH            Unreviewed;       577 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28874.1};
+
+Q5ZRI1_LEGPH            Unreviewed;       201 AA.
+
+SubName: Full=Transporter, LysE family {ECO:0000313|EMBL:AAU28947.1};
+
+Q5ZRG3_LEGPH            Unreviewed;       392 AA.
+
+SubName: Full=(Serine-type) D-alanyl-D-alanine carboxypeptidase {ECO:0000313|EMBL:AAU28965.1}; EC=3.4.16.4 {ECO:0000313|EMBL:AAU28965.1};
+
+Q5ZRN8_LEGPH            Unreviewed;       468 AA.
+
+SubName: Full=PhoH protein (Phosphate starvation inducible protein) {ECO:0000313|EMBL:AAU28890.1};
+
+Q5ZRF1_LEGPH            Unreviewed;       107 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28977.1};
+
+Q5ZRE4_LEGPH            Unreviewed;       207 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28984.1};
+
+Q5ZRC5_LEGPH            Unreviewed;       259 AA.
+
+SubName: Full=Stomatin like transmembrane protein {ECO:0000313|EMBL:AAU29003.1};
+
+Q5ZRR8_LEGPH            Unreviewed;       507 AA.
+
+SubName: Full=Sporulation protein {ECO:0000313|EMBL:AAU28860.1};
+
+Q5ZR90_LEGPH            Unreviewed;       199 AA.
+
+SubName: Full=Phosphoheptose isomerase {ECO:0000313|EMBL:AAU29038.1};
+
+Q5ZRS0_LEGPH            Unreviewed;       668 AA.
+
+SubName: Full=Serine protein kinase {ECO:0000313|EMBL:AAU28858.1}; EC=2.7.11.1 {ECO:0000313|EMBL:AAU28858.1};
+
+Q5ZRL9_LEGPH            Unreviewed;       636 AA.
+
+SubName: Full=Coiled-coil containing protein {ECO:0000313|EMBL:AAU28909.1};
+
+Q5ZR92_LEGPH            Unreviewed;       195 AA.
+
+SubName: Full=Hemolysin, lipoprotein {ECO:0000313|EMBL:AAU29036.1};
+
+Q5ZRR1_LEGPH            Unreviewed;       319 AA.
+
+SubName: Full=Tyrosine phosphatase II superfamily protein {ECO:0000313|EMBL:AAU28867.1};
+
+Q5ZR93_LEGPH            Unreviewed;        47 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU29035.1};
+
+Q5ZRJ3_LEGPH            Unreviewed;       637 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28935.1};
+
+Q5ZRT0_LEGPH            Unreviewed;       658 AA.
+
+SubName: Full=O-acetyltransferase {ECO:0000313|EMBL:AAU28847.1};
+
+Q5ZRI8_LEGPH            Unreviewed;       180 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28940.1};
+
+Q5ZRH5_LEGPH            Unreviewed;       420 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28953.1};
+
+Q5ZRR4_LEGPH            Unreviewed;       665 AA.
+
+SubName: Full=ATP-dependent DNA helicase Rep {ECO:0000313|EMBL:AAU28864.1}; EC=3.6.1.- {ECO:0000313|EMBL:AAU28864.1};
+
+Q5ZRM8_LEGPH            Unreviewed;       462 AA.
+
+SubName: Full=Amidase, 6-aminohexanoate-cyclic-dimer hydrolase {ECO:0000313|EMBL:AAU28900.1}; EC=3.5.1.4 {ECO:0000313|EMBL:AAU28900.1};
+
+Q5ZRI5_LEGPH            Unreviewed;       538 AA.
+
+SubName: Full=Cytochrome c oxidase, subunit I {ECO:0000313|EMBL:AAU28943.1}; EC=1.9.3.1 {ECO:0000313|EMBL:AAU28943.1};
+
+Q5ZRM6_LEGPH            Unreviewed;       308 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28902.1};
+
+Q5ZRN7_LEGPH            Unreviewed;       337 AA.
+
+SubName: Full=Inosine 5'-monophosphate dehydrogenase {ECO:0000313|EMBL:AAU28891.1}; EC=1.1.1.205 {ECO:0000313|EMBL:AAU28891.1};
+
+Q5ZRM7_LEGPH            Unreviewed;       552 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28901.1};
+
+Q5ZRR2_LEGPH            Unreviewed;       165 AA.
+
+SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU28866.1};
+
+Q5ZRE7_LEGPH            Unreviewed;       108 AA.
+
+RecName: Full=Thioredoxin {ECO:0000256|PIRNR:PIRNR000077};
