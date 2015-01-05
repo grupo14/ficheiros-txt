@@ -1,0 +1,2546 @@
+
+****Codigo Q5ZRF6****
+
+****Informacao sobre a proteina****
+
+
+Nome:APAH_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:276
+
+Accession:['Q5ZRF6']
+
+Criado:('01-MAR-2005', 0)
+
+Adaptacao da sequencia:('01-MAR-2005', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=Bis(5'-nucleosyl)-tetraphosphatase, symmetrical {ECO:0000255|HAMAP-Rule:MF_00199}; EC=3.6.1.41 {ECO:0000255|HAMAP-Rule:MF_00199}; AltName: Full=Ap4A hydrolase {ECO:0000255|HAMAP-Rule:MF_00199}; AltName: Full=Diadenosine 5',5'''-P1,P4-tetraphosphate pyrophosphohydrolase {ECO:0000255|HAMAP-Rule:MF_00199}; AltName: Full=Diadenosine tetraphosphatase {ECO:0000255|HAMAP-Rule:MF_00199};
+
+Nome do gene:Name=apaH {ECO:0000255|HAMAP-Rule:MF_00199}; OrderedLocusNames=lpg2926;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F99B0>]
+
+Comentarios:["FUNCTION: Hydrolyzes diadenosine 5',5'''-P1,P4-tetraphosphate to yield ADP. {ECO:0000255|HAMAP-Rule:MF_00199}.", "CATALYTIC ACTIVITY: P(1),P(4)-bis(5'-adenosyl) tetraphosphate + H(2)O = 2 ADP. {ECO:0000255|HAMAP-Rule:MF_00199}.", 'SIMILARITY: Belongs to the Ap4A hydrolase family. {ECO:0000255|HAMAP-Rule:MF_00199}.', 'SEQUENCE CAUTION: Sequence=AAU28972.1; Type=Erroneous initiation; Evidence={ECO:0000305};']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28972.1', 'ALT_INIT', 'Genomic_DNA'), ('RefSeq', 'YP_096919.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRF6', '-'), ('STRING', '272624.lpg2926', '-'), ('EnsemblBacteria', 'AAU28972', 'AAU28972', 'lpg2926'), ('GeneID', '19834491', '-'), ('KEGG', 'lpn:lpg2926', '-'), ('KEGG', 'lpu:LPE509_00086', '-'), ('PATRIC', '22333259', 'VBILegPne29832_3124'), ('eggNOG', 'COG0639', '-'), ('HOGENOM', 'HOG000251871', '-'), ('KO', 'K01525', '-'), ('OrthoDB', 'EOG66B3WP', '-'), ('BioCyc', 'LPNE272624:GHDI-2924-MONOMER', '-'), ('GO', 'GO:0008803', "F:bis(5'-nucleosyl)-tetraphosphatase (symmetrical) activity", 'IEA:UniProtKB-EC'), ('Gene3D', '3.60.21.10', '-', '2'), ('HAMAP', 'MF_00199', 'ApaH', '1'), ('InterPro', 'IPR004617', 'ApaH'), ('InterPro', 'IPR004843', 'Calcineurin-like_PHP_apaH'), ('InterPro', 'IPR029052', 'Metallo-depent_PP-like'), ('Pfam', 'PF00149', 'Metallophos', '1'), ('PIRSF', 'PIRSF000903', 'B5n-ttraPtase_sm', '1'), ('SUPFAM', 'SSF56300', 'SSF56300', '1'), ('TIGRFAMs', 'TIGR00668', 'apaH', '1')]
+
+Palavras-chave:['Complete proteome', 'Hydrolase', 'Reference proteome']
+
+Caracteristicas:[('CHAIN', 1, 276, "Bis(5'-nucleosyl)-tetraphosphatase, symmetrical.", 'PRO_0000197996')]
+
+Informacao sobre a sequencia:(276, 31453, 'FDCC154C305189D8')
+
+Sequencia:MPDYAIGDVQGCYDPLQRLLELIDFNEKEDCLWFVGDLVNRGPDSLAVLRFIYSLPVKPKITLGNHDLHLLGLLFGGQPWKGHDDTLEEVMLADDGEELGHWLRKQSLLCRSSELNIVMCHAGIAPLWDLSKAMDLANELEAVLSGDSYHEFFAQMYGNKPDIWSDDLVGLDRLRVITNYFTRMRYCDAHGRLDLGYKGTLSKAPNHLYPWFEVPCRKEIEMDIVFGHWAALMGRSSHPRIHAIDTGCLWGGQLTALRLQDRQRFSVPGYGVSRFE
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRS2****
+
+****Informacao sobre a proteina****
+
+
+Nome:AROE_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:265
+
+Accession:['Q5ZRS2']
+
+Criado:('18-MAR-2008', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=Shikimate dehydrogenase {ECO:0000255|HAMAP-Rule:MF_00222}; EC=1.1.1.25 {ECO:0000255|HAMAP-Rule:MF_00222};
+
+Nome do gene:Name=aroE {ECO:0000255|HAMAP-Rule:MF_00222}; OrderedLocusNames=lpg2808;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9898>]
+
+Comentarios:['CATALYTIC ACTIVITY: Shikimate + NADP(+) = 3-dehydroshikimate + NADPH. {ECO:0000255|HAMAP-Rule:MF_00222}.', 'PATHWAY: Metabolic intermediate biosynthesis; chorismate biosynthesis; chorismate from D-erythrose 4-phosphate and phosphoenolpyruvate: step 4/7. {ECO:0000255|HAMAP-Rule:MF_00222}.', 'SIMILARITY: Belongs to the shikimate dehydrogenase family. {ECO:0000255|HAMAP-Rule:MF_00222}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28856.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096803.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRS2', '-'), ('STRING', '272624.lpg2808', '-'), ('EnsemblBacteria', 'AAU28856', 'AAU28856', 'lpg2808'), ('GeneID', '19834373', '-'), ('KEGG', 'lpn:lpg2808', '-'), ('KEGG', 'lpu:LPE509_00223', '-'), ('PATRIC', '22332989', 'VBILegPne29832_2989'), ('eggNOG', 'COG0169', '-'), ('HOGENOM', 'HOG000237876', '-'), ('KO', 'K00014', '-'), ('OMA', 'PFKEDAY', '-'), ('OrthoDB', 'EOG6RRKMV', '-'), ('BioCyc', 'LPNE272624:GHDI-2806-MONOMER', '-'), ('UniPathway', 'UPA00053', 'UER00087'), ('GO', 'GO:0050661', 'F:NADP binding', 'IEA:InterPro'), ('GO', 'GO:0004764', 'F:shikimate 3-dehydrogenase (NADP+) activity', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0009073', 'P:aromatic amino acid family biosynthetic process', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0009423', 'P:chorismate biosynthetic process', 'IEA:UniProtKB-UniPathway'), ('GO', 'GO:0019632', 'P:shikimate metabolic process', 'IEA:InterPro'), ('Gene3D', '3.40.50.720', '-', '1'), ('HAMAP', 'MF_00222', 'Shikimate_DH_AroE', '1'), ('InterPro', 'IPR016040', 'NAD(P)-bd_dom'), ('InterPro', 'IPR011342', 'Shikimate_DH'), ('InterPro', 'IPR013708', 'Shikimate_DH-bd_N'), ('InterPro', 'IPR022893', 'Shikimate_quinate_DH'), ('InterPro', 'IPR006151', 'Shikm_DH/Glu-tRNA_Rdtase'), ('Pfam', 'PF01488', 'Shikimate_DH', '1'), ('Pfam', 'PF08501', 'Shikimate_dh_N', '1'), ('TIGRFAMs', 'TIGR00507', 'aroE', '1')]
+
+Palavras-chave:['Amino-acid biosynthesis', 'Aromatic amino acid biosynthesis', 'Complete proteome', 'NADP', 'Oxidoreductase', 'Reference proteome']
+
+Caracteristicas:[('CHAIN', 1, 265, 'Shikimate dehydrogenase.', 'PRO_0000325132'), ('NP_BIND', 125, 129, 'NADP. {ECO:0000255|HAMAP-Rule:MF_00222}.', ''), ('ACT_SITE', 66, 66, 'Proton acceptor. {ECO:0000255|HAMAP- Rule:MF_00222}.', '')]
+
+Informacao sobre a sequencia:(265, 29850, '937704D7E8EFFBA5')
+
+Sequencia:MLRRFAVIGHPIAHSLSPVIHQMFAQQTQIELIYEKILGDDVKFEQQISDFFIQYGNGLNVTLPYKKRAYELAKIRTQRCTLAGAANTLWMEENQLHADNTDGIGLIRDLSRFLELKDKKILILGAGGAARGIIFPLLEAKPLQLIVANRTLEKAEELQRQFPQINVTSFAELTEFFDLIINATSTSLSGQVIVLPEEVLSHKPFCYDLAYNQKTSTAFVQYARNGGCEAVDGLGMLVEQAAEAFFTWNKVMPSTQKILEHLRSF
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZR99****
+
+****Informacao sobre a proteina****
+
+
+Nome:ATPA2_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:517
+
+Accession:['Q5ZR99']
+
+Criado:('30-MAY-2006', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=ATP synthase subunit alpha 2 {ECO:0000255|HAMAP-Rule:MF_01346}; EC=3.6.3.14 {ECO:0000255|HAMAP-Rule:MF_01346}; AltName: Full=ATP synthase F1 sector subunit alpha 2 {ECO:0000255|HAMAP-Rule:MF_01346}; AltName: Full=F-ATPase subunit alpha 2 {ECO:0000255|HAMAP-Rule:MF_01346};
+
+Nome do gene:Name=atpA2 {ECO:0000255|HAMAP-Rule:MF_01346}; OrderedLocusNames=lpg2984;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9CF8>]
+
+Comentarios:['FUNCTION: Produces ATP from ADP in the presence of a proton gradient across the membrane. The alpha chain is a regulatory subunit. {ECO:0000255|HAMAP-Rule:MF_01346}.', 'CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate + H(+)(Out). {ECO:0000255|HAMAP-Rule:MF_01346}.', 'SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a(1), b(2) and c(9-12). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. CF(1) is attached to CF(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains. {ECO:0000255|HAMAP- Rule:MF_01346}.', 'SUBCELLULAR LOCATION: Cell inner membrane {ECO:0000255|HAMAP- Rule:MF_01346}; Peripheral membrane protein {ECO:0000255|HAMAP- Rule:MF_01346}.', 'SIMILARITY: Belongs to the ATPase alpha/beta chains family. {ECO:0000255|HAMAP-Rule:MF_01346}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29029.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096976.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZR99', '-'), ('SMR', 'Q5ZR99', '33-512'), ('STRING', '272624.lpg2984', '-'), ('EnsemblBacteria', 'AAU29029', 'AAU29029', 'lpg2984'), ('GeneID', '19834549', '-'), ('KEGG', 'lpn:lpg2984', '-'), ('KEGG', 'lpu:LPE509_00022', '-'), ('PATRIC', '22333393', 'VBILegPne29832_3190'), ('eggNOG', 'COG0056', '-'), ('HOGENOM', 'HOG000130111', '-'), ('KO', 'K02111', '-'), ('OMA', 'IRPSEIS', '-'), ('OrthoDB', 'EOG67X1S1', '-'), ('BioCyc', 'LPNE272624:GHDI-2982-MONOMER', '-'), ('GO', 'GO:0005886', 'C:plasma membrane', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0045261', 'C:proton-transporting ATP synthase complex, catalytic core F(1)', 'IEA:UniProtKB-KW'), ('GO', 'GO:0005524', 'F:ATP binding', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0046933', 'F:proton-transporting ATP synthase activity, rotational mechanism', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0046961', 'F:proton-transporting ATPase activity, rotational mechanism', 'IEA:InterPro'), ('GO', 'GO:0015991', 'P:ATP hydrolysis coupled proton transport', 'IEA:InterPro'), ('GO', 'GO:0042777', 'P:plasma membrane ATP synthesis coupled proton transport', 'IEA:UniProtKB-HAMAP'), ('Gene3D', '2.40.30.20', '-', '1'), ('Gene3D', '3.40.50.300', '-', '1'), ('HAMAP', 'MF_01346', 'ATP_synth_alpha_bact', '1'), ('InterPro', 'IPR020003', 'ATPase_a/bsu_AS'), ('InterPro', 'IPR023366', 'ATPase_asu-like'), ('InterPro', 'IPR005294', 'ATPase_F1-cplx_asu'), ('InterPro', 'IPR000793', 'ATPase_F1/V1/A1-cplx_a/bsu_C'), ('InterPro', 'IPR000194', 'ATPase_F1/V1/A1_a/bsu_nucl-bd'), ('InterPro', 'IPR004100', 'ATPase_F1_a/bsu_N'), ('InterPro', 'IPR027417', 'P-loop_NTPase'), ('PANTHER', 'PTHR15184:SF3', 'PTHR15184:SF3', '1'), ('Pfam', 'PF00006', 'ATP-synt_ab', '1'), ('Pfam', 'PF00306', 'ATP-synt_ab_C', '1'), ('Pfam', 'PF02874', 'ATP-synt_ab_N', '1'), ('SUPFAM', 'SSF47917', 'SSF47917', '1'), ('SUPFAM', 'SSF50615', 'SSF50615', '1'), ('SUPFAM', 'SSF52540', 'SSF52540', '1'), ('TIGRFAMs', 'TIGR00962', 'atpA', '1'), ('PROSITE', 'PS00152', 'ATPASE_ALPHA_BETA', '1')]
+
+Palavras-chave:['ATP synthesis', 'ATP-binding', 'Cell inner membrane', 'Cell membrane', 'CF(1)', 'Complete proteome', 'Hydrogen ion transport', 'Hydrolase', 'Ion transport', 'Membrane', 'Nucleotide-binding', 'Reference proteome', 'Transport']
+
+Caracteristicas:[('CHAIN', 1, 517, 'ATP synthase subunit alpha 2.', 'PRO_0000238273'), ('NP_BIND', 173, 180, 'ATP. {ECO:0000255|HAMAP-Rule:MF_01346}.', ''), ('SITE', 377, 377, 'Required for activity. {ECO:0000255|HAMAP-Rule:MF_01346}.', '')]
+
+Informacao sobre a sequencia:(517, 55528, '406D720F0BC0A2F2')
+
+Sequencia:MSEQVALNPSEISELIRKKIDQFSVVSEARNEGTIVSLKDGIVRLHGLADVMAGEMIEFPGGVYGLALNLERDSVGAVILGDSSTLAEGQKGKCTGRILEVPVGKGLLGRVVDALGNPIDGKGPIESSGMSPIEKVAPGVITRKSVDQPVQTGLKAIDAMIPVGRGQRELIIGDRQTGKTAIAIDAIINQKGTGVKCVYVAIGQKASSVASIVRKLEEHGALEHTIVVVAGASDSAALQYIAPYSGCTMGEYFMERGEDALIVYDDLTKQAWAYRQISLLLRRPPGREAYPGDIFYLHSRLLERAARINADEVEKLTNGEVKGKTGSLTALPIIETQAGDVSAFVPTNVISITDGQIFLDVDLFNSGVRPAINSGLSVSRVGGAAQTKIMKKLGGGTRLALAQFRELEAFSQFASDLDDATRKQLERGQRITELMKQKQYSPLTVAEMGVSLFVVEKGYLDDVPVNEISSFEASLHDYMRSTHAALLHAINEAGAYDNEIEAKLKKAVEEFKNTGSW
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRA1****
+
+****Informacao sobre a proteina****
+
+
+Nome:ATPB_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:458
+
+Accession:['Q5ZRA1']
+
+Criado:('31-OCT-2006', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=ATP synthase subunit beta {ECO:0000255|HAMAP-Rule:MF_01347}; EC=3.6.3.14 {ECO:0000255|HAMAP-Rule:MF_01347}; AltName: Full=ATP synthase F1 sector subunit beta {ECO:0000255|HAMAP-Rule:MF_01347}; AltName: Full=F-ATPase subunit beta {ECO:0000255|HAMAP-Rule:MF_01347};
+
+Nome do gene:Name=atpD {ECO:0000255|HAMAP-Rule:MF_01347}; OrderedLocusNames=lpg2982;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9B70>]
+
+Comentarios:['FUNCTION: Produces ATP from ADP in the presence of a proton gradient across the membrane. The catalytic sites are hosted primarily by the beta subunits. {ECO:0000255|HAMAP-Rule:MF_01347}.', 'CATALYTIC ACTIVITY: ATP + H(2)O + H(+)(In) = ADP + phosphate + H(+)(Out). {ECO:0000255|HAMAP-Rule:MF_01347}.', 'SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a(1), b(2) and c(9-12). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. CF(1) is attached to CF(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains. {ECO:0000255|HAMAP- Rule:MF_01347}.', 'SUBCELLULAR LOCATION: Cell inner membrane {ECO:0000255|HAMAP- Rule:MF_01347}; Peripheral membrane protein {ECO:0000255|HAMAP- Rule:MF_01347}.', 'SIMILARITY: Belongs to the ATPase alpha/beta chains family. {ECO:0000255|HAMAP-Rule:MF_01347}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29027.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096974.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRA1', '-'), ('SMR', 'Q5ZRA1', '4-458'), ('STRING', '272624.lpg2982', '-'), ('PRIDE', 'Q5ZRA1', '-'), ('EnsemblBacteria', 'AAU29027', 'AAU29027', 'lpg2982'), ('GeneID', '19834547', '-'), ('KEGG', 'lpn:lpg2982', '-'), ('KEGG', 'lpu:LPE509_00024', '-'), ('PATRIC', '22333389', 'VBILegPne29832_3188'), ('eggNOG', 'COG0055', '-'), ('HOGENOM', 'HOG000009605', '-'), ('KO', 'K02112', '-'), ('OMA', 'KYLSQPF', '-'), ('OrthoDB', 'EOG6HQSP3', '-'), ('BioCyc', 'LPNE272624:GHDI-2980-MONOMER', '-'), ('GO', 'GO:0005886', 'C:plasma membrane', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0045261', 'C:proton-transporting ATP synthase complex, catalytic core F(1)', 'IEA:UniProtKB-KW'), ('GO', 'GO:0005524', 'F:ATP binding', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0046933', 'F:proton-transporting ATP synthase activity, rotational mechanism', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0015991', 'P:ATP hydrolysis coupled proton transport', 'IEA:InterPro'), ('GO', 'GO:0042777', 'P:plasma membrane ATP synthesis coupled proton transport', 'IEA:UniProtKB-HAMAP'), ('Gene3D', '1.10.1140.10', '-', '1'), ('Gene3D', '3.40.50.300', '-', '1'), ('HAMAP', 'MF_01347', 'ATP_synth_beta_bact', '1'), ('InterPro', 'IPR003593', 'AAA+_ATPase'), ('InterPro', 'IPR020003', 'ATPase_a/bsu_AS'), ('InterPro', 'IPR005722', 'ATPase_F1-cplx_bsu'), ('InterPro', 'IPR000793', 'ATPase_F1/V1/A1-cplx_a/bsu_C'), ('InterPro', 'IPR000194', 'ATPase_F1/V1/A1_a/bsu_nucl-bd'), ('InterPro', 'IPR004100', 'ATPase_F1_a/bsu_N'), ('InterPro', 'IPR024034', 'ATPase_F1_bsu/V1_C'), ('InterPro', 'IPR027417', 'P-loop_NTPase'), ('PANTHER', 'PTHR15184:SF8', 'PTHR15184:SF8', '1'), ('Pfam', 'PF00006', 'ATP-synt_ab', '1'), ('Pfam', 'PF00306', 'ATP-synt_ab_C', '1'), ('Pfam', 'PF02874', 'ATP-synt_ab_N', '1'), ('SMART', 'SM00382', 'AAA', '1'), ('SUPFAM', 'SSF47917', 'SSF47917', '1'), ('SUPFAM', 'SSF50615', 'SSF50615', '1'), ('SUPFAM', 'SSF52540', 'SSF52540', '1'), ('TIGRFAMs', 'TIGR01039', 'atpD', '1'), ('PROSITE', 'PS00152', 'ATPASE_ALPHA_BETA', '1')]
+
+Palavras-chave:['ATP synthesis', 'ATP-binding', 'Cell inner membrane', 'Cell membrane', 'CF(1)', 'Complete proteome', 'Hydrogen ion transport', 'Hydrolase', 'Ion transport', 'Membrane', 'Nucleotide-binding', 'Reference proteome', 'Transport']
+
+Caracteristicas:[('CHAIN', 1, 458, 'ATP synthase subunit beta.', 'PRO_0000254287'), ('NP_BIND', 148, 155, 'ATP. {ECO:0000255|HAMAP-Rule:MF_01347}.', '')]
+
+Informacao sobre a sequencia:(458, 50026, '28503ACADF451183')
+
+Sequencia:MSLGTVVEVIGAVVDVEFPRDSVPKVNDALKLVDSDLVFEVQQQLGDGVVRTIAMGTTDGLKRGLKAENTGHPIQVPVGKKTLGRIMDVLGRPVDDAGPIDAEETWAIHRKAPSYEEQAGSQELLETGIKVIDLLCPFAKGGKVGLFGGAGVGKTVNMMELIRNIAIEHSGYSVFAGVGERTREGNDFYHEMKDSNVLDKVSLVYGQMNEPPGNRLRVALTGLTMAEKFRDEGRDVLLFIDNIYRYTLAGVEVSALLGRMPSAVGYQPTLAEEMGMLQERITSTKTGSITSIQAVYVPADDLTDPSPATTFAHLDATVVLSRQIAELGIYPAVDPLDSTSRQLDPLIVGQEHYDTARRVQQTLQRYKELKDIIAILGMDELSEEDKRVVTRARKIQRFLSQPFFVAEVFTGSPGKYVSLKDTIKGFQGILAGEYDDLPEQAFYMVGSIEEAVAKAKTL
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZR98****
+
+****Informacao sobre a proteina****
+
+
+Nome:ATPD_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:180
+
+Accession:['Q5ZR98']
+
+Criado:('05-MAY-2009', 0)
+
+Adaptacao da sequencia:('05-MAY-2009', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=ATP synthase subunit delta {ECO:0000255|HAMAP-Rule:MF_01416}; AltName: Full=ATP synthase F(1) sector subunit delta {ECO:0000255|HAMAP-Rule:MF_01416}; AltName: Full=F-type ATPase subunit delta {ECO:0000255|HAMAP-Rule:MF_01416}; Short=F-ATPase subunit delta {ECO:0000255|HAMAP-Rule:MF_01416};
+
+Nome do gene:Name=atpH {ECO:0000255|HAMAP-Rule:MF_01416}; OrderedLocusNames=lpg2985;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9E48>]
+
+Comentarios:['FUNCTION: F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation. {ECO:0000255|HAMAP-Rule:MF_01416}.', 'FUNCTION: This protein is part of the stalk that links CF(0) to CF(1). It either transmits conformational changes from CF(0) to CF(1) or is implicated in proton conduction. {ECO:0000255|HAMAP- Rule:MF_01416}.', 'SUBUNIT: F-type ATPases have 2 components, F(1) - the catalytic core - and F(0) - the membrane proton channel. F(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). F(0) has three main subunits: a(1), b(2) and c(10-14). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. F(1) is attached to F(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains. {ECO:0000255|HAMAP-Rule:MF_01416}.', 'SUBCELLULAR LOCATION: Cell inner membrane {ECO:0000255|HAMAP- Rule:MF_01416}; Peripheral membrane protein {ECO:0000255|HAMAP- Rule:MF_01416}.', 'SIMILARITY: Belongs to the ATPase delta chain family. {ECO:0000255|HAMAP-Rule:MF_01416}.', 'SEQUENCE CAUTION: Sequence=AAU29030.1; Type=Erroneous initiation; Evidence={ECO:0000305};']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29030.1', 'ALT_INIT', 'Genomic_DNA'), ('RefSeq', 'YP_096977.1', 'NC_002942.5'), ('STRING', '272624.lpg2985', '-'), ('EnsemblBacteria', 'AAU29030', 'AAU29030', 'lpg2985'), ('GeneID', '19834300', '-'), ('KEGG', 'lpn:lpg2985', '-'), ('PATRIC', '22333395', 'VBILegPne29832_3191'), ('eggNOG', 'COG0712', '-'), ('HOGENOM', 'HOG000075824', '-'), ('KO', 'K02113', '-'), ('OMA', 'CGEQINE', '-'), ('OrthoDB', 'EOG6DNTDK', '-'), ('BioCyc', 'LPNE272624:GHDI-2983-MONOMER', '-'), ('GO', 'GO:0005886', 'C:plasma membrane', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0045261', 'C:proton-transporting ATP synthase complex, catalytic core F(1)', 'IEA:UniProtKB-KW'), ('GO', 'GO:0046933', 'F:proton-transporting ATP synthase activity, rotational mechanism', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0042777', 'P:plasma membrane ATP synthesis coupled proton transport', 'IEA:UniProtKB-HAMAP'), ('Gene3D', '1.10.520.20', '-', '1'), ('HAMAP', 'MF_01416', 'ATP_synth_delta_bact', '1'), ('InterPro', 'IPR020781', 'ATPase_OSCP/d_CS'), ('InterPro', 'IPR026015', 'ATPase_OSCP/delta_N'), ('InterPro', 'IPR000711', 'ATPase_OSCP/dsu'), ('PANTHER', 'PTHR11910', 'PTHR11910', '1'), ('Pfam', 'PF00213', 'OSCP', '1'), ('PRINTS', 'PR00125', 'ATPASEDELTA'), ('SUPFAM', 'SSF47928', 'SSF47928', '1'), ('TIGRFAMs', 'TIGR01145', 'ATP_synt_delta', '1'), ('PROSITE', 'PS00389', 'ATPASE_DELTA', '1')]
+
+Palavras-chave:['ATP synthesis', 'Cell inner membrane', 'Cell membrane', 'CF(1)', 'Complete proteome', 'Hydrogen ion transport', 'Ion transport', 'Membrane', 'Reference proteome', 'Transport']
+
+Caracteristicas:[('CHAIN', 1, 180, 'ATP synthase subunit delta.', 'PRO_0000371019')]
+
+Informacao sobre a sequencia:(180, 19904, 'DC5312C0BB6639F6')
+
+Sequencia:MSDSTTIARPYAKAIFEHALAEKKLSEWSEYLTLLAQVVLTPQATQFIANPASTDEQQIELLIEVCGSKFKKNDALNNLIKLLTTNKRLMLLPEIEALYEVYRAEQEKILEVDVVSYSELTPAQQQRLSESLSQRLSRKVSLKISIDPSLLGGALIRAGDLVIDGSVRGKLNMLGTSLAA
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRA2****
+
+****Informacao sobre a proteina****
+
+
+Nome:ATPE_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:140
+
+Accession:['Q5ZRA2']
+
+Criado:('12-DEC-2006', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=ATP synthase epsilon chain {ECO:0000255|HAMAP-Rule:MF_00530}; AltName: Full=ATP synthase F1 sector epsilon subunit {ECO:0000255|HAMAP-Rule:MF_00530}; AltName: Full=F-ATPase epsilon subunit {ECO:0000255|HAMAP-Rule:MF_00530};
+
+Nome do gene:Name=atpC {ECO:0000255|HAMAP-Rule:MF_00530}; OrderedLocusNames=lpg2981;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9BA8>]
+
+Comentarios:['FUNCTION: Produces ATP from ADP in the presence of a proton gradient across the membrane. {ECO:0000255|HAMAP-Rule:MF_00530}.', 'SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.', 'SUBCELLULAR LOCATION: Cell inner membrane {ECO:0000255|HAMAP- Rule:MF_00530}; Peripheral membrane protein {ECO:0000255|HAMAP- Rule:MF_00530}.', 'SIMILARITY: Belongs to the ATPase epsilon chain family. {ECO:0000255|HAMAP-Rule:MF_00530}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29026.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096973.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRA2', '-'), ('SMR', 'Q5ZRA2', '4-137'), ('STRING', '272624.lpg2981', '-'), ('EnsemblBacteria', 'AAU29026', 'AAU29026', 'lpg2981'), ('GeneID', '19834546', '-'), ('KEGG', 'lpn:lpg2981', '-'), ('KEGG', 'lpu:LPE509_00025', '-'), ('PATRIC', '22333387', 'VBILegPne29832_3187'), ('eggNOG', 'COG0355', '-'), ('HOGENOM', 'HOG000216025', '-'), ('KO', 'K02114', '-'), ('OMA', 'EIFYVSG', '-'), ('OrthoDB', 'EOG690MN9', '-'), ('BioCyc', 'LPNE272624:GHDI-2979-MONOMER', '-'), ('GO', 'GO:0005886', 'C:plasma membrane', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0045261', 'C:proton-transporting ATP synthase complex, catalytic core F(1)', 'IEA:UniProtKB-KW'), ('GO', 'GO:0005524', 'F:ATP binding', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0046933', 'F:proton-transporting ATP synthase activity, rotational mechanism', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0046961', 'F:proton-transporting ATPase activity, rotational mechanism', 'IEA:InterPro'), ('GO', 'GO:0042777', 'P:plasma membrane ATP synthesis coupled proton transport', 'IEA:UniProtKB-HAMAP'), ('Gene3D', '2.60.15.10', '-', '1'), ('HAMAP', 'MF_00530', 'ATP_synth_epsil_bac', '1'), ('InterPro', 'IPR001469', 'ATPase_F1-cplx_dsu/esu'), ('InterPro', 'IPR020546', 'ATPase_F1-cplx_dsu/esu_N'), ('InterPro', 'IPR020547', 'ATPase_F1_dsu/esu_C'), ('PANTHER', 'PTHR13822', 'PTHR13822', '1'), ('Pfam', 'PF00401', 'ATP-synt_DE', '1'), ('Pfam', 'PF02823', 'ATP-synt_DE_N', '1'), ('ProDom', 'PD000944', 'ATPase_F1-cplx_dsu/esu', '1'), ('SUPFAM', 'SSF46604', 'SSF46604', '1'), ('SUPFAM', 'SSF51344', 'SSF51344', '1'), ('TIGRFAMs', 'TIGR01216', 'ATP_synt_epsi', '1')]
+
+Palavras-chave:['ATP synthesis', 'Cell inner membrane', 'Cell membrane', 'CF(1)', 'Complete proteome', 'Hydrogen ion transport', 'Ion transport', 'Membrane', 'Reference proteome', 'Transport']
+
+Caracteristicas:[('CHAIN', 1, 140, 'ATP synthase epsilon chain.', 'PRO_0000265834')]
+
+Informacao sobre a sequencia:(140, 14756, '7DF55BA4E0A82B19')
+
+Sequencia:MSITTHLDIVSAEHEIFSGVVEMVVATGELGEIGITPGHAPLLTVLRPGEVRITLQGGTQDIYYVQGGMLEVQPHCVTILADVAERAEHLDEAAALAAKAKAEAAIASKGGDIDYSVAAAELARAVAQIRAIQKTRKKMK
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZR97****
+
+****Informacao sobre a proteina****
+
+
+Nome:ATPF_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:156
+
+Accession:['Q5ZR97']
+
+Criado:('14-APR-2009', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=ATP synthase subunit b {ECO:0000255|HAMAP-Rule:MF_01398}; AltName: Full=ATP synthase F(0) sector subunit b {ECO:0000255|HAMAP-Rule:MF_01398}; AltName: Full=ATPase subunit I {ECO:0000255|HAMAP-Rule:MF_01398}; AltName: Full=F-type ATPase subunit b {ECO:0000255|HAMAP-Rule:MF_01398}; Short=F-ATPase subunit b {ECO:0000255|HAMAP-Rule:MF_01398};
+
+Nome do gene:Name=atpF {ECO:0000255|HAMAP-Rule:MF_01398}; OrderedLocusNames=lpg2986;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9A90>]
+
+Comentarios:['FUNCTION: F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation. {ECO:0000255|HAMAP-Rule:MF_01398}.', 'FUNCTION: Component of the F(0) channel, it forms part of the peripheral stalk, linking F(1) to F(0). {ECO:0000255|HAMAP- Rule:MF_01398}.', 'SUBUNIT: F-type ATPases have 2 components, F(1) - the catalytic core - and F(0) - the membrane proton channel. F(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). F(0) has three main subunits: a(1), b(2) and c(10-14). The alpha and beta chains form an alternating ring which encloses part of the gamma chain. F(1) is attached to F(0) by a central stalk formed by the gamma and epsilon chains, while a peripheral stalk is formed by the delta and b chains. {ECO:0000255|HAMAP-Rule:MF_01398}.', 'SUBCELLULAR LOCATION: Cell inner membrane {ECO:0000255|HAMAP- Rule:MF_01398}; Single-pass membrane protein {ECO:0000255|HAMAP- Rule:MF_01398}.', 'SIMILARITY: Belongs to the ATPase B chain family. {ECO:0000255|HAMAP-Rule:MF_01398}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29031.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096978.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZR97', '-'), ('SMR', 'Q5ZR97', '1-33'), ('STRING', '272624.lpg2986', '-'), ('EnsemblBacteria', 'AAU29031', 'AAU29031', 'lpg2986'), ('GeneID', '19834550', '-'), ('KEGG', 'lpn:lpg2986', '-'), ('KEGG', 'lpu:LPE509_00020', '-'), ('PATRIC', '22333397', 'VBILegPne29832_3192'), ('eggNOG', 'COG0711', '-'), ('HOGENOM', 'HOG000015378', '-'), ('KO', 'K02109', '-'), ('OMA', 'DAVNERE', '-'), ('OrthoDB', 'EOG6DNTDK', '-'), ('BioCyc', 'LPNE272624:GHDI-2984-MONOMER', '-'), ('GO', 'GO:0016021', 'C:integral component of membrane', 'IEA:UniProtKB-KW'), ('GO', 'GO:0005886', 'C:plasma membrane', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0045263', 'C:proton-transporting ATP synthase complex, coupling factor F(o)', 'IEA:UniProtKB-KW'), ('GO', 'GO:0046933', 'F:proton-transporting ATP synthase activity, rotational mechanism', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0042777', 'P:plasma membrane ATP synthesis coupled proton transport', 'IEA:UniProtKB-HAMAP'), ('Gene3D', '1.20.5.620', '-', '1'), ('HAMAP', 'MF_01398', 'ATP_synth_b_bact', '1'), ('InterPro', 'IPR028987', 'ATPase_B-like_membr'), ('InterPro', 'IPR002146', "ATPase_F0-cplx_b/b'su_bac"), ('InterPro', 'IPR005864', 'ATPase_F0-cplx_bsu_bac'), ('Pfam', 'PF00430', 'ATP-synt_B', '1'), ('SUPFAM', 'SSF81573', 'SSF81573', '1'), ('TIGRFAMs', 'TIGR01144', 'ATP_synt_b', '1')]
+
+Palavras-chave:['ATP synthesis', 'Cell inner membrane', 'Cell membrane', 'CF(0)', 'Complete proteome', 'Hydrogen ion transport', 'Ion transport', 'Membrane', 'Reference proteome', 'Transmembrane', 'Transmembrane helix', 'Transport']
+
+Caracteristicas:[('CHAIN', 1, 156, 'ATP synthase subunit b.', 'PRO_0000368556'), ('TRANSMEM', 5, 25, 'Helical. {ECO:0000255|HAMAP- Rule:MF_01398}.', '')]
+
+Informacao sobre a sequencia:(156, 17456, '3ECC103BFF13A64B')
+
+Sequencia:MDINLTLIVQMLVFAAFVLFTMKLVWPPLAKALEERQDKIADGLAAAERGRKELELAQHRVKDELKQAKAHSADIIDKANKRASEIIEAAKEAAKREAQIQAKLAQEQIAQQVNHAKEELRKQVAKLAITGAEKILMREVDAKANSELLDNLIEEI
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRA0****
+
+****Informacao sobre a proteina****
+
+
+Nome:ATPG_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:288
+
+Accession:['Q5ZRA0']
+
+Criado:('22-NOV-2005', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=ATP synthase gamma chain {ECO:0000255|HAMAP-Rule:MF_00815}; AltName: Full=ATP synthase F1 sector gamma subunit {ECO:0000255|HAMAP-Rule:MF_00815}; AltName: Full=F-ATPase gamma subunit {ECO:0000255|HAMAP-Rule:MF_00815};
+
+Nome do gene:Name=atpG {ECO:0000255|HAMAP-Rule:MF_00815}; OrderedLocusNames=lpg2983;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9F98>]
+
+Comentarios:['FUNCTION: Produces ATP from ADP in the presence of a proton gradient across the membrane. The gamma chain is believed to be important in regulating ATPase activity and the flow of protons through the CF(0) complex. {ECO:0000255|HAMAP-Rule:MF_00815}.', 'SUBUNIT: F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c. {ECO:0000255|HAMAP- Rule:MF_00815}.', 'SUBCELLULAR LOCATION: Cell inner membrane {ECO:0000255|HAMAP- Rule:MF_00815}; Peripheral membrane protein {ECO:0000255|HAMAP- Rule:MF_00815}.', 'SIMILARITY: Belongs to the ATPase gamma chain family. {ECO:0000255|HAMAP-Rule:MF_00815}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29028.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096975.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRA0', '-'), ('SMR', 'Q5ZRA0', '19-249'), ('STRING', '272624.lpg2983', '-'), ('EnsemblBacteria', 'AAU29028', 'AAU29028', 'lpg2983'), ('GeneID', '19834548', '-'), ('KEGG', 'lpn:lpg2983', '-'), ('PATRIC', '22333391', 'VBILegPne29832_3189'), ('eggNOG', 'COG0224', '-'), ('HOGENOM', 'HOG000215912', '-'), ('KO', 'K02115', '-'), ('OMA', 'ASIGYKH', '-'), ('OrthoDB', 'EOG6R5C97', '-'), ('BioCyc', 'LPNE272624:GHDI-2981-MONOMER', '-'), ('GO', 'GO:0005886', 'C:plasma membrane', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0045261', 'C:proton-transporting ATP synthase complex, catalytic core F(1)', 'IEA:UniProtKB-KW'), ('GO', 'GO:0005524', 'F:ATP binding', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0046933', 'F:proton-transporting ATP synthase activity, rotational mechanism', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0046961', 'F:proton-transporting ATPase activity, rotational mechanism', 'IEA:InterPro'), ('GO', 'GO:0042777', 'P:plasma membrane ATP synthesis coupled proton transport', 'IEA:UniProtKB-HAMAP'), ('HAMAP', 'MF_00815', 'ATP_synth_gamma_bact', '1'), ('InterPro', 'IPR000131', 'ATPase_F1-cplx_gsu'), ('InterPro', 'IPR023632', 'ATPase_F1_gsu_CS'), ('InterPro', 'IPR023633', 'ATPase_F1_gsu_dom'), ('PANTHER', 'PTHR11693', 'PTHR11693', '1'), ('Pfam', 'PF00231', 'ATP-synt', '1'), ('PRINTS', 'PR00126', 'ATPASEGAMMA'), ('SUPFAM', 'SSF52943', 'SSF52943', '1'), ('TIGRFAMs', 'TIGR01146', 'ATPsyn_F1gamma', '1'), ('PROSITE', 'PS00153', 'ATPASE_GAMMA', '1')]
+
+Palavras-chave:['ATP synthesis', 'Cell inner membrane', 'Cell membrane', 'CF(1)', 'Complete proteome', 'Hydrogen ion transport', 'Ion transport', 'Membrane', 'Reference proteome', 'Transport']
+
+Caracteristicas:[('CHAIN', 1, 288, 'ATP synthase gamma chain.', 'PRO_0000073305')]
+
+Informacao sobre a sequencia:(288, 32590, '6B8FD19259C94CF1')
+
+Sequencia:MAGAKEIRSKISSINKTRKITRAMEMVAASKMRKTQERMRASKPYANKIYEVIKHIARAASEYRHPFMSEREIKRIGIIVVTTDRGLCGGLNSNLFRETIRTIRNWQEHGKEVDIAVIGRKGQAFFRRVGGNILGSIDHLGDTPSINDFIGVVKIMLDAYYNGTIDSLHIVYNEFINTMTQKPFVKQLLPLPKSEEDKKTLGHHWDYIYEPEAKELLDEILERYIELQVYQAVVENIACEQAAKMIAMKSATDNAGDLIKEFQLAYNKARQAAITQELAEIVGGAAAL
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRC6****
+
+****Informacao sobre a proteina****
+
+
+Nome:DCD_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:188
+
+Accession:['Q5ZRC6']
+
+Criado:('15-JAN-2008', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=Deoxycytidine triphosphate deaminase {ECO:0000255|HAMAP-Rule:MF_00146}; Short=dCTP deaminase {ECO:0000255|HAMAP-Rule:MF_00146}; EC=3.5.4.13 {ECO:0000255|HAMAP-Rule:MF_00146};
+
+Nome do gene:Name=dcd {ECO:0000255|HAMAP-Rule:MF_00146}; OrderedLocusNames=lpg2956;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9BE0>]
+
+Comentarios:['CATALYTIC ACTIVITY: dCTP + H(2)O = dUTP + NH(3). {ECO:0000255|HAMAP-Rule:MF_00146}.', 'PATHWAY: Pyrimidine metabolism; dUMP biosynthesis; dUMP from dCTP (dUTP route): step 1/2. {ECO:0000255|HAMAP-Rule:MF_00146}.', 'SIMILARITY: Belongs to the dCTP deaminase family. {ECO:0000255|HAMAP-Rule:MF_00146}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29002.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096949.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRC6', '-'), ('STRING', '272624.lpg2956', '-'), ('EnsemblBacteria', 'AAU29002', 'AAU29002', 'lpg2956'), ('GeneID', '19834521', '-'), ('KEGG', 'lpn:lpg2956', '-'), ('KEGG', 'lpu:LPE509_00049', '-'), ('PATRIC', '22333333', 'VBILegPne29832_3161'), ('eggNOG', 'COG0717', '-'), ('HOGENOM', 'HOG000228600', '-'), ('KO', 'K01494', '-'), ('OMA', 'YPARNLA', '-'), ('OrthoDB', 'EOG67DPKR', '-'), ('BioCyc', 'LPNE272624:GHDI-2954-MONOMER', '-'), ('UniPathway', 'UPA00610', 'UER00665'), ('GO', 'GO:0008829', 'F:dCTP deaminase activity', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0006226', 'P:dUMP biosynthetic process', 'IEA:UniProtKB-UniPathway'), ('GO', 'GO:0006229', 'P:dUTP biosynthetic process', 'IEA:InterPro'), ('GO', 'GO:0009220', 'P:pyrimidine ribonucleotide biosynthetic process', 'IEA:UniProtKB-HAMAP'), ('Gene3D', '2.70.40.10', '-', '1'), ('HAMAP', 'MF_00146', 'dCTP_deaminase', '1'), ('InterPro', 'IPR011962', 'dCTP_deam'), ('InterPro', 'IPR029054', 'dUTPase-like'), ('InterPro', 'IPR008180', 'dUTPase/dCTP_deaminase'), ('Pfam', 'PF00692', 'dUTPase', '1'), ('SUPFAM', 'SSF51283', 'SSF51283', '1'), ('TIGRFAMs', 'TIGR02274', 'dCTP_deam', '1')]
+
+Palavras-chave:['Complete proteome', 'Hydrolase', 'Nucleotide metabolism', 'Reference proteome']
+
+Caracteristicas:[('CHAIN', 1, 188, 'Deoxycytidine triphosphate deaminase.', 'PRO_1000009746')]
+
+Informacao sobre a sequencia:(188, 21137, '84D2248AD874716C')
+
+Sequencia:MSIKSDRWIEKMALEHGMISPFQAGQVRENQNGRIISYGVSSYGYDVRCSNEFKIFTNINSAIVDPKAFDENSFVDVQSDVCIIPPNSFALARTVEYFRIPRNILTICLGKSTYARCGIIVNVTPLEPEWEGHVTLEFSNTTTLPAKIYAYEGVAQMLFLEANEVCAVSYRDRNGKYQGQTGVTLPRT
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRP4****
+
+****Informacao sobre a proteina****
+
+
+Nome:GLMS_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:604
+
+Accession:['Q5ZRP4']
+
+Criado:('30-AUG-2005', 0)
+
+Adaptacao da sequencia:('23-JAN-2007', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=Glutamine--fructose-6-phosphate aminotransferase [isomerizing] {ECO:0000255|HAMAP-Rule:MF_00164}; EC=2.6.1.16 {ECO:0000255|HAMAP-Rule:MF_00164}; AltName: Full=D-fructose-6-phosphate amidotransferase {ECO:0000255|HAMAP-Rule:MF_00164}; AltName: Full=GFAT {ECO:0000255|HAMAP-Rule:MF_00164}; AltName: Full=Glucosamine-6-phosphate synthase {ECO:0000255|HAMAP-Rule:MF_00164}; AltName: Full=Hexosephosphate aminotransferase {ECO:0000255|HAMAP-Rule:MF_00164}; AltName: Full=L-glutamine--D-fructose-6-phosphate amidotransferase {ECO:0000255|HAMAP-Rule:MF_00164};
+
+Nome do gene:Name=glmS {ECO:0000255|HAMAP-Rule:MF_00164}; OrderedLocusNames=lpg2836;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9B00>]
+
+Comentarios:['FUNCTION: Catalyzes the first step in hexosamine metabolism, converting fructose-6P into glucosamine-6P using glutamine as a nitrogen source. {ECO:0000255|HAMAP-Rule:MF_00164}.', 'CATALYTIC ACTIVITY: L-glutamine + D-fructose 6-phosphate = L- glutamate + D-glucosamine 6-phosphate. {ECO:0000255|HAMAP- Rule:MF_00164}.', 'SUBUNIT: Homodimer. {ECO:0000255|HAMAP-Rule:MF_00164}.', 'SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00164}.', 'SIMILARITY: Contains 1 glutamine amidotransferase type-2 domain. {ECO:0000255|HAMAP-Rule:MF_00164}.', 'SIMILARITY: Contains 2 SIS domains. {ECO:0000255|HAMAP- Rule:MF_00164}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28884.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096831.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRP4', '-'), ('SMR', 'Q5ZRP4', '2-604'), ('STRING', '272624.lpg2836', '-'), ('EnsemblBacteria', 'AAU28884', 'AAU28884', 'lpg2836'), ('GeneID', '19834401', '-'), ('KEGG', 'lpn:lpg2836', '-'), ('PATRIC', '22333053', 'VBILegPne29832_3021'), ('eggNOG', 'COG0449', '-'), ('HOGENOM', 'HOG000258898', '-'), ('KO', 'K00820', '-'), ('OMA', 'PVTRRFM', '-'), ('OrthoDB', 'EOG6KT2Q1', '-'), ('BioCyc', 'LPNE272624:GHDI-2834-MONOMER', '-'), ('GO', 'GO:0005737', 'C:cytoplasm', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0030246', 'F:carbohydrate binding', 'IEA:InterPro'), ('GO', 'GO:0004360', 'F:glutamine-fructose-6-phosphate transaminase (isomerizing) activity', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0016051', 'P:carbohydrate biosynthetic process', 'IEA:InterPro'), ('GO', 'GO:0006541', 'P:glutamine metabolic process', 'IEA:UniProtKB-HAMAP'), ('Gene3D', '3.60.20.10', '-', '1'), ('HAMAP', 'MF_00164', 'GlmS', '1'), ('InterPro', 'IPR017932', 'GATase_2_dom'), ('InterPro', 'IPR000583', 'GATase_dom'), ('InterPro', 'IPR005855', 'GlmS_trans'), ('InterPro', 'IPR029055', 'Ntn_hydrolases_N'), ('InterPro', 'IPR001347', 'SIS'), ('PANTHER', 'PTHR10937:SF0', 'PTHR10937:SF0', '1'), ('Pfam', 'PF00310', 'GATase_2', '1'), ('Pfam', 'PF01380', 'SIS', '2'), ('SUPFAM', 'SSF56235', 'SSF56235', '1'), ('TIGRFAMs', 'TIGR01135', 'glmS', '1'), ('PROSITE', 'PS51278', 'GATASE_TYPE_2', '1'), ('PROSITE', 'PS51464', 'SIS', '2')]
+
+Palavras-chave:['Aminotransferase', 'Complete proteome', 'Cytoplasm', 'Glutamine amidotransferase', 'Reference proteome', 'Repeat', 'Transferase']
+
+Caracteristicas:[('INIT_MET', 1, 1, 'Removed. {ECO:0000255|HAMAP- Rule:MF_00164}.', ''), ('CHAIN', 2, 604, 'Glutamine--fructose-6-phosphate aminotransferase [isomerizing].', 'PRO_0000135346'), ('DOMAIN', 2, 219, 'Glutamine amidotransferase type-2. {ECO:0000255|HAMAP-Rule:MF_00164}.', ''), ('DOMAIN', 279, 427, 'SIS 1. {ECO:0000255|HAMAP-Rule:MF_00164}.', ''), ('DOMAIN', 454, 594, 'SIS 2. {ECO:0000255|HAMAP-Rule:MF_00164}.', ''), ('ACT_SITE', 2, 2, 'Nucleophile; for GATase activity. {ECO:0000255|HAMAP-Rule:MF_00164}.', ''), ('ACT_SITE', 599, 599, 'For Fru-6P isomerization activity. {ECO:0000255|HAMAP-Rule:MF_00164}.', '')]
+
+Informacao sobre a sequencia:(604, 66360, '259A8A66F9ECD954')
+
+Sequencia:MCGIMGAVSERDISKILLEGLRRLEYRGYDSAGIAVIDSQDRLKRVRIQGKVQNLADAMQETAIAGNTGIAHTRWATHGKPSEQNAHPHLSHGEIALVHNGIIENHEHLRQQLITYGYQFTSETDTEVAAHLIHYHYQQHENLLLAVQKAAAEMQGAFALGVIHQKRPEELVAIRKGSPLVLGFGIGENFIASDALALRSFAQSVIYMEEGDSACVTTQDIKVYDSNRILVQRAVHPLNSDSEIVNKGPYRHFMLKEIFEQSKVITDTLESRINSIDVLRASFGEKASHIFPVVKNIHIVACGTSYHAGMIAKYWLESLAGLPTQVEIASEYRYRDVVVPDNTLFITVSQSGETADTLAALFKAKQSNYLASLAICNVATSTLVREADCVFLTRAGIEIGVASTKAFTTQLAAFLMLAAALCKDNRAQEVLRQLQELPACCERVLQMNEEVESLASLFVNKVHALFLGRGVQYPVALEGALKLKEISYIHAEAYPAGELKHGPLALVDKDMPVIAVAPNDELLDKLKSNLHEVSARGGQLFVFVDDSQNWKANGARLIKVPSCGAWLAPIVYTIPLQLLAYHVAVAKGTDVDQPRNLAKSVTVE
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRK6****
+
+****Informacao sobre a proteina****
+
+
+Nome:GLMU_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:461
+
+Accession:['Q5ZRK6']
+
+Criado:('02-MAY-2006', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=Bifunctional protein GlmU {ECO:0000255|HAMAP-Rule:MF_01631}; Includes: RecName: Full=UDP-N-acetylglucosamine pyrophosphorylase {ECO:0000255|HAMAP-Rule:MF_01631}; EC=2.7.7.23 {ECO:0000255|HAMAP-Rule:MF_01631}; AltName: Full=N-acetylglucosamine-1-phosphate uridyltransferase {ECO:0000255|HAMAP-Rule:MF_01631}; Includes: RecName: Full=Glucosamine-1-phosphate N-acetyltransferase {ECO:0000255|HAMAP-Rule:MF_01631}; EC=2.3.1.157 {ECO:0000255|HAMAP-Rule:MF_01631};
+
+Nome do gene:Name=glmU {ECO:0000255|HAMAP-Rule:MF_01631}; OrderedLocusNames=lpg2875;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9EF0>]
+
+Comentarios:['FUNCTION: Catalyzes the last two sequential reactions in the de novo biosynthetic pathway for UDP-N-acetylglucosamine (UDP- GlcNAc). The C-terminal domain catalyzes the transfer of acetyl group from acetyl coenzyme A to glucosamine-1-phosphate (GlcN-1-P) to produce N-acetylglucosamine-1-phosphate (GlcNAc-1-P), which is converted into UDP-GlcNAc by the transfer of uridine 5- monophosphate (from uridine 5-triphosphate), a reaction catalyzed by the N-terminal domain. {ECO:0000255|HAMAP-Rule:MF_01631}.', 'CATALYTIC ACTIVITY: Acetyl-CoA + alpha-D-glucosamine 1-phosphate = CoA + N-acetyl-alpha-D-glucosamine 1-phosphate. {ECO:0000255|HAMAP-Rule:MF_01631}.', 'CATALYTIC ACTIVITY: UTP + N-acetyl-alpha-D-glucosamine 1-phosphate = diphosphate + UDP-N-acetyl-alpha-D-glucosamine. {ECO:0000255|HAMAP-Rule:MF_01631}.', 'COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420;   Evidence={ECO:0000255|HAMAP-Rule:MF_01631}; Note=Binds 1 Mg(2+) ion per subunit. {ECO:0000255|HAMAP- Rule:MF_01631};', 'PATHWAY: Nucleotide-sugar biosynthesis; UDP-N-acetyl-alpha-D- glucosamine biosynthesis; N-acetyl-alpha-D-glucosamine 1-phosphate from alpha-D-glucosamine 6-phosphate (route II): step 2/2. {ECO:0000255|HAMAP-Rule:MF_01631}.', 'PATHWAY: Nucleotide-sugar biosynthesis; UDP-N-acetyl-alpha-D- glucosamine biosynthesis; UDP-N-acetyl-alpha-D-glucosamine from N- acetyl-alpha-D-glucosamine 1-phosphate: step 1/1. {ECO:0000255|HAMAP-Rule:MF_01631}.', 'PATHWAY: Bacterial outer membrane biogenesis; LPS lipid A biosynthesis. {ECO:0000255|HAMAP-Rule:MF_01631}.', 'SUBUNIT: Homotrimer. {ECO:0000255|HAMAP-Rule:MF_01631}.', 'SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_01631}.', 'SIMILARITY: In the N-terminal section; belongs to the N- acetylglucosamine-1-phosphate uridyltransferase family. {ECO:0000255|HAMAP-Rule:MF_01631}.', 'SIMILARITY: In the C-terminal section; belongs to the transferase hexapeptide repeat family. {ECO:0000255|HAMAP-Rule:MF_01631}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28922.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096869.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRK6', '-'), ('SMR', 'Q5ZRK6', '2-454'), ('STRING', '272624.lpg2875', '-'), ('EnsemblBacteria', 'AAU28922', 'AAU28922', 'lpg2875'), ('GeneID', '19834440', '-'), ('KEGG', 'lpn:lpg2875', '-'), ('KEGG', 'lpu:LPE509_00151', '-'), ('PATRIC', '22333135', 'VBILegPne29832_3062'), ('eggNOG', 'COG1207', '-'), ('HOGENOM', 'HOG000283476', '-'), ('KO', 'K04042', '-'), ('OMA', 'DCVTNQD', '-'), ('OrthoDB', 'EOG6Z6FQZ', '-'), ('BioCyc', 'LPNE272624:GHDI-2873-MONOMER', '-'), ('UniPathway', 'UPA00113', 'UER00532'), ('UniPathway', 'UPA00113', 'UER00533'), ('UniPathway', 'UPA00973', '-'), ('GO', 'GO:0005737', 'C:cytoplasm', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0019134', 'F:glucosamine-1-phosphate N-acetyltransferase activity', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0000287', 'F:magnesium ion binding', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0003977', 'F:UDP-N-acetylglucosamine diphosphorylase activity', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0000902', 'P:cell morphogenesis', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0071555', 'P:cell wall organization', 'IEA:UniProtKB-KW'), ('GO', 'GO:0009245', 'P:lipid A biosynthetic process', 'IEA:UniProtKB-UniPathway'), ('GO', 'GO:0009103', 'P:lipopolysaccharide biosynthetic process', 'IEA:InterPro'), ('GO', 'GO:0009252', 'P:peptidoglycan biosynthetic process', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0008360', 'P:regulation of cell shape', 'IEA:UniProtKB-KW'), ('GO', 'GO:0006048', 'P:UDP-N-acetylglucosamine biosynthetic process', 'IEA:UniProtKB-UniPathway'), ('Gene3D', '3.90.550.10', '-', '1'), ('HAMAP', 'MF_01631', 'GlmU', '1'), ('InterPro', 'IPR005882', 'Bifunctional_GlmU'), ('InterPro', 'IPR001451', 'Hexapep_transf'), ('InterPro', 'IPR018357', 'Hexapep_transf_CS'), ('InterPro', 'IPR025877', 'MobA-like_NTP_Trfase_dom'), ('InterPro', 'IPR029044', 'Nucleotide-diphossugar_trans'), ('InterPro', 'IPR011004', 'Trimer_LpxA-like'), ('Pfam', 'PF00132', 'Hexapep', '2'), ('Pfam', 'PF12804', 'NTP_transf_3', '1'), ('SUPFAM', 'SSF51161', 'SSF51161', '1'), ('SUPFAM', 'SSF53448', 'SSF53448', '1'), ('TIGRFAMs', 'TIGR01173', 'glmU', '1'), ('PROSITE', 'PS00101', 'HEXAPEP_TRANSFERASES', '1')]
+
+Palavras-chave:['Acyltransferase', 'Cell shape', 'Cell wall biogenesis/degradation', 'Complete proteome', 'Cytoplasm', 'Magnesium', 'Metal-binding', 'Multifunctional enzyme', 'Nucleotidyltransferase', 'Peptidoglycan synthesis', 'Reference proteome', 'Repeat', 'Transferase']
+
+Caracteristicas:[('CHAIN', 1, 461, 'Bifunctional protein GlmU.', 'PRO_0000233792'), ('REGION', 1, 232, 'Pyrophosphorylase. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('REGION', 8, 11, 'UDP-GlcNAc binding. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('REGION', 78, 79, 'UDP-GlcNAc binding. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('REGION', 233, 253, 'Linker. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('REGION', 254, 461, 'N-acetyltransferase. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('REGION', 389, 390, 'Acetyl-CoA binding. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('ACT_SITE', 366, 366, 'Proton acceptor. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('METAL', 102, 102, 'Magnesium. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('METAL', 230, 230, 'Magnesium. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('BINDING', 22, 22, 'UDP-GlcNAc. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('BINDING', 73, 73, 'UDP-GlcNAc. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('BINDING', 142, 142, 'UDP-GlcNAc; via amide nitrogen. {ECO:0000255|HAMAP-Rule:MF_01631}.', ''), ('BINDING', 157, 157, 'UDP-GlcNAc. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('BINDING', 230, 230, 'UDP-GlcNAc. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('BINDING', 336, 336, 'Acetyl-CoA; amide nitrogen. {ECO:0000255|HAMAP-Rule:MF_01631}.', ''), ('BINDING', 354, 354, 'Acetyl-CoA. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('BINDING', 369, 369, 'Acetyl-CoA. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('BINDING', 380, 380, 'Acetyl-CoA. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('BINDING', 408, 408, 'Acetyl-CoA. {ECO:0000255|HAMAP- Rule:MF_01631}.', ''), ('BINDING', 426, 426, 'Acetyl-CoA; via amide nitrogen. {ECO:0000255|HAMAP-Rule:MF_01631}.', '')]
+
+Informacao sobre a sequencia:(461, 50391, '6BAE706AF942D29D')
+
+Sequencia:MNLQIIILAAGQGKRMYSDTPKVLHHLAGKPLLTHVVETAQQLNPNAIHVIYGHGGEQIKSSLPNLPVHWVHQAEQLGTGHAVLQAMPHIPDDAYVLVLSADVPLIQVETLQSLIECSQRQNPDHSVLALLVAELENPSGLGRIIRNNQGEIYSIVEEKDANEQVKNIKEIYSGVCCTLANNLKKWLPQLSNSNAQGEYYLTEIISLAVQNKTPITSLTAKNSFEVQGINNRQQLQQLERIWQQRAANQLMEKGATLADANRFDLRGELYCGKDVYIDINCIFTGKVVLGNGCKIGPNCSLTNVTLGDGCEVYANSVLEGCHIANDCHIGPFARLRSGTQLASHCKIGNFVETKKAIFDEGTKASHLSYLGDVLLGKNVNVGAGTITCNYDGVNKHQTIIEDGVFIGSDTQLIAPVTVGANATIGAGSTIRRNVPPDELTLTESRQKTIYGWKRPVKRERD
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRL2****
+
+****Informacao sobre a proteina****
+
+
+Nome:LGT_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:256
+
+Accession:['Q5ZRL2']
+
+Criado:('26-APR-2005', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=Prolipoprotein diacylglyceryl transferase {ECO:0000255|HAMAP-Rule:MF_01147}; EC=2.4.99.- {ECO:0000255|HAMAP-Rule:MF_01147};
+
+Nome do gene:Name=lgt {ECO:0000255|HAMAP-Rule:MF_01147}; OrderedLocusNames=lpg2869;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9828>]
+
+Comentarios:['FUNCTION: Transfers the N-acyl diglyceride group on what will become the N-terminal cysteine of membrane lipoproteins. {ECO:0000255|HAMAP-Rule:MF_01147}.', 'PATHWAY: Protein modification; lipoprotein biosynthesis (diacylglyceryl transfer). {ECO:0000255|HAMAP-Rule:MF_01147}.', 'SUBCELLULAR LOCATION: Cell inner membrane {ECO:0000255|HAMAP- Rule:MF_01147}; Multi-pass membrane protein {ECO:0000255|HAMAP- Rule:MF_01147}.', 'SIMILARITY: Belongs to the Lgt family. {ECO:0000255|HAMAP- Rule:MF_01147}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28916.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096863.1', 'NC_002942.5'), ('STRING', '272624.lpg2869', '-'), ('EnsemblBacteria', 'AAU28916', 'AAU28916', 'lpg2869'), ('GeneID', '19834434', '-'), ('KEGG', 'lpn:lpg2869', '-'), ('KEGG', 'lpu:LPE509_00156', '-'), ('PATRIC', '22333123', 'VBILegPne29832_3056'), ('eggNOG', 'COG0682', '-'), ('HOGENOM', 'HOG000098666', '-'), ('KO', 'K13292', '-'), ('OMA', 'KRHFFQV', '-'), ('OrthoDB', 'EOG6MH5CQ', '-'), ('BioCyc', 'LPNE272624:GHDI-2867-MONOMER', '-'), ('UniPathway', 'UPA00664', '-'), ('GO', 'GO:0016021', 'C:integral component of membrane', 'IEA:UniProtKB-KW'), ('GO', 'GO:0005886', 'C:plasma membrane', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0008961', 'F:phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0042158', 'P:lipoprotein biosynthetic process', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0009249', 'P:protein lipoylation', 'IEA:InterPro'), ('HAMAP', 'MF_01147', 'Lgt', '1'), ('InterPro', 'IPR001640', 'Prolipoprot_diAcglycer_Trfase'), ('Pfam', 'PF01790', 'LGT', '1'), ('TIGRFAMs', 'TIGR00544', 'lgt', '1'), ('PROSITE', 'PS01311', 'LGT', '1')]
+
+Palavras-chave:['Cell inner membrane', 'Cell membrane', 'Complete proteome', 'Membrane', 'Reference proteome', 'Transferase', 'Transmembrane', 'Transmembrane helix']
+
+Caracteristicas:[('CHAIN', 1, 256, 'Prolipoprotein diacylglyceryl transferase.', 'PRO_0000172621'), ('TRANSMEM', 19, 39, 'Helical. {ECO:0000255|HAMAP- Rule:MF_01147}.', ''), ('TRANSMEM', 56, 76, 'Helical. {ECO:0000255|HAMAP- Rule:MF_01147}.', ''), ('TRANSMEM', 91, 111, 'Helical. {ECO:0000255|HAMAP- Rule:MF_01147}.', ''), ('TRANSMEM', 172, 192, 'Helical. {ECO:0000255|HAMAP- Rule:MF_01147}.', ''), ('TRANSMEM', 199, 216, 'Helical. {ECO:0000255|HAMAP- Rule:MF_01147}.', ''), ('TRANSMEM', 231, 251, 'Helical. {ECO:0000255|HAMAP- Rule:MF_01147}.', '')]
+
+Informacao sobre a sequencia:(256, 29346, '220FB245835BFCAD')
+
+Sequencia:MLTYPNINPIAFSLGPLKVHWYGLMYLIGFVGAWLLGYWRIKHYKLNWNNDQLSDLIFYSALGVILGGRVGYMLFYDFQEFIHHPWVLFKIWEGGMSFHGGLLGVVIAAWLFCRKYGKTFLEVGDFVAPLVPLGLAAGRLGNFINGELWGRVTDVPWGMIYPHVDDQPRHPSQLYEFGLEGVALFILIWCYASKPRQQGRVSALFLMGYAICRLIAESFRQPDSQLGFVAFGWLTMGQVLSIPMLLIGIWLWWAKR
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRD7****
+
+****Informacao sobre a proteina****
+
+
+Nome:LPXB2_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:385
+
+Accession:['Q5ZRD7']
+
+Criado:('31-OCT-2006', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=Lipid-A-disaccharide synthase 2 {ECO:0000255|HAMAP-Rule:MF_00392}; EC=2.4.1.182 {ECO:0000255|HAMAP-Rule:MF_00392};
+
+Nome do gene:Name=lpxB2 {ECO:0000255|HAMAP-Rule:MF_00392}; OrderedLocusNames=lpg2945;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9D30>]
+
+Comentarios:['FUNCTION: Condensation of UDP-2,3-diacylglucosamine and 2,3- diacylglucosamine-1-phosphate to form lipid A disaccharide, a precursor of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell. {ECO:0000255|HAMAP-Rule:MF_00392}.', 'CATALYTIC ACTIVITY: UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine + 2,3-bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate = UDP + 2,3-bis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D- 2,3-bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate. {ECO:0000255|HAMAP-Rule:MF_00392}.', 'PATHWAY: Glycolipid biosynthesis; lipid IV(A) biosynthesis; lipid IV(A) from (3R)-3-hydroxytetradecanoyl-[acyl-carrier-protein] and UDP-N-acetyl-alpha-D-glucosamine: step 5/6. {ECO:0000255|HAMAP- Rule:MF_00392}.', 'SIMILARITY: Belongs to the LpxB family. {ECO:0000255|HAMAP- Rule:MF_00392}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28991.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096938.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRD7', '-'), ('STRING', '272624.lpg2945', '-'), ('CAZy', 'GT19', 'Glycosyltransferase Family 19'), ('EnsemblBacteria', 'AAU28991', 'AAU28991', 'lpg2945'), ('GeneID', '19834510', '-'), ('KEGG', 'lpn:lpg2945', '-'), ('PATRIC', '22333301', 'VBILegPne29832_3145'), ('eggNOG', 'COG0763', '-'), ('HOGENOM', 'HOG000018003', '-'), ('KO', 'K00748', '-'), ('OMA', 'EWTINPP', '-'), ('OrthoDB', 'EOG6FBWZR', '-'), ('BioCyc', 'LPNE272624:GHDI-2943-MONOMER', '-'), ('UniPathway', 'UPA00359', 'UER00481'), ('GO', 'GO:0008915', 'F:lipid-A-disaccharide synthase activity', 'IEA:UniProtKB-EC'), ('GO', 'GO:0009245', 'P:lipid A biosynthetic process', 'IEA:UniProtKB-KW'), ('HAMAP', 'MF_00392', 'LpxB', '1'), ('InterPro', 'IPR003835', 'Glyco_trans_19'), ('Pfam', 'PF02684', 'LpxB', '1'), ('TIGRFAMs', 'TIGR00215', 'lpxB', '1')]
+
+Palavras-chave:['Complete proteome', 'Glycosyltransferase', 'Lipid A biosynthesis', 'Lipid biosynthesis', 'Lipid metabolism', 'Reference proteome', 'Transferase']
+
+Caracteristicas:[('CHAIN', 1, 385, 'Lipid-A-disaccharide synthase 2.', 'PRO_0000255195')]
+
+Informacao sobre a sequencia:(385, 43476, '0101A96F4DA538F7')
+
+Sequencia:MTMKRPTRIAMVAGELSGDLLGAGVIRELKQHLTNVEFMGVGGPQMLKEGFHSLIDISELSVMGISDVLRRYPQLYLIRERLLREWTINPPDVFIGIDYPDFNLSVEARLKKQHIKTIHLVSPKVWAWRQKRVHLIKKAVDLVLTLFPFEEAFYRQHGVSAQFIGHPLADLIEINPSCSTLRKKYNYHSDDTILAVLPGSRVGEIKYMGPLFLEVMQRIAVERPHVHFIVPIACQDLYPVFFKQLHAEYGHLKIQIIQGNAREAMAISDVVLTKSGTATLEAMLLKRPMVVAFKWGILTHAIIAPQVKVPYIALPNLLAGKKLIPEFVQEKANVDSITESVLNLLDSSNQNELIKQFTDIHCTLRQNANEKAALSILRILGTSLT
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRD8****
+
+****Informacao sobre a proteina****
+
+
+Nome:LPXD2_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:343
+
+Accession:['Q5ZRD8']
+
+Criado:('12-DEC-2006', 0)
+
+Adaptacao da sequencia:('12-DEC-2006', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=UDP-3-O-acylglucosamine N-acyltransferase 2 {ECO:0000255|HAMAP-Rule:MF_00523}; EC=2.3.1.- {ECO:0000255|HAMAP-Rule:MF_00523};
+
+Nome do gene:Name=lpxD2 {ECO:0000255|HAMAP-Rule:MF_00523}; OrderedLocusNames=lpg2944;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9F98>]
+
+Comentarios:['FUNCTION: Catalyzes the N-acylation of UDP-3-O-acylglucosamine using 3-hydroxyacyl-ACP as the acyl donor. Is involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell. {ECO:0000255|HAMAP-Rule:MF_00523}.', 'CATALYTIC ACTIVITY: (3R)-3-hydroxyacyl-[acyl-carrier-protein] + UDP-3-O-acyl-alpha-D-glucosamine = UDP-2,3-diacyl-alpha-D- glucosamine + [acyl-carrier-protein]. {ECO:0000255|HAMAP- Rule:MF_00523}.', 'PATHWAY: Bacterial outer membrane biogenesis; LPS lipid A biosynthesis. {ECO:0000255|HAMAP-Rule:MF_00523}.', 'SUBUNIT: Homotrimer. {ECO:0000255|HAMAP-Rule:MF_00523}.', 'SIMILARITY: Belongs to the transferase hexapeptide repeat family. LpxD subfamily. {ECO:0000255|HAMAP-Rule:MF_00523}.', 'SEQUENCE CAUTION: Sequence=AAU28990.1; Type=Erroneous initiation; Evidence={ECO:0000305};']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28990.1', 'ALT_INIT', 'Genomic_DNA'), ('RefSeq', 'YP_096937.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRD8', '-'), ('STRING', '272624.lpg2944', '-'), ('EnsemblBacteria', 'AAU28990', 'AAU28990', 'lpg2944'), ('GeneID', '19834509', '-'), ('KEGG', 'lpn:lpg2944', '-'), ('KEGG', 'lpu:LPE509_00066', '-'), ('PATRIC', '22333299', 'VBILegPne29832_3144'), ('eggNOG', 'COG1044', '-'), ('HOGENOM', 'HOG000294340', '-'), ('KO', 'K02536', '-'), ('OMA', 'SELAYMD', '-'), ('OrthoDB', 'EOG6JB11D', '-'), ('BioCyc', 'LPNE272624:GHDI-2942-MONOMER', '-'), ('UniPathway', 'UPA00973', '-'), ('GO', 'GO:0016747', 'F:transferase activity, transferring acyl groups other than amino-acyl groups', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0009245', 'P:lipid A biosynthetic process', 'IEA:UniProtKB-HAMAP'), ('HAMAP', 'MF_00523', 'LpxD', '1'), ('InterPro', 'IPR001451', 'Hexapep_transf'), ('InterPro', 'IPR018357', 'Hexapep_transf_CS'), ('InterPro', 'IPR011004', 'Trimer_LpxA-like'), ('InterPro', 'IPR007691', 'UDP-3-O_GlcNAc_AcTrfase'), ('InterPro', 'IPR020573', 'UDP_GlcNAc_AcTrfase_non-rep'), ('Pfam', 'PF00132', 'Hexapep', '1'), ('Pfam', 'PF04613', 'LpxD', '1'), ('SUPFAM', 'SSF51161', 'SSF51161', '1'), ('TIGRFAMs', 'TIGR01853', 'lipid_A_lpxD', '1'), ('PROSITE', 'PS00101', 'HEXAPEP_TRANSFERASES', '1')]
+
+Palavras-chave:['Acyltransferase', 'Complete proteome', 'Lipid A biosynthesis', 'Lipid biosynthesis', 'Lipid metabolism', 'Reference proteome', 'Repeat', 'Transferase']
+
+Caracteristicas:[('CHAIN', 1, 343, 'UDP-3-O-acylglucosamine N-acyltransferase 2.', 'PRO_0000264392'), ('ACT_SITE', 251, 251, 'Proton acceptor. {ECO:0000255|HAMAP- Rule:MF_00523}.', '')]
+
+Informacao sobre a sequencia:(343, 36561, 'A05D0DF320BDF29D')
+
+Sequencia:MSNYQFTKPAGPFRLFELAKISGATLYEGKGETFTVSGLAKLSEATSNDLVMLHQKKYVKELKHTAARVCIIGPDYVKYAPDSMYLLVHPNPYKAFALIAQAFYPSEKPPGFIATSAMIESSAIIGVDCFIAHGAYIGNQVKIGNRCKIGVNTYIGDTVTIGDDCLIEDNVSIRHAVIGNNVVIYSGARIGQDGFGFASDANGHYKIPHAGGVIIGNDVEIGANTCIDRGSLDNTVIEDWCRLDNLVQIGHNVKIGKGSVLVAQVGIAGSTELGEHVTLAGQVGVIGHLKIGKGATVLASAKVYKNVKSGDRVGGHPAVSISDWQKQIRFLKTAIKSKKSPKS
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRQ0****
+
+****Informacao sobre a proteina****
+
+
+Nome:LUBX_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:246
+
+Accession:['Q5ZRQ0']
+
+Criado:('10-AUG-2010', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=E3 ubiquitin-protein ligase LubX; EC=6.3.2.-; AltName: Full=Legionella U-box protein;
+
+Nome do gene:Name=lubX; Synonyms=legU2; OrderedLocusNames=lpg2830;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9BA8>, <Bio.SwissProt.Reference object at 0x00000000111F9FD0>]
+
+Comentarios:["FUNCTION: Effector proteins function to alter host cell physiology and promote bacterial survival in host tissues. This protein is an E3 ubiquitin ligase that interferes with host's ubiquitination pathway. Acts in conjunction with host E2 ubiquitin-conjugating enzymes UBE2D1 (UBCH5A) or UBE2D3 (UBCH5C), and mediates polyubiquitination of host kinase CLK1. {ECO:0000269|PubMed:18284575}.", 'SUBUNIT: Interacts with host CLK1. {ECO:0000269|PubMed:18284575}.', 'INTERACTION: P22518:Clk1 (xeno); NbExp=3; IntAct=EBI-6402540, EBI-6479117;', 'SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:18284575}. Host cell {ECO:0000269|PubMed:18284575}. Note=Secreted via type IV secretion system (T4SS), and delivered into the host cell.', 'INDUCTION: Induced upon infection. {ECO:0000269|PubMed:18284575}.', 'DOMAIN: U-box 1 is critical to the ubiquitin ligase activity, and U-box 2 mediates interaction with host CLK1. {ECO:0000269|PubMed:18284575}.', 'DOMAIN: The 25 C-terminal region may carry the signal responsible for translocation into the host cell. {ECO:0000269|PubMed:18284575}.', 'PTM: Ubiquitinated in the presence of host E1 ubiquitin-activating enzyme, E2 ubiquitin-conjugating enzyme (UBE2D1 or UBE2D3) and ubiquitin. {ECO:0000269|PubMed:18284575}.', 'SIMILARITY: Contains 2 U-box domains. {ECO:0000305}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28878.1', '-', 'Genomic_DNA'), ('RefSeq', 'WP_010948517.1', 'NC_002942.5'), ('RefSeq', 'YP_096825.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRQ0', '-'), ('DIP', 'DIP-59158N', '-'), ('IntAct', 'Q5ZRQ0', '1'), ('STRING', '272624.lpg2830', '-'), ('EnsemblBacteria', 'AAU28878', 'AAU28878', 'lpg2830'), ('GeneID', '19834395', '-'), ('KEGG', 'lpn:lpg2830', '-'), ('PATRIC', '22333041', 'VBILegPne29832_3015'), ('eggNOG', 'NOG133361', '-'), ('HOGENOM', 'HOG000140213', '-'), ('KO', 'K15488', '-'), ('OMA', 'YTEIPDI', '-'), ('OrthoDB', 'EOG6PP9KM', '-'), ('BioCyc', 'LPNE272624:GHDI-2828-MONOMER', '-'), ('GO', 'GO:0005576', 'C:extracellular region', 'IDA:UniProtKB'), ('GO', 'GO:0043657', 'C:host cell', 'IDA:UniProtKB'), ('GO', 'GO:0016874', 'F:ligase activity', 'IEA:UniProtKB-KW'), ('GO', 'GO:0004842', 'F:ubiquitin-protein transferase activity', 'IDA:UniProtKB'), ('GO', 'GO:0009405', 'P:pathogenesis', 'IDA:UniProtKB'), ('GO', 'GO:0016567', 'P:protein ubiquitination', 'IDA:UniProtKB'), ('Gene3D', '3.30.40.10', '-', '2'), ('InterPro', 'IPR003613', 'Ubox_domain'), ('InterPro', 'IPR013083', 'Znf_RING/FYVE/PHD'), ('Pfam', 'PF04564', 'U-box', '2'), ('SMART', 'SM00504', 'Ubox', '2'), ('PROSITE', 'PS51698', 'U_BOX', '2')]
+
+Palavras-chave:['Complete proteome', 'Ligase', 'Reference proteome', 'Repeat', 'Secreted', 'Ubl conjugation', 'Ubl conjugation pathway', 'Virulence']
+
+Caracteristicas:[('CHAIN', 1, 246, 'E3 ubiquitin-protein ligase LubX.', 'PRO_0000395863'), ('DOMAIN', 36, 109, 'U-box 1.', ''), ('DOMAIN', 131, 204, 'U-box 2.', ''), ('MUTAGEN', 45, 45, 'I->A: Loss of ubiquitin ligase activity. {ECO:0000269|PubMed:18284575}.', ''), ('MUTAGEN', 140, 140, 'I->A: No change in ubiquitin ligase activity. {ECO:0000269|PubMed:18284575}.', '')]
+
+Informacao sobre a sequencia:(246, 28412, '096EE12CF4F58824')
+
+Sequencia:MGYRIEMATRNPFDIDHKSKYLREAALEANLSHPETTPTMLTCPIDSGFLKDPVITPEGFVYNKSSILKWLETKKEDPQSRKPLTAKDLQPFPELLIIVNRFVETQTNYEKLKNRLVQNARVAARQKEYTEIPDIFLCPISKTLIKTPVITAQGKVYDQEALSNFLIATGNKDETGKKLSIDDVVVFDELYQQIKVYNFYRKREMQKNQIQPSVSSGFGFFSLNFLTSWLWGTEEKKEKTSSDMTY
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRQ0****
+
+****Informacao sobre a proteina****
+
+
+Nome:LUBX_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:246
+
+Accession:['Q5ZRQ0']
+
+Criado:('10-AUG-2010', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=E3 ubiquitin-protein ligase LubX; EC=6.3.2.-; AltName: Full=Legionella U-box protein;
+
+Nome do gene:Name=lubX; Synonyms=legU2; OrderedLocusNames=lpg2830;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9BA8>, <Bio.SwissProt.Reference object at 0x00000000111F9FD0>]
+
+Comentarios:["FUNCTION: Effector proteins function to alter host cell physiology and promote bacterial survival in host tissues. This protein is an E3 ubiquitin ligase that interferes with host's ubiquitination pathway. Acts in conjunction with host E2 ubiquitin-conjugating enzymes UBE2D1 (UBCH5A) or UBE2D3 (UBCH5C), and mediates polyubiquitination of host kinase CLK1. {ECO:0000269|PubMed:18284575}.", 'SUBUNIT: Interacts with host CLK1. {ECO:0000269|PubMed:18284575}.', 'INTERACTION: P22518:Clk1 (xeno); NbExp=3; IntAct=EBI-6402540, EBI-6479117;', 'SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:18284575}. Host cell {ECO:0000269|PubMed:18284575}. Note=Secreted via type IV secretion system (T4SS), and delivered into the host cell.', 'INDUCTION: Induced upon infection. {ECO:0000269|PubMed:18284575}.', 'DOMAIN: U-box 1 is critical to the ubiquitin ligase activity, and U-box 2 mediates interaction with host CLK1. {ECO:0000269|PubMed:18284575}.', 'DOMAIN: The 25 C-terminal region may carry the signal responsible for translocation into the host cell. {ECO:0000269|PubMed:18284575}.', 'PTM: Ubiquitinated in the presence of host E1 ubiquitin-activating enzyme, E2 ubiquitin-conjugating enzyme (UBE2D1 or UBE2D3) and ubiquitin. {ECO:0000269|PubMed:18284575}.', 'SIMILARITY: Contains 2 U-box domains. {ECO:0000305}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28878.1', '-', 'Genomic_DNA'), ('RefSeq', 'WP_010948517.1', 'NC_002942.5'), ('RefSeq', 'YP_096825.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRQ0', '-'), ('DIP', 'DIP-59158N', '-'), ('IntAct', 'Q5ZRQ0', '1'), ('STRING', '272624.lpg2830', '-'), ('EnsemblBacteria', 'AAU28878', 'AAU28878', 'lpg2830'), ('GeneID', '19834395', '-'), ('KEGG', 'lpn:lpg2830', '-'), ('PATRIC', '22333041', 'VBILegPne29832_3015'), ('eggNOG', 'NOG133361', '-'), ('HOGENOM', 'HOG000140213', '-'), ('KO', 'K15488', '-'), ('OMA', 'YTEIPDI', '-'), ('OrthoDB', 'EOG6PP9KM', '-'), ('BioCyc', 'LPNE272624:GHDI-2828-MONOMER', '-'), ('GO', 'GO:0005576', 'C:extracellular region', 'IDA:UniProtKB'), ('GO', 'GO:0043657', 'C:host cell', 'IDA:UniProtKB'), ('GO', 'GO:0016874', 'F:ligase activity', 'IEA:UniProtKB-KW'), ('GO', 'GO:0004842', 'F:ubiquitin-protein transferase activity', 'IDA:UniProtKB'), ('GO', 'GO:0009405', 'P:pathogenesis', 'IDA:UniProtKB'), ('GO', 'GO:0016567', 'P:protein ubiquitination', 'IDA:UniProtKB'), ('Gene3D', '3.30.40.10', '-', '2'), ('InterPro', 'IPR003613', 'Ubox_domain'), ('InterPro', 'IPR013083', 'Znf_RING/FYVE/PHD'), ('Pfam', 'PF04564', 'U-box', '2'), ('SMART', 'SM00504', 'Ubox', '2'), ('PROSITE', 'PS51698', 'U_BOX', '2')]
+
+Palavras-chave:['Complete proteome', 'Ligase', 'Reference proteome', 'Repeat', 'Secreted', 'Ubl conjugation', 'Ubl conjugation pathway', 'Virulence']
+
+Caracteristicas:[('CHAIN', 1, 246, 'E3 ubiquitin-protein ligase LubX.', 'PRO_0000395863'), ('DOMAIN', 36, 109, 'U-box 1.', ''), ('DOMAIN', 131, 204, 'U-box 2.', ''), ('MUTAGEN', 45, 45, 'I->A: Loss of ubiquitin ligase activity. {ECO:0000269|PubMed:18284575}.', ''), ('MUTAGEN', 140, 140, 'I->A: No change in ubiquitin ligase activity. {ECO:0000269|PubMed:18284575}.', '')]
+
+Informacao sobre a sequencia:(246, 28412, '096EE12CF4F58824')
+
+Sequencia:MGYRIEMATRNPFDIDHKSKYLREAALEANLSHPETTPTMLTCPIDSGFLKDPVITPEGFVYNKSSILKWLETKKEDPQSRKPLTAKDLQPFPELLIIVNRFVETQTNYEKLKNRLVQNARVAARQKEYTEIPDIFLCPISKTLIKTPVITAQGKVYDQEALSNFLIATGNKDETGKKLSIDDVVVFDELYQQIKVYNFYRKREMQKNQIQPSVSSGFGFFSLNFLTSWLWGTEEKKEKTSSDMTY
+
+****Referencias sobre a proteina****
+
+Numero:2
+
+Posicao:['FUNCTION, UBIQUITIN LIGASE ACTIVITY, UBIQUITINATION, INTERACTION WITH', 'HOST CLK1, SUBCELLULAR LOCATION, INDUCTION, DOMAIN, AND MUTAGENESIS OF', 'ILE-45 AND ILE-140.']
+
+Comentarios:[('STRAIN', 'Lp01')]
+
+Referencias:[('PubMed', '18284575'), ('DOI', '10.1111/j.1365-2958.2008.06124.x')]
+
+Autores:Kubori T., Hyakutake A., Nagai H.
+
+Titulo:Legionella translocates an E3 ubiquitin ligase that has multiple U- boxes with distinct functions.
+
+Localizacao:Mol. Microbiol. 67:1307-1319(2008).
+
+****Codigo Q5ZR82****
+
+****Informacao sobre a proteina****
+
+
+Nome:MNME_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:446
+
+Accession:['Q5ZR82']
+
+Criado:('02-SEP-2008', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=tRNA modification GTPase MnmE {ECO:0000255|HAMAP-Rule:MF_00379}; EC=3.6.-.- {ECO:0000255|HAMAP-Rule:MF_00379};
+
+Nome do gene:Name=mnmE {ECO:0000255|HAMAP-Rule:MF_00379}; Synonyms=trmE {ECO:0000255|HAMAP-Rule:MF_00379}; OrderedLocusNames=lpg3001;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9F60>]
+
+Comentarios:['FUNCTION: Exhibits a very high intrinsic GTPase hydrolysis rate. Involved in the addition of a carboxymethylaminomethyl (cmnm) group at the wobble position (U34) of certain tRNAs, forming tRNA- cmnm(5)s(2)U34. {ECO:0000255|HAMAP-Rule:MF_00379}.', 'COFACTOR: Name=K(+); Xref=ChEBI:CHEBI:29103;   Evidence={ECO:0000255|HAMAP-Rule:MF_00379}; Note=Binds 1 potassium ion per subunit. {ECO:0000255|HAMAP- Rule:MF_00379};', 'SUBUNIT: Homodimer. Heterotetramer of two MnmE and two MnmG subunits. {ECO:0000255|HAMAP-Rule:MF_00379}.', 'SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00379}.', 'SIMILARITY: Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin- like GTPase superfamily. TrmE GTPase family. {ECO:0000255|HAMAP- Rule:MF_00379}.', 'SIMILARITY: Contains 1 TrmE-type G (guanine nucleotide-binding) domain. {ECO:0000305}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29046.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096993.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZR82', '-'), ('STRING', '272624.lpg3001', '-'), ('EnsemblBacteria', 'AAU29046', 'AAU29046', 'lpg3001'), ('GeneID', '19834565', '-'), ('KEGG', 'lpn:lpg3001', '-'), ('PATRIC', '22333429', 'VBILegPne29832_3208'), ('eggNOG', 'COG0486', '-'), ('HOGENOM', 'HOG000200714', '-'), ('KO', 'K03650', '-'), ('OMA', 'NIFSSFC', '-'), ('OrthoDB', 'EOG6DC6K1', '-'), ('BioCyc', 'LPNE272624:GHDI-2999-MONOMER', '-'), ('GO', 'GO:0005737', 'C:cytoplasm', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0005525', 'F:GTP binding', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0003924', 'F:GTPase activity', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0046872', 'F:metal ion binding', 'IEA:UniProtKB-KW'), ('GO', 'GO:0006400', 'P:tRNA modification', 'IEA:UniProtKB-HAMAP'), ('Gene3D', '1.20.120.430', '-', '3'), ('Gene3D', '3.30.1360.120', '-', '1'), ('Gene3D', '3.40.50.300', '-', '2'), ('HAMAP', 'MF_00379', 'GTPase_MnmE', '1'), ('InterPro', 'IPR018948', 'GTP-bd_TrmE_N'), ('InterPro', 'IPR006073', 'GTP_binding_domain'), ('InterPro', 'IPR004520', 'GTPase_MnmE'), ('InterPro', 'IPR025867', 'GTPase_MnmE_C_dom'), ('InterPro', 'IPR027368', 'MnmE_dom2'), ('InterPro', 'IPR027417', 'P-loop_NTPase'), ('InterPro', 'IPR005225', 'Small_GTP-bd_dom'), ('InterPro', 'IPR027266', 'TrmE/GcvT_dom1'), ('Pfam', 'PF12631', 'GTPase_Cys_C', '1'), ('Pfam', 'PF01926', 'MMR_HSR1', '1'), ('Pfam', 'PF10396', 'TrmE_N', '1'), ('SUPFAM', 'SSF52540', 'SSF52540', '2'), ('TIGRFAMs', 'TIGR00450', 'mnmE_trmE_thdF', '1'), ('TIGRFAMs', 'TIGR00231', 'small_GTP', '1'), ('PROSITE', 'PS51709', 'G_TRME', '1')]
+
+Palavras-chave:['Complete proteome', 'Cytoplasm', 'GTP-binding', 'Hydrolase', 'Magnesium', 'Metal-binding', 'Nucleotide-binding', 'Potassium', 'Reference proteome', 'tRNA processing']
+
+Caracteristicas:[('CHAIN', 1, 446, 'tRNA modification GTPase MnmE.', 'PRO_0000345819'), ('DOMAIN', 215, 370, 'TrmE-type G.', ''), ('NP_BIND', 225, 230, 'GTP. {ECO:0000255|HAMAP-Rule:MF_00379}.', ''), ('NP_BIND', 244, 250, 'GTP. {ECO:0000255|HAMAP-Rule:MF_00379}.', ''), ('NP_BIND', 269, 272, 'GTP. {ECO:0000255|HAMAP-Rule:MF_00379}.', ''), ('METAL', 225, 225, 'Potassium. {ECO:0000255|HAMAP- Rule:MF_00379}.', ''), ('METAL', 229, 229, 'Magnesium. {ECO:0000255|HAMAP- Rule:MF_00379}.', ''), ('METAL', 244, 244, 'Potassium; via carbonyl oxygen. {ECO:0000255|HAMAP-Rule:MF_00379}.', ''), ('METAL', 246, 246, 'Potassium; via carbonyl oxygen. {ECO:0000255|HAMAP-Rule:MF_00379}.', ''), ('METAL', 249, 249, 'Potassium. {ECO:0000255|HAMAP- Rule:MF_00379}.', ''), ('METAL', 250, 250, 'Magnesium. {ECO:0000255|HAMAP- Rule:MF_00379}.', ''), ('BINDING', 22, 22, 'Formyltetrahydrofolate. {ECO:0000255|HAMAP-Rule:MF_00379}.', ''), ('BINDING', 80, 80, 'Formyltetrahydrofolate. {ECO:0000255|HAMAP-Rule:MF_00379}.', ''), ('BINDING', 119, 119, 'Formyltetrahydrofolate. {ECO:0000255|HAMAP-Rule:MF_00379}.', ''), ('BINDING', 446, 446, 'Formyltetrahydrofolate. {ECO:0000255|HAMAP-Rule:MF_00379}.', '')]
+
+Informacao sobre a sequencia:(446, 48877, 'EBB284B54B5C1F36')
+
+Sequencia:MSIDTIVAIATPPGRGGVGIVRISGPNAYAIALCLNGNKALQPRLATFCSLYKGNNEVLDQGLVLYFKGPHSFTGEDVIEIQAHGSPVVLDLLIKESIAAGARLARPGEFSERAFLNDKIDLIQAEAIADLIQASSDTAARMALKSLQGDFSKKINQLNEELIYLRMYVEAAIDFPEEEIDFLNDGNVSQLLQKIIGRLEDIRSQANQGVLLREGLSLVIAGRPNAGKSTLINNLAGRDVAIVTEIAGTTRDIMREHILLDDIPLHIIDTAGLRDSDDLVEKEGIKRAWQELKRADCVLLVVDINNPDQQNSLLNELRLTLPNKIPIITVYNKIDTTKLTAKCDEHTVYLSAKTGEGLDELKKVIKQVVGYQPTEGQFLARRRHLQALDEAKALLLTGQSQLTNHKAGELLAEDLRLAHQTLCEITGEFTSDDLLGKIFSSFCIGK
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRJ2****
+
+****Informacao sobre a proteina****
+
+
+Nome:MNMG_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:624
+
+Accession:['Q5ZRJ2']
+
+Criado:('08-NOV-2005', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG {ECO:0000255|HAMAP-Rule:MF_00129}; AltName: Full=Glucose-inhibited division protein A {ECO:0000255|HAMAP-Rule:MF_00129};
+
+Nome do gene:Name=mnmG {ECO:0000255|HAMAP-Rule:MF_00129}; Synonyms=gidA {ECO:0000255|HAMAP-Rule:MF_00129}; OrderedLocusNames=lpg2889;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9978>]
+
+Comentarios:['FUNCTION: NAD-binding protein involved in the addition of a carboxymethylaminomethyl (cmnm) group at the wobble position (U34) of certain tRNAs, forming tRNA-cmnm(5)s(2)U34. {ECO:0000255|HAMAP- Rule:MF_00129}.', 'COFACTOR: Name=FAD; Xref=ChEBI:CHEBI:57692;   Evidence={ECO:0000255|HAMAP-Rule:MF_00129};', 'SUBUNIT: Homodimer. Heterotetramer of two MnmE and two MnmG subunits. {ECO:0000255|HAMAP-Rule:MF_00129}.', 'SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00129}.', 'SIMILARITY: Belongs to the MnmG family. {ECO:0000255|HAMAP- Rule:MF_00129}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28936.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096883.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRJ2', '-'), ('SMR', 'Q5ZRJ2', '1-551'), ('STRING', '272624.lpg2889', '-'), ('EnsemblBacteria', 'AAU28936', 'AAU28936', 'lpg2889'), ('GeneID', '19834454', '-'), ('KEGG', 'lpn:lpg2889', '-'), ('KEGG', 'lpu:LPE509_00136', '-'), ('PATRIC', '22333165', 'VBILegPne29832_3077'), ('eggNOG', 'COG0445', '-'), ('HOGENOM', 'HOG000201059', '-'), ('KO', 'K03495', '-'), ('OMA', 'HTNEQTH', '-'), ('OrthoDB', 'EOG6W9X6J', '-'), ('BioCyc', 'LPNE272624:GHDI-2887-MONOMER', '-'), ('GO', 'GO:0005737', 'C:cytoplasm', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0050660', 'F:flavin adenine dinucleotide binding', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0002098', 'P:tRNA wobble uridine modification', 'IEA:InterPro'), ('HAMAP', 'MF_00129', 'MnmG_GidA', '1'), ('InterPro', 'IPR004416', 'GidA'), ('InterPro', 'IPR026904', 'GidA-assoc_3'), ('InterPro', 'IPR002218', 'GIDA-rel'), ('InterPro', 'IPR020595', 'GIDA-rel_CS'), ('Pfam', 'PF01134', 'GIDA', '1'), ('Pfam', 'PF13932', 'GIDA_assoc_3', '1'), ('TIGRFAMs', 'TIGR00136', 'gidA', '1'), ('PROSITE', 'PS01280', 'GIDA_1', '1'), ('PROSITE', 'PS01281', 'GIDA_2', '1')]
+
+Palavras-chave:['Complete proteome', 'Cytoplasm', 'FAD', 'Flavoprotein', 'NAD', 'Reference proteome', 'tRNA processing']
+
+Caracteristicas:[('CHAIN', 1, 624, 'tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG.', 'PRO_0000117122'), ('NP_BIND', 13, 18, 'FAD. {ECO:0000255|HAMAP-Rule:MF_00129}.', ''), ('NP_BIND', 273, 287, 'NAD. {ECO:0000255|HAMAP-Rule:MF_00129}.', ''), ('BINDING', 125, 125, 'FAD; via amide nitrogen and carbonyl oxygen. {ECO:0000255|HAMAP- Rule:MF_00129}.', ''), ('BINDING', 180, 180, 'FAD. {ECO:0000255|HAMAP-Rule:MF_00129}.', ''), ('BINDING', 370, 370, 'FAD. {ECO:0000255|HAMAP-Rule:MF_00129}.', '')]
+
+Informacao sobre a sequencia:(624, 69123, 'EEA09B1ACF97C35C')
+
+Sequencia:MNLEQLYDVIVVGGGHAGTEAALAAARLGVKTLLLTHNIDLLGQMSCNPAIGGIGKGHLVKEIDALDGAMAKAADQAGIQFRILNASKGPAVRATRAQADRVLYRKAIRTQLQSQANLTIFQQAVDDLKIEGGLVTGVVTQMGLTLKARAVVLTVGTFLGGKIHVGMNQYAGGRAGDPPSIALSKSLRDLDLPVGRLKTGTPPRIDRRTIDFSQMVEQPGDTPVPVFSYLGAASDHPQQVPCHITHTTEATHDIIRNNLDKSPMYAGVIEGVGPRYCPSIEDKIVRFADKTSHQIFVEPEGLTTEEIYPNGISTSLPFEVQVQFVRTIKGFENAHITRPGYAIEYDYFDPRGLTSFLQTKAIPNLFFAGQINGTTGYEEAAAQGIIAGMNAALQIKDQELWCPRRDEAYIGVLIDDLITCGTQEPYRMFTSRAEYRLLLREDNADLRLTEKGRQLGLVGDERWDSFSKKREAIESTQALLYNSWVRVHHNDLFKETLFNPMQHDCRAVEFLKRPEINYQHLLMMDDLNLPELPQEITEQIEIQNKYAGYIDRQQQEIEKLRKHENTLLPETLDYNDVVGLSSEVIQKLNRIKPTSLAQAGRISGVTPAALSLLLVHLKKSRLPV
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRQ7****
+
+****Informacao sobre a proteina****
+
+
+Nome:NADK_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:295
+
+Accession:['Q5ZRQ7']
+
+Criado:('04-APR-2006', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=NAD kinase {ECO:0000255|HAMAP-Rule:MF_00361}; EC=2.7.1.23 {ECO:0000255|HAMAP-Rule:MF_00361}; AltName: Full=ATP-dependent NAD kinase {ECO:0000255|HAMAP-Rule:MF_00361};
+
+Nome do gene:Name=nadK {ECO:0000255|HAMAP-Rule:MF_00361}; OrderedLocusNames=lpg2823;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9940>]
+
+Comentarios:["FUNCTION: Involved in the regulation of the intracellular balance of NAD and NADP, and is a key enzyme in the biosynthesis of NADP. Catalyzes specifically the phosphorylation on 2'-hydroxyl of the adenosine moiety of NAD to yield NADP. {ECO:0000255|HAMAP- Rule:MF_00361}.", 'CATALYTIC ACTIVITY: ATP + NAD(+) = ADP + NADP(+). {ECO:0000255|HAMAP-Rule:MF_00361}.', 'COFACTOR: Name=a divalent metal cation; Xref=ChEBI:CHEBI:60240;   Evidence={ECO:0000255|HAMAP-Rule:MF_00361};', 'SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00361}.', 'SIMILARITY: Belongs to the NAD kinase family. {ECO:0000255|HAMAP- Rule:MF_00361}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28871.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096818.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRQ7', '-'), ('STRING', '272624.lpg2823', '-'), ('EnsemblBacteria', 'AAU28871', 'AAU28871', 'lpg2823'), ('GeneID', '19834388', '-'), ('KEGG', 'lpn:lpg2823', '-'), ('KEGG', 'lpu:LPE509_00206', '-'), ('PATRIC', '22333023', 'VBILegPne29832_3006'), ('eggNOG', 'COG0061', '-'), ('HOGENOM', 'HOG000227221', '-'), ('KO', 'K00858', '-'), ('OMA', 'THEMLYH', '-'), ('OrthoDB', 'EOG6PZXDR', '-'), ('BioCyc', 'LPNE272624:GHDI-2821-MONOMER', '-'), ('GO', 'GO:0005737', 'C:cytoplasm', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0005524', 'F:ATP binding', 'IEA:UniProtKB-KW'), ('GO', 'GO:0046872', 'F:metal ion binding', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0003951', 'F:NAD+ kinase activity', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0019674', 'P:NAD metabolic process', 'IEA:InterPro'), ('GO', 'GO:0006741', 'P:NADP biosynthetic process', 'IEA:UniProtKB-HAMAP'), ('Gene3D', '2.60.200.30', '-', '1'), ('Gene3D', '3.40.50.10330', '-', '1'), ('HAMAP', 'MF_00361', 'NAD_kinase', '1'), ('InterPro', 'IPR017438', 'ATP-NAD_kinase_dom_1'), ('InterPro', 'IPR016064', 'ATP-NAD_kinase_PpnK-typ'), ('InterPro', 'IPR017437', 'ATP-NAD_kinase_PpnK-typ_all-b'), ('InterPro', 'IPR002504', 'PolyP/ATP_NADK'), ('PANTHER', 'PTHR20275', 'PTHR20275', '1'), ('Pfam', 'PF01513', 'NAD_kinase', '1'), ('SUPFAM', 'SSF111331', 'SSF111331', '1')]
+
+Palavras-chave:['ATP-binding', 'Complete proteome', 'Cytoplasm', 'Kinase', 'NAD', 'NADP', 'Nucleotide-binding', 'Reference proteome', 'Transferase']
+
+Caracteristicas:[('CHAIN', 1, 295, 'NAD kinase.', 'PRO_0000229651'), ('NP_BIND', 74, 75, 'NAD. {ECO:0000255|HAMAP-Rule:MF_00361}.', ''), ('NP_BIND', 148, 149, 'NAD. {ECO:0000255|HAMAP-Rule:MF_00361}.', ''), ('NP_BIND', 189, 194, 'NAD. {ECO:0000255|HAMAP-Rule:MF_00361}.', ''), ('ACT_SITE', 74, 74, 'Proton acceptor. {ECO:0000255|HAMAP- Rule:MF_00361}.', ''), ('BINDING', 159, 159, 'NAD. {ECO:0000255|HAMAP-Rule:MF_00361}.', ''), ('BINDING', 176, 176, 'NAD. {ECO:0000255|HAMAP-Rule:MF_00361}.', ''), ('BINDING', 178, 178, 'NAD. {ECO:0000255|HAMAP-Rule:MF_00361}.', '')]
+
+Informacao sobre a sequencia:(295, 33090, '0E17EB48161C815E')
+
+Sequencia:MKQKFKRAILYARQHRANQEVNESLHRLVDFLSTQDIEIFQDSDTAASFELKAPVLPREKMGAKHDLIIVVGGDGSLLSASRMAIKVNTPVIGINRGRLGFLTDILPQDIESHLGPVLNGQYNEEERFLLHTKIYDKENSYFEGDALNDVVLGRGSETHLIEFDVYINQQLVSHYRSDGMILSTPTGSTAYALSAGGPIMHPQLNAIVLVPMFSHSLSSRPLVIDGEAEIELYISKSNETDLRISCDGHESRVVKPGQKVAVKKNGNRLRLLHPLDYHYYDTLRSKLGWESKHQG
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRQ9****
+
+****Informacao sobre a proteina****
+
+
+Nome:NNRE_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:270
+
+Accession:['Q5ZRQ9']
+
+Criado:('21-MAR-2012', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=NAD(P)H-hydrate epimerase {ECO:0000255|HAMAP-Rule:MF_01966}; EC=5.1.99.6 {ECO:0000255|HAMAP-Rule:MF_01966}; AltName: Full=NAD(P)HX epimerase {ECO:0000255|HAMAP-Rule:MF_01966};
+
+Nome do gene:Name=nnrE {ECO:0000255|HAMAP-Rule:MF_01966}; OrderedLocusNames=lpg2821;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9080>]
+
+Comentarios:['FUNCTION: Catalyzes the epimerization of the S- and R-forms of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration. This is a prerequisite for the S- specific NAD(P)H-hydrate dehydratase to allow the repair of both epimers of NAD(P)HX. {ECO:0000255|HAMAP-Rule:MF_01966}.', 'CATALYTIC ACTIVITY: (6R)-6-beta-hydroxy-1,4,5,6- tetrahydronicotinamide-adenine dinucleotide = (6S)-6-beta-hydroxy- 1,4,5,6-tetrahydronicotinamide-adenine dinucleotide. {ECO:0000255|HAMAP-Rule:MF_01966}.', 'CATALYTIC ACTIVITY: (6R)-6-beta-hydroxy-1,4,5,6- tetrahydronicotinamide-adenine dinucleotide phosphate = (6S)-6- beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate. {ECO:0000255|HAMAP-Rule:MF_01966}.', 'COFACTOR: Name=K(+); Xref=ChEBI:CHEBI:29103;   Evidence={ECO:0000255|HAMAP-Rule:MF_01966}; Note=Binds 1 potassium ion per subunit. {ECO:0000255|HAMAP- Rule:MF_01966};', 'SIMILARITY: Belongs to the NnrE/AIBP family. {ECO:0000255|HAMAP- Rule:MF_01966}.', 'SIMILARITY: Contains 1 YjeF N-terminal domain. {ECO:0000255|HAMAP- Rule:MF_01966}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28869.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096816.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRQ9', '-'), ('STRING', '272624.lpg2821', '-'), ('EnsemblBacteria', 'AAU28869', 'AAU28869', 'lpg2821'), ('GeneID', '19834386', '-'), ('KEGG', 'lpn:lpg2821', '-'), ('KEGG', 'lpu:LPE509_00208', '-'), ('PATRIC', '22333019', 'VBILegPne29832_3004'), ('eggNOG', 'COG0062', '-'), ('HOGENOM', 'HOG000279042', '-'), ('OMA', 'ENIANFA', '-'), ('OrthoDB', 'EOG6C018D', '-'), ('BioCyc', 'LPNE272624:GHDI-2819-MONOMER', '-'), ('GO', 'GO:0046872', 'F:metal ion binding', 'IEA:UniProtKB-KW'), ('GO', 'GO:0052856', 'F:NADHX epimerase activity', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0000166', 'F:nucleotide binding', 'IEA:UniProtKB-KW'), ('Gene3D', '3.40.50.10260', '-', '1'), ('HAMAP', 'MF_01966', 'NADHX_epimerase', '1'), ('InterPro', 'IPR004443', 'YjeF_N_dom'), ('Pfam', 'PF03853', 'YjeF_N', '1'), ('SUPFAM', 'SSF64153', 'SSF64153', '1'), ('TIGRFAMs', 'TIGR00197', 'yjeF_nterm', '1'), ('PROSITE', 'PS51385', 'YJEF_N', '1')]
+
+Palavras-chave:['Complete proteome', 'Isomerase', 'Metal-binding', 'NAD', 'NADP', 'Nucleotide-binding', 'Potassium', 'Reference proteome']
+
+Caracteristicas:[('CHAIN', 1, 270, 'NAD(P)H-hydrate epimerase.', 'PRO_0000416364'), ('DOMAIN', 25, 234, 'YjeF N-terminal. {ECO:0000255|HAMAP- Rule:MF_01966}.', ''), ('REGION', 73, 77, 'NAD(P)HX. {ECO:0000255|HAMAP- Rule:MF_01966}.', ''), ('REGION', 148, 154, 'NAD(P)HX. {ECO:0000255|HAMAP- Rule:MF_01966}.', ''), ('METAL', 74, 74, 'Potassium. {ECO:0000255|HAMAP- Rule:MF_01966}.', ''), ('METAL', 144, 144, 'Potassium. {ECO:0000255|HAMAP- Rule:MF_01966}.', ''), ('METAL', 180, 180, 'Potassium. {ECO:0000255|HAMAP- Rule:MF_01966}.', ''), ('BINDING', 177, 177, 'NAD(P)HX. {ECO:0000255|HAMAP- Rule:MF_01966}.', '')]
+
+Informacao sobre a sequencia:(270, 30300, 'CEF8A747F642561C')
+
+Sequencia:MDYYFTKGKPQLVNMKTPVYLVTQFQQLMDLMQNQYQVSCLELMQRSGKAACDFLVYRWPKVKKISIFCGRGDNGGQGYVLAQQAKKMGMIPTVWQVGHQMSMSKPPQMHEEVWYEMNSCHQQGILLHTYSPDIDLGDPELIVDALFGVGLYGHVRPEIASLLQRLQQFTVPILAIEVPTGINASTGEIAGNALAATATITFLCMKLGLLINDGKIYSGEIAFDDLLAPEAIYQQVKGIEKSSLLDSSTCFSKKIWYRNKTQKGWQLSIN
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRF3****
+
+****Informacao sobre a proteina****
+
+
+Nome:PAND_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:133
+
+Accession:['Q5ZRF3']
+
+Criado:('07-JUN-2005', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=Aspartate 1-decarboxylase {ECO:0000255|HAMAP-Rule:MF_00446}; EC=4.1.1.11 {ECO:0000255|HAMAP-Rule:MF_00446}; AltName: Full=Aspartate alpha-decarboxylase {ECO:0000255|HAMAP-Rule:MF_00446}; Contains: RecName: Full=Aspartate 1-decarboxylase beta chain {ECO:0000255|HAMAP-Rule:MF_00446}; Contains: RecName: Full=Aspartate 1-decarboxylase alpha chain {ECO:0000255|HAMAP-Rule:MF_00446}; Flags: Precursor;
+
+Nome do gene:Name=panD {ECO:0000255|HAMAP-Rule:MF_00446}; OrderedLocusNames=lpg2929;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9780>]
+
+Comentarios:['FUNCTION: Catalyzes the pyruvoyl-dependent decarboxylation of aspartate to produce beta-alanine. {ECO:0000255|HAMAP- Rule:MF_00446}.', 'CATALYTIC ACTIVITY: L-aspartate = beta-alanine + CO(2). {ECO:0000255|HAMAP-Rule:MF_00446}.', 'COFACTOR: Name=pyruvoyl group; Xref=ChEBI:CHEBI:45360;   Evidence={ECO:0000255|HAMAP-Rule:MF_00446};', 'PATHWAY: Cofactor biosynthesis; (R)-pantothenate biosynthesis; beta-alanine from L-aspartate: step 1/1. {ECO:0000255|HAMAP- Rule:MF_00446}.', 'SUBUNIT: Heterooctamer of four alpha and four beta subunits. {ECO:0000255|HAMAP-Rule:MF_00446}.', 'SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00446}.', 'PTM: Is synthesized initially as an inactive proenzyme, which is activated by self-cleavage at a specific serine bond to produce a beta-subunit with a hydroxyl group at its C-terminus and an alpha- subunit with a pyruvoyl group at its N-terminus. {ECO:0000255|HAMAP-Rule:MF_00446}.', 'SIMILARITY: Belongs to the PanD family. {ECO:0000255|HAMAP- Rule:MF_00446}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28975.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096922.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRF3', '-'), ('STRING', '272624.lpg2929', '-'), ('EnsemblBacteria', 'AAU28975', 'AAU28975', 'lpg2929'), ('GeneID', '19834494', '-'), ('KEGG', 'lpn:lpg2929', '-'), ('KEGG', 'lpu:LPE509_00083', '-'), ('PATRIC', '22333265', 'VBILegPne29832_3127'), ('eggNOG', 'COG0853', '-'), ('HOGENOM', 'HOG000221007', '-'), ('KO', 'K01579', '-'), ('OMA', 'WYDGSCA', '-'), ('OrthoDB', 'EOG6P5ZMC', '-'), ('BioCyc', 'LPNE272624:GHDI-2927-MONOMER', '-'), ('UniPathway', 'UPA00028', 'UER00002'), ('GO', 'GO:0005737', 'C:cytoplasm', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0004068', 'F:aspartate 1-decarboxylase activity', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0006523', 'P:alanine biosynthetic process', 'IEA:InterPro'), ('GO', 'GO:0015940', 'P:pantothenate biosynthetic process', 'IEA:UniProtKB-HAMAP'), ('HAMAP', 'MF_00446', 'PanD', '1'), ('InterPro', 'IPR009010', 'Asp_de-COase-like_dom'), ('InterPro', 'IPR003190', 'Asp_decarbox'), ('PANTHER', 'PTHR21012', 'PTHR21012', '1'), ('Pfam', 'PF02261', 'Asp_decarbox', '1'), ('PIRSF', 'PIRSF006246', 'Asp_decarbox', '1'), ('ProDom', 'PD009294', 'Asp_decarbox', '1'), ('SUPFAM', 'SSF50692', 'SSF50692', '1'), ('TIGRFAMs', 'TIGR00223', 'panD', '1')]
+
+Palavras-chave:['Autocatalytic cleavage', 'Complete proteome', 'Cytoplasm', 'Decarboxylase', 'Lyase', 'Pantothenate biosynthesis', 'Pyruvate', 'Reference proteome', 'Schiff base', 'Zymogen']
+
+Caracteristicas:[('CHAIN', 1, 25, 'Aspartate 1-decarboxylase beta chain. {ECO:0000255|HAMAP-Rule:MF_00446}.', 'PRO_0000023097'), ('CHAIN', 26, 133, 'Aspartate 1-decarboxylase alpha chain. {ECO:0000255|HAMAP-Rule:MF_00446}.', 'PRO_0000023098'), ('REGION', 74, 76, 'Substrate binding. {ECO:0000255|HAMAP- Rule:MF_00446}.', ''), ('ACT_SITE', 26, 26, 'Schiff-base intermediate with substrate; via pyruvic acid. {ECO:0000255|HAMAP- Rule:MF_00446}.', ''), ('ACT_SITE', 59, 59, 'Proton donor. {ECO:0000255|HAMAP- Rule:MF_00446}.', ''), ('BINDING', 58, 58, 'Substrate. {ECO:0000255|HAMAP- Rule:MF_00446}.', ''), ('MOD_RES', 26, 26, 'Pyruvic acid (Ser).', '')]
+
+Informacao sobre a sequencia:(133, 14658, '8B6A12467EA34CB9')
+
+Sequencia:MAYRKMLKSKIHRACVTQADLDYEGSITISPELLKVANILPYEAVNVWNITAGTRFETYAITGEKGSTDICVNGAAAHLVTPGDLVIIASFTQILEEDCAAHEPTVVFVDQFNRLKEIRPERIGVKSRIPNPA
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRA9****
+
+****Informacao sobre a proteina****
+
+
+Nome:PSD_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:283
+
+Accession:['Q5ZRA9']
+
+Criado:('07-JUN-2005', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=Phosphatidylserine decarboxylase proenzyme {ECO:0000255|HAMAP-Rule:MF_00662}; EC=4.1.1.65 {ECO:0000255|HAMAP-Rule:MF_00662}; Contains: RecName: Full=Phosphatidylserine decarboxylase alpha chain {ECO:0000255|HAMAP-Rule:MF_00662}; Contains: RecName: Full=Phosphatidylserine decarboxylase beta chain {ECO:0000255|HAMAP-Rule:MF_00662};
+
+Nome do gene:Name=psd {ECO:0000255|HAMAP-Rule:MF_00662}; OrderedLocusNames=lpg2974;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9A20>]
+
+Comentarios:['CATALYTIC ACTIVITY: Phosphatidyl-L-serine = phosphatidylethanolamine + CO(2). {ECO:0000255|HAMAP- Rule:MF_00662}.', 'COFACTOR: Name=pyruvoyl group; Xref=ChEBI:CHEBI:45360;   Evidence={ECO:0000255|HAMAP-Rule:MF_00662};', 'PATHWAY: Phospholipid metabolism; phosphatidylethanolamine biosynthesis; phosphatidylethanolamine from CDP-diacylglycerol: step 2/2. {ECO:0000255|HAMAP-Rule:MF_00662}.', 'SIMILARITY: Belongs to the phosphatidylserine decarboxylase family. Type 1 subfamily. {ECO:0000255|HAMAP-Rule:MF_00662}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29019.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096966.1', 'NC_002942.5'), ('STRING', '272624.lpg2974', '-'), ('EnsemblBacteria', 'AAU29019', 'AAU29019', 'lpg2974'), ('GeneID', '19834539', '-'), ('KEGG', 'lpn:lpg2974', '-'), ('PATRIC', '22333369', 'VBILegPne29832_3178'), ('eggNOG', 'COG0688', '-'), ('HOGENOM', 'HOG000282407', '-'), ('KO', 'K01613', '-'), ('OMA', 'RVHMPWT', '-'), ('OrthoDB', 'EOG6B8XK4', '-'), ('BioCyc', 'LPNE272624:GHDI-2972-MONOMER', '-'), ('UniPathway', 'UPA00558', 'UER00616'), ('GO', 'GO:0004609', 'F:phosphatidylserine decarboxylase activity', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0006646', 'P:phosphatidylethanolamine biosynthetic process', 'IEA:UniProtKB-UniPathway'), ('HAMAP', 'MF_00662', 'PS_decarb_type1', '1'), ('InterPro', 'IPR003817', 'PS_Dcarbxylase'), ('PANTHER', 'PTHR10067', 'PTHR10067', '1'), ('Pfam', 'PF02666', 'PS_Dcarbxylase', '1'), ('TIGRFAMs', 'TIGR00163', 'PS_decarb', '1')]
+
+Palavras-chave:['Complete proteome', 'Decarboxylase', 'Lipid biosynthesis', 'Lipid metabolism', 'Lyase', 'Phospholipid biosynthesis', 'Phospholipid metabolism', 'Pyruvate', 'Reference proteome', 'Zymogen']
+
+Caracteristicas:[('CHAIN', 1, 248, 'Phosphatidylserine decarboxylase beta chain. {ECO:0000255|HAMAP-Rule:MF_00662}.', 'PRO_0000029673'), ('CHAIN', 249, 283, 'Phosphatidylserine decarboxylase alpha chain. {ECO:0000255|HAMAP-Rule:MF_00662}.', 'PRO_0000029674'), ('SITE', 248, 249, 'Cleavage (non-hydrolytic). {ECO:0000255|HAMAP-Rule:MF_00662}.', ''), ('MOD_RES', 249, 249, 'Pyruvic acid (Ser). {ECO:0000255|HAMAP- Rule:MF_00662}.', '')]
+
+Informacao sobre a sequencia:(283, 31959, 'EEA68F48C6BA2532')
+
+Sequencia:MFRDVLKTLPQYLIPKHGITALAGYFADVKNPRLKNFLIQNFIRKFDVDMSEALIEDPKSYDCFNDFFIRHLKPECRPLSQSDVICPVDGCISEIGKIERGQLLQAKGKYYSVQELLACDGQLAEQFVQGQFATLYLSPKDYHRVHMPIDAELVSMTYIPGALFSVQPATTRVVPKLFARNERLAIFFKTKIGPMVMVMVGATIVGAIGTSWHGDVKRSKELERFDYSEQFLDKIISQGSEMGYFKLGSTVVLLFANGEKIQWDKELLAGSKIQLGKPMAIIT
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRJ5****
+
+****Informacao sobre a proteina****
+
+
+Nome:QUEC_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:228
+
+Accession:['Q5ZRJ5']
+
+Criado:('25-JUL-2006', 0)
+
+Adaptacao da sequencia:('31-OCT-2006', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=7-cyano-7-deazaguanine synthase {ECO:0000255|HAMAP-Rule:MF_01633}; EC=6.3.4.20 {ECO:0000255|HAMAP-Rule:MF_01633}; AltName: Full=7-cyano-7-carbaguanine synthase {ECO:0000255|HAMAP-Rule:MF_01633}; AltName: Full=PreQ(0) synthase {ECO:0000255|HAMAP-Rule:MF_01633}; AltName: Full=Queuosine biosynthesis protein QueC {ECO:0000255|HAMAP-Rule:MF_01633};
+
+Nome do gene:Name=queC {ECO:0000255|HAMAP-Rule:MF_01633}; OrderedLocusNames=lpg2886;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9CF8>]
+
+Comentarios:['FUNCTION: Catalyzes the ATP-dependent conversion of 7-carboxy-7- deazaguanine (CDG) to 7-cyano-7-deazaguanine (preQ(0)). {ECO:0000255|HAMAP-Rule:MF_01633}.', 'CATALYTIC ACTIVITY: 7-carboxy-7-carbaguanine + NH(3) + ATP = 7- cyano-7-carbaguanine + ADP + phosphate + H(2)O. {ECO:0000255|HAMAP-Rule:MF_01633}.', 'COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105;   Evidence={ECO:0000255|HAMAP-Rule:MF_01633}; Note=Binds 1 zinc ion per subunit. {ECO:0000255|HAMAP- Rule:MF_01633};', 'PATHWAY: Purine metabolism; 7-cyano-7-deazaguanine biosynthesis. {ECO:0000255|HAMAP-Rule:MF_01633}.', 'SIMILARITY: Belongs to the QueC family. {ECO:0000255|HAMAP- Rule:MF_01633}.', 'SEQUENCE CAUTION: Sequence=AAU28933.1; Type=Erroneous initiation; Evidence={ECO:0000305};']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28933.1', 'ALT_INIT', 'Genomic_DNA'), ('RefSeq', 'YP_096880.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRJ5', '-'), ('STRING', '272624.lpg2886', '-'), ('EnsemblBacteria', 'AAU28933', 'AAU28933', 'lpg2886'), ('GeneID', '19834451', '-'), ('KEGG', 'lpn:lpg2886', '-'), ('KEGG', 'lpu:LPE509_00139', '-'), ('PATRIC', '22333159', 'VBILegPne29832_3074'), ('eggNOG', 'COG0603', '-'), ('HOGENOM', 'HOG000110564', '-'), ('KO', 'K06920', '-'), ('OMA', 'CLSCIAR', '-'), ('OrthoDB', 'EOG6091HB', '-'), ('BioCyc', 'LPNE272624:GHDI-2884-MONOMER', '-'), ('UniPathway', 'UPA00391', '-'), ('GO', 'GO:0005524', 'F:ATP binding', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0016879', 'F:ligase activity, forming carbon-nitrogen bonds', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0008270', 'F:zinc ion binding', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0008616', 'P:queuosine biosynthetic process', 'IEA:UniProtKB-HAMAP'), ('Gene3D', '3.40.50.620', '-', '1'), ('HAMAP', 'MF_01633', 'QueC', '1'), ('InterPro', 'IPR018317', 'QueC'), ('InterPro', 'IPR014729', 'Rossmann-like_a/b/a_fold'), ('Pfam', 'PF06508', 'QueC', '1'), ('PIRSF', 'PIRSF006293', 'ExsB', '1'), ('TIGRFAMs', 'TIGR00364', 'TIGR00364', '1')]
+
+Palavras-chave:['ATP-binding', 'Complete proteome', 'Ligase', 'Metal-binding', 'Nucleotide-binding', 'Queuosine biosynthesis', 'Reference proteome', 'Zinc']
+
+Caracteristicas:[('CHAIN', 1, 228, '7-cyano-7-deazaguanine synthase.', 'PRO_0000246857'), ('NP_BIND', 8, 18, 'ATP. {ECO:0000255|HAMAP-Rule:MF_01633}.', ''), ('METAL', 188, 188, 'Zinc. {ECO:0000255|HAMAP-Rule:MF_01633}.', ''), ('METAL', 198, 198, 'Zinc. {ECO:0000255|HAMAP-Rule:MF_01633}.', ''), ('METAL', 201, 201, 'Zinc. {ECO:0000255|HAMAP-Rule:MF_01633}.', ''), ('METAL', 204, 204, 'Zinc. {ECO:0000255|HAMAP-Rule:MF_01633}.', '')]
+
+Informacao sobre a sequencia:(228, 24477, '3137FC0E64F1AB8A')
+
+Sequencia:MKKAVVLLSGGLDSTTCLALAKSQGFACYALSFSYGQRHSAELCAATRIAKHMGAADHKIVTLDIALFGGSALTDASIEVPEFKESPEIPVTYVPARNTIFLAMALGYAESIGARDIFIGASSVDYSHYPDCRPEFIESFQSLANLATKAGIEGDRFTINAPLQYLSKVQTIQLGTELGVDYGLTVSCYQANEAGEACGQCDSCTFRKRGFKSAGVDDPTRYQKCVHI
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZR78****
+
+****Informacao sobre a proteina****
+
+
+Nome:RL34_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:44
+
+Accession:['Q5ZR78']
+
+Criado:('02-AUG-2005', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=50S ribosomal protein L34 {ECO:0000255|HAMAP-Rule:MF_00391};
+
+Nome do gene:Name=rpmH {ECO:0000255|HAMAP-Rule:MF_00391}; OrderedLocusNames=lpg3005;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9D68>]
+
+Comentarios:['SIMILARITY: Belongs to the ribosomal protein L34P family. {ECO:0000255|HAMAP-Rule:MF_00391}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29050.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096997.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZR78', '-'), ('SMR', 'Q5ZR78', '1-44'), ('STRING', '272624.lpg3005', '-'), ('EnsemblBacteria', 'AAU29050', 'AAU29050', 'lpg3005'), ('GeneID', '19834569', '-'), ('KEGG', 'lpn:lpg3005', '-'), ('PATRIC', '22333437', 'VBILegPne29832_3212'), ('eggNOG', 'COG0230', '-'), ('HOGENOM', 'HOG000111572', '-'), ('KO', 'K02914', '-'), ('OMA', 'DEDIICK', '-'), ('OrthoDB', 'EOG6DZF71', '-'), ('BioCyc', 'LPNE272624:GHDI-3003-MONOMER', '-'), ('GO', 'GO:0005840', 'C:ribosome', 'IEA:UniProtKB-KW'), ('GO', 'GO:0003735', 'F:structural constituent of ribosome', 'IEA:InterPro'), ('GO', 'GO:0006412', 'P:translation', 'IEA:InterPro'), ('HAMAP', 'MF_00391', 'Ribosomal_L34', '1'), ('InterPro', 'IPR000271', 'Ribosomal_L34'), ('InterPro', 'IPR020939', 'Ribosomal_L34_CS'), ('PANTHER', 'PTHR14503', 'PTHR14503', '1'), ('Pfam', 'PF00468', 'Ribosomal_L34', '1'), ('ProDom', 'PD003101', 'Ribosomal_L34', '1'), ('TIGRFAMs', 'TIGR01030', 'rpmH_bact', '1'), ('PROSITE', 'PS00784', 'RIBOSOMAL_L34', '1')]
+
+Palavras-chave:['Complete proteome', 'Reference proteome', 'Ribonucleoprotein', 'Ribosomal protein']
+
+Caracteristicas:[('CHAIN', 1, 44, '50S ribosomal protein L34.', 'PRO_0000187398')]
+
+Informacao sobre a sequencia:(44, 5322, '19672E4D1CD2A3E0')
+
+Sequencia:MKRTFQPSNLKRKRDHGFRLRMSTRAGRLVIKRRRAKGRKRLSA
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRT1****
+
+****Informacao sobre a proteina****
+
+
+Nome:RLME_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:206
+
+Accession:['Q5ZRT1']
+
+Criado:('06-DEC-2005', 0)
+
+Adaptacao da sequencia:('06-DEC-2005', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=Ribosomal RNA large subunit methyltransferase E {ECO:0000255|HAMAP-Rule:MF_01547}; EC=2.1.1.166 {ECO:0000255|HAMAP-Rule:MF_01547}; AltName: Full=23S rRNA Um2552 methyltransferase {ECO:0000255|HAMAP-Rule:MF_01547}; AltName: Full=rRNA (uridine-2'-O-)-methyltransferase {ECO:0000255|HAMAP-Rule:MF_01547};
+
+Nome do gene:Name=rlmE {ECO:0000255|HAMAP-Rule:MF_01547}; Synonyms=ftsJ {ECO:0000255|HAMAP-Rule:MF_01547}, rrmJ {ECO:0000255|HAMAP-Rule:MF_01547}; OrderedLocusNames=lpg2797;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9D30>]
+
+Comentarios:["FUNCTION: Specifically methylates the uridine in position 2552 of 23S rRNA at the 2'-O position of the ribose in the fully assembled 50S ribosomal subunit. {ECO:0000255|HAMAP-Rule:MF_01547}.", "CATALYTIC ACTIVITY: S-adenosyl-L-methionine + uridine(2552) in 23S rRNA = S-adenosyl-L-homocysteine + 2'-O-methyluridine(2552) in 23S rRNA. {ECO:0000255|HAMAP-Rule:MF_01547}.", 'SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_01547}.', 'SIMILARITY: Belongs to the class I-like SAM-binding methyltransferase superfamily. RNA methyltransferase RlmE family. {ECO:0000255|HAMAP-Rule:MF_01547}.', 'SEQUENCE CAUTION: Sequence=AAU28846.1; Type=Erroneous initiation; Evidence={ECO:0000305};']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28846.1', 'ALT_INIT', 'Genomic_DNA'), ('RefSeq', 'YP_096793.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRT1', '-'), ('SMR', 'Q5ZRT1', '27-205'), ('STRING', '272624.lpg2797', '-'), ('EnsemblBacteria', 'AAU28846', 'AAU28846', 'lpg2797'), ('GeneID', '19834362', '-'), ('KEGG', 'lpn:lpg2797', '-'), ('KEGG', 'lpu:LPE509_00233', '-'), ('PATRIC', '22332967', 'VBILegPne29832_2978'), ('eggNOG', 'COG0293', '-'), ('HOGENOM', 'HOG000162367', '-'), ('KO', 'K02427', '-'), ('OMA', 'QYVVSQI', '-'), ('OrthoDB', 'EOG657JC0', '-'), ('BioCyc', 'LPNE272624:GHDI-2795-MONOMER', '-'), ('GO', 'GO:0005737', 'C:cytoplasm', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0008650', "F:rRNA (uridine-2'-O-)-methyltransferase activity", 'IEA:UniProtKB-HAMAP'), ('Gene3D', '3.40.50.150', '-', '1'), ('HAMAP', 'MF_01547', 'RNA_methyltr_E', '1'), ('InterPro', 'IPR015507', 'rRNA-MeTfrase_E'), ('InterPro', 'IPR002877', 'rRNA_MeTrfase_FtsJ_dom'), ('InterPro', 'IPR029063', 'SAM-dependent_MTases-like'), ('PANTHER', 'PTHR10920', 'PTHR10920', '1'), ('Pfam', 'PF01728', 'FtsJ', '1'), ('PIRSF', 'PIRSF005461', '23S_rRNA_mtase', '1'), ('SUPFAM', 'SSF53335', 'SSF53335', '1')]
+
+Palavras-chave:['Complete proteome', 'Cytoplasm', 'Methyltransferase', 'Reference proteome', 'rRNA processing', 'S-adenosyl-L-methionine', 'Transferase']
+
+Caracteristicas:[('CHAIN', 1, 206, 'Ribosomal RNA large subunit methyltransferase E.', 'PRO_0000155508'), ('ACT_SITE', 161, 161, 'Proton acceptor. {ECO:0000255|HAMAP- Rule:MF_01547}.', ''), ('BINDING', 60, 60, 'S-adenosyl-L-methionine; via amide nitrogen. {ECO:0000255|HAMAP- Rule:MF_01547}.', ''), ('BINDING', 62, 62, 'S-adenosyl-L-methionine; via amide nitrogen. {ECO:0000255|HAMAP- Rule:MF_01547}.', ''), ('BINDING', 80, 80, 'S-adenosyl-L-methionine. {ECO:0000255|HAMAP-Rule:MF_01547}.', ''), ('BINDING', 96, 96, 'S-adenosyl-L-methionine. {ECO:0000255|HAMAP-Rule:MF_01547}.', ''), ('BINDING', 121, 121, 'S-adenosyl-L-methionine. {ECO:0000255|HAMAP-Rule:MF_01547}.', '')]
+
+Informacao sobre a sequencia:(206, 23148, '0815F0FD0C050BCE')
+
+Sequencia:MNRTKSSKRWLQEHFDDVYVKKAQAEGYRSRAVYKLKEIDDKESLIKPGMTVVDLGAAPGGWTQYASEKMRGSGRLVALDILPMDALPNVEFILGDFREDNVLQELINLIPQRTLDLLLSDMAPNMSGSSAIDIPRAMYLVELAFDFAEKMLKPGGNMLVKIFHGSGFDELVKQARASFEKVVIRKPSASRSRSKETYLLAKGYNL
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRK9****
+
+****Informacao sobre a proteina****
+
+
+Nome:RPPH_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:175
+
+Accession:['Q5ZRK9']
+
+Criado:('04-APR-2006', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=RNA pyrophosphohydrolase {ECO:0000255|HAMAP-Rule:MF_00298}; EC=3.6.1.- {ECO:0000255|HAMAP-Rule:MF_00298}; AltName: Full=(Di)nucleoside polyphosphate hydrolase {ECO:0000255|HAMAP-Rule:MF_00298};
+
+Nome do gene:Name=rppH {ECO:0000255|HAMAP-Rule:MF_00298}; Synonyms=nudH {ECO:0000255|HAMAP-Rule:MF_00298}; OrderedLocusNames=lpg2872;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9898>]
+
+Comentarios:["FUNCTION: Accelerates the degradation of transcripts by removing pyrophosphate from the 5'-end of triphosphorylated RNA, leading to a more labile monophosphorylated state that can stimulate subsequent ribonuclease cleavage. {ECO:0000255|HAMAP- Rule:MF_00298}.", 'COFACTOR: Name=a divalent metal cation; Xref=ChEBI:CHEBI:60240;   Evidence={ECO:0000255|HAMAP-Rule:MF_00298};', 'SIMILARITY: Belongs to the Nudix hydrolase family. RppH subfamily. {ECO:0000255|HAMAP-Rule:MF_00298}.', 'SIMILARITY: Contains 1 nudix hydrolase domain. {ECO:0000255|HAMAP- Rule:MF_00298}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28919.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096866.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRK9', '-'), ('STRING', '272624.lpg2872', '-'), ('EnsemblBacteria', 'AAU28919', 'AAU28919', 'lpg2872'), ('GeneID', '19834437', '-'), ('KEGG', 'lpn:lpg2872', '-'), ('KEGG', 'lpu:LPE509_00154', '-'), ('PATRIC', '22333129', 'VBILegPne29832_3059'), ('eggNOG', 'COG0494', '-'), ('HOGENOM', 'HOG000066723', '-'), ('KO', 'K08311', '-'), ('OMA', 'GIVICNK', '-'), ('OrthoDB', 'EOG6Q2SKR', '-'), ('BioCyc', 'LPNE272624:GHDI-2870-MONOMER', '-'), ('GO', 'GO:0016818', 'F:hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0046872', 'F:metal ion binding', 'IEA:UniProtKB-HAMAP'), ('Gene3D', '3.90.79.10', '-', '1'), ('HAMAP', 'MF_00298', 'Nudix_RppH', '1'), ('InterPro', 'IPR020476', 'Nudix_hydrolase'), ('InterPro', 'IPR020084', 'NUDIX_hydrolase_CS'), ('InterPro', 'IPR000086', 'NUDIX_hydrolase_dom'), ('InterPro', 'IPR015797', 'NUDIX_hydrolase_dom-like'), ('InterPro', 'IPR022927', 'RppH'), ('Pfam', 'PF00293', 'NUDIX', '1'), ('PRINTS', 'PR00502', 'NUDIXFAMILY'), ('SUPFAM', 'SSF55811', 'SSF55811', '1'), ('PROSITE', 'PS51462', 'NUDIX', '1'), ('PROSITE', 'PS00893', 'NUDIX_BOX', '1')]
+
+Palavras-chave:['Complete proteome', 'Hydrolase', 'Reference proteome']
+
+Caracteristicas:[('CHAIN', 1, 175, 'RNA pyrophosphohydrolase.', 'PRO_0000231914'), ('DOMAIN', 7, 150, 'Nudix hydrolase. {ECO:0000255|HAMAP- Rule:MF_00298}.', ''), ('MOTIF', 39, 60, 'Nudix box.', '')]
+
+Informacao sobre a sequencia:(175, 20709, '7F77D9B3DB4550D5')
+
+Sequencia:MVIDRAGYRLNVGIILVNDSDRVFWGRRSGHDAWQFPQGGLAPGETAMQAMYRELHEEVGLDKGDVEILGSTRRWLKYRLPKQYLRHGSEPLVIGQKQKWYLLKLVTSEQKVRLDLSDSPEFDSWRWVDFHEPEQQVIFFKRQVYIQALKELEPLLKKERRTPYGLKRKRGNQRA
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRF4****
+
+****Informacao sobre a proteina****
+
+
+Nome:RSMA_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:256
+
+Accession:['Q5ZRF4']
+
+Criado:('26-APR-2005', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=Ribosomal RNA small subunit methyltransferase A {ECO:0000255|HAMAP-Rule:MF_00607}; EC=2.1.1.182 {ECO:0000255|HAMAP-Rule:MF_00607}; AltName: Full=16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase {ECO:0000255|HAMAP-Rule:MF_00607}; AltName: Full=16S rRNA dimethyladenosine transferase {ECO:0000255|HAMAP-Rule:MF_00607}; AltName: Full=16S rRNA dimethylase {ECO:0000255|HAMAP-Rule:MF_00607}; AltName: Full=S-adenosylmethionine-6-N', N'-adenosyl(rRNA) dimethyltransferase {ECO:0000255|HAMAP-Rule:MF_00607};
+
+Nome do gene:Name=rsmA {ECO:0000255|HAMAP-Rule:MF_00607}; Synonyms=ksgA {ECO:0000255|HAMAP-Rule:MF_00607}; OrderedLocusNames=lpg2928;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9C88>]
+
+Comentarios:["FUNCTION: Specifically dimethylates two adjacent adenosines (A1518 and A1519) in the loop of a conserved hairpin near the 3'-end of 16S rRNA in the 30S particle. May play a critical role in biogenesis of 30S subunits. {ECO:0000255|HAMAP-Rule:MF_00607}.", 'CATALYTIC ACTIVITY: 4 S-adenosyl-L-methionine + adenine(1518)/adenine(1519) in 16S rRNA = 4 S-adenosyl-L- homocysteine + N(6)-dimethyladenine(1518)/N(6)- dimethyladenine(1519) in 16S rRNA. {ECO:0000255|HAMAP- Rule:MF_00607}.', 'SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00607}.', 'SIMILARITY: Belongs to the class I-like SAM-binding methyltransferase superfamily. rRNA adenine N(6)-methyltransferase family. RsmA subfamily. {ECO:0000255|HAMAP-Rule:MF_00607}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28974.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096921.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRF4', '-'), ('STRING', '272624.lpg2928', '-'), ('EnsemblBacteria', 'AAU28974', 'AAU28974', 'lpg2928'), ('GeneID', '19834493', '-'), ('KEGG', 'lpn:lpg2928', '-'), ('KEGG', 'lpu:LPE509_00084', '-'), ('PATRIC', '22333263', 'VBILegPne29832_3126'), ('eggNOG', 'COG0030', '-'), ('HOGENOM', 'HOG000227962', '-'), ('KO', 'K02528', '-'), ('OMA', 'DHVMVEI', '-'), ('OrthoDB', 'EOG66F08Z', '-'), ('BioCyc', 'LPNE272624:GHDI-2926-MONOMER', '-'), ('GO', 'GO:0005737', 'C:cytoplasm', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0052908', 'F:16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase activity', 'IEA:UniProtKB-EC'), ('GO', 'GO:0003723', 'F:RNA binding', 'IEA:UniProtKB-KW'), ('GO', 'GO:0000179', 'F:rRNA (adenine-N6,N6-)-dimethyltransferase activity', 'IEA:InterPro'), ('Gene3D', '1.10.8.100', '-', '1'), ('Gene3D', '3.40.50.150', '-', '1'), ('HAMAP', 'MF_00607', '16SrRNA_methyltr_A', '1'), ('InterPro', 'IPR023165', 'rRNA_Ade_diMease-like'), ('InterPro', 'IPR020596', 'rRNA_Ade_Mease_Trfase_CS'), ('InterPro', 'IPR001737', 'rRNA_Ade_methylase_transferase'), ('InterPro', 'IPR020598', 'rRNA_Ade_methylase_Trfase_N'), ('InterPro', 'IPR011530', 'rRNA_adenine_dimethylase'), ('InterPro', 'IPR029063', 'SAM-dependent_MTases-like'), ('PANTHER', 'PTHR11727', 'PTHR11727', '1'), ('Pfam', 'PF00398', 'RrnaAD', '1'), ('SMART', 'SM00650', 'rADc', '1'), ('SUPFAM', 'SSF53335', 'SSF53335', '1'), ('TIGRFAMs', 'TIGR00755', 'ksgA', '1'), ('PROSITE', 'PS01131', 'RRNA_A_DIMETH', '1'), ('PROSITE', 'PS51689', 'SAM_RNA_A_N6_MT', '1')]
+
+Palavras-chave:['Complete proteome', 'Cytoplasm', 'Methyltransferase', 'Reference proteome', 'RNA-binding', 'rRNA processing', 'S-adenosyl-L-methionine', 'Transferase']
+
+Caracteristicas:[('CHAIN', 1, 256, 'Ribosomal RNA small subunit methyltransferase A.', 'PRO_0000101548'), ('BINDING', 12, 12, 'S-adenosyl-L-methionine; via carbonyl oxygen. {ECO:0000255|HAMAP- Rule:MF_00607}.', ''), ('BINDING', 14, 14, 'S-adenosyl-L-methionine; via amide nitrogen. {ECO:0000255|HAMAP- Rule:MF_00607}.', ''), ('BINDING', 39, 39, 'S-adenosyl-L-methionine; via carbonyl oxygen. {ECO:0000255|HAMAP- Rule:MF_00607}.', ''), ('BINDING', 60, 60, 'S-adenosyl-L-methionine. {ECO:0000255|HAMAP-Rule:MF_00607}.', ''), ('BINDING', 85, 85, 'S-adenosyl-L-methionine. {ECO:0000255|HAMAP-Rule:MF_00607}.', ''), ('BINDING', 103, 103, 'S-adenosyl-L-methionine. {ECO:0000255|HAMAP-Rule:MF_00607}.', '')]
+
+Informacao sobre a sequencia:(256, 28814, 'DD237083943A063B')
+
+Sequencia:MRHSPRKRFGQNFLQDKYIINEILRAINPLADDNMLEIGPGLGALTQPLLQKLNQLTAIEIDTDLQSYLTCLPASQGKLNLIPADALTVDFCQFGPHLRVVGNLPYNISTPLLIYLLKFITCIDDMHFMLQKEVVERIAAAHGTKAYGRLSVMLQYHCEVEYLFDVPPEAFEPRPKVDSAIVRLTPYRVSPFESVNTEKLENIVAKAFAMRRKTLTNNLKGIISLSQLNDLGIDGGKRPEQISVAEYVQLAKFISN
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRJ1****
+
+****Informacao sobre a proteina****
+
+
+Nome:RSMG_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:208
+
+Accession:['Q5ZRJ1']
+
+Criado:('22-NOV-2005', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=Ribosomal RNA small subunit methyltransferase G {ECO:0000255|HAMAP-Rule:MF_00074}; EC=2.1.1.170 {ECO:0000255|HAMAP-Rule:MF_00074}; AltName: Full=16S rRNA 7-methylguanosine methyltransferase {ECO:0000255|HAMAP-Rule:MF_00074}; Short=16S rRNA m7G methyltransferase {ECO:0000255|HAMAP-Rule:MF_00074};
+
+Nome do gene:Name=rsmG {ECO:0000255|HAMAP-Rule:MF_00074}; OrderedLocusNames=lpg2890;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9EB8>]
+
+Comentarios:['FUNCTION: Specifically methylates the N7 position of guanine in position 527 of 16S rRNA. {ECO:0000255|HAMAP-Rule:MF_00074}.', 'CATALYTIC ACTIVITY: S-adenosyl-L-methionine + guanine(527) in 16S rRNA = S-adenosyl-L-homocysteine + N(7)-methylguanine(527) in 16S rRNA. {ECO:0000255|HAMAP-Rule:MF_00074}.', 'SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00074}.', 'SIMILARITY: Belongs to the methyltransferase superfamily. RNA methyltransferase RsmG family. {ECO:0000255|HAMAP-Rule:MF_00074}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28937.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096884.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRJ1', '-'), ('STRING', '272624.lpg2890', '-'), ('EnsemblBacteria', 'AAU28937', 'AAU28937', 'lpg2890'), ('GeneID', '19834455', '-'), ('KEGG', 'lpn:lpg2890', '-'), ('KEGG', 'lpu:LPE509_00135', '-'), ('PATRIC', '22333167', 'VBILegPne29832_3078'), ('eggNOG', 'COG0357', '-'), ('HOGENOM', 'HOG000221012', '-'), ('KO', 'K03501', '-'), ('OMA', 'SKHLFDS', '-'), ('OrthoDB', 'EOG6HF639', '-'), ('BioCyc', 'LPNE272624:GHDI-2888-MONOMER', '-'), ('GO', 'GO:0005737', 'C:cytoplasm', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0070043', 'F:rRNA (guanine-N7-)-methyltransferase activity', 'IEA:UniProtKB-HAMAP'), ('Gene3D', '3.40.50.150', '-', '1'), ('HAMAP', 'MF_00074', '16SrRNA_methyltr_G', '1'), ('InterPro', 'IPR003682', 'rRNA_ssu_MeTfrase_G'), ('InterPro', 'IPR029063', 'SAM-dependent_MTases-like'), ('Pfam', 'PF02527', 'GidB', '1'), ('PIRSF', 'PIRSF003078', 'GidB', '1'), ('SUPFAM', 'SSF53335', 'SSF53335', '1'), ('TIGRFAMs', 'TIGR00138', 'gidB', '1')]
+
+Palavras-chave:['Complete proteome', 'Cytoplasm', 'Methyltransferase', 'Reference proteome', 'rRNA processing', 'S-adenosyl-L-methionine', 'Transferase']
+
+Caracteristicas:[('CHAIN', 1, 208, 'Ribosomal RNA small subunit methyltransferase G.', 'PRO_0000184272'), ('REGION', 127, 128, 'S-adenosyl-L-methionine binding. {ECO:0000255|HAMAP-Rule:MF_00074}.', ''), ('BINDING', 76, 76, 'S-adenosyl-L-methionine; via carbonyl oxygen. {ECO:0000255|HAMAP- Rule:MF_00074}.', ''), ('BINDING', 81, 81, 'S-adenosyl-L-methionine; via carbonyl oxygen. {ECO:0000255|HAMAP- Rule:MF_00074}.', ''), ('BINDING', 142, 142, 'S-adenosyl-L-methionine. {ECO:0000255|HAMAP-Rule:MF_00074}.', '')]
+
+Informacao sobre a sequencia:(208, 23743, 'A20A5FA9F3DD008E')
+
+Sequencia:MIDNTKIRSLLEKGLAEFKLDSIGDLLLDFLLLLNKWNKTYNLTAIRDIETMVSKHLFDSLAILPWIKGNHIIDVGTGPGLPGIPLAIAKPDLQFVLLDSNGKKIRFLNEVKRQLNIKNIEPIQIRVENYHPNQGFDTVISRAFSSLEQMIKWTQHLVAQDGLWLAMKGRFPDTELVPIHQTYRVERYAVPGIEGERCCVLINNTNKE
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRP1****
+
+****Informacao sobre a proteina****
+
+
+Nome:SSRP_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:156
+
+Accession:['Q5ZRP1']
+
+Criado:('15-MAR-2005', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=SsrA-binding protein {ECO:0000255|HAMAP-Rule:MF_00023};
+
+Nome do gene:Name=smpB {ECO:0000255|HAMAP-Rule:MF_00023}; OrderedLocusNames=lpg2839;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9BE0>]
+
+Comentarios:['FUNCTION: Binds specifically to the SsrA RNA (tmRNA) and is required for stable association of SsrA with ribosomes. {ECO:0000255|HAMAP-Rule:MF_00023}.', 'SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00023}.', 'SIMILARITY: Belongs to the SmpB family. {ECO:0000255|HAMAP- Rule:MF_00023}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28887.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096834.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRP1', '-'), ('SMR', 'Q5ZRP1', '8-135'), ('STRING', '272624.lpg2839', '-'), ('EnsemblBacteria', 'AAU28887', 'AAU28887', 'lpg2839'), ('GeneID', '19834404', '-'), ('KEGG', 'lpn:lpg2839', '-'), ('KEGG', 'lpu:LPE509_00189', '-'), ('PATRIC', '22333059', 'VBILegPne29832_3024'), ('eggNOG', 'COG0691', '-'), ('HOGENOM', 'HOG000009628', '-'), ('KO', 'K03664', '-'), ('OMA', 'PLKIYIK', '-'), ('OrthoDB', 'EOG6HXJ9P', '-'), ('BioCyc', 'LPNE272624:GHDI-2837-MONOMER', '-'), ('GO', 'GO:0005737', 'C:cytoplasm', 'IEA:UniProtKB-KW'), ('GO', 'GO:0003723', 'F:RNA binding', 'IEA:UniProtKB-KW'), ('Gene3D', '2.40.280.10', '-', '1'), ('HAMAP', 'MF_00023', 'SmpB', '1'), ('InterPro', 'IPR023620', 'SmpB'), ('InterPro', 'IPR000037', 'SsrA-bd_prot'), ('InterPro', 'IPR020081', 'SsrA-bd_prot_CS'), ('Pfam', 'PF01668', 'SmpB', '1'), ('ProDom', 'PD004488', 'SmpB', '1'), ('SUPFAM', 'SSF74982', 'SSF74982', '1'), ('TIGRFAMs', 'TIGR00086', 'smpB', '1'), ('PROSITE', 'PS01317', 'SSRP', '1')]
+
+Palavras-chave:['Complete proteome', 'Cytoplasm', 'Reference proteome', 'RNA-binding']
+
+Caracteristicas:[('CHAIN', 1, 156, 'SsrA-binding protein.', 'PRO_0000102968')]
+
+Informacao sobre a sequencia:(156, 18061, '7191ACDFACEFC08B')
+
+Sequencia:MTTKKQPDSTIALNRKAGFDYFIEDQYEAGLVLEGWEVKSLRAGKINLSDSHVIIKYGEAFLLGAQIQPLPTASTHFIPDPIRTRKLLMNKKELNHLIGSVERQGYTIVPLSLYWKKNKIKIKIALAKGKKEHDKRDTIKDREWQRDRSRIMKKNT
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRJ9****
+
+****Informacao sobre a proteina****
+
+
+Nome:SYM_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:670
+
+Accession:['Q5ZRJ9']
+
+Criado:('05-JUL-2005', 0)
+
+Adaptacao da sequencia:('05-JUL-2005', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=Methionine--tRNA ligase {ECO:0000255|HAMAP-Rule:MF_00098}; EC=6.1.1.10 {ECO:0000255|HAMAP-Rule:MF_00098}; AltName: Full=Methionyl-tRNA synthetase {ECO:0000255|HAMAP-Rule:MF_00098}; Short=MetRS {ECO:0000255|HAMAP-Rule:MF_00098};
+
+Nome do gene:Name=metG {ECO:0000255|HAMAP-Rule:MF_00098}; OrderedLocusNames=lpg2882;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9E48>]
+
+Comentarios:['FUNCTION: Is required not only for elongation of protein synthesis but also for the initiation of all mRNA translation through initiator tRNA(fMet) aminoacylation. {ECO:0000255|HAMAP- Rule:MF_00098}.', 'CATALYTIC ACTIVITY: ATP + L-methionine + tRNA(Met) = AMP + diphosphate + L-methionyl-tRNA(Met). {ECO:0000255|HAMAP- Rule:MF_00098}.', 'COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105;   Evidence={ECO:0000255|HAMAP-Rule:MF_00098}; Note=Binds 1 zinc ion per subunit. {ECO:0000255|HAMAP- Rule:MF_00098};', 'SUBUNIT: Homodimer. {ECO:0000255|HAMAP-Rule:MF_00098}.', 'SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00098}.', 'SIMILARITY: Belongs to the class-I aminoacyl-tRNA synthetase family. MetG type 1 subfamily. {ECO:0000255|HAMAP-Rule:MF_00098}.', 'SIMILARITY: Contains 1 tRNA-binding domain. {ECO:0000255|HAMAP- Rule:MF_00098}.', 'SEQUENCE CAUTION: Sequence=AAU28929.1; Type=Erroneous initiation; Evidence={ECO:0000305};']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28929.1', 'ALT_INIT', 'Genomic_DNA'), ('RefSeq', 'YP_096876.2', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRJ9', '-'), ('SMR', 'Q5ZRJ9', '5-547'), ('STRING', '272624.lpg2882', '-'), ('EnsemblBacteria', 'AAU28929', 'AAU28929', 'lpg2882'), ('GeneID', '19834447', '-'), ('KEGG', 'lpn:lpg2882', '-'), ('PATRIC', '22333151', 'VBILegPne29832_3070'), ('eggNOG', 'COG0143', '-'), ('HOGENOM', 'HOG000200400', '-'), ('KO', 'K01874', '-'), ('OMA', 'NQCIYVC', '-'), ('OrthoDB', 'EOG6CVV9B', '-'), ('BioCyc', 'LPNE272624:GHDI-2880-MONOMER', '-'), ('GO', 'GO:0005737', 'C:cytoplasm', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0005524', 'F:ATP binding', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0046872', 'F:metal ion binding', 'IEA:UniProtKB-KW'), ('GO', 'GO:0004825', 'F:methionine-tRNA ligase activity', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0000049', 'F:tRNA binding', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0006431', 'P:methionyl-tRNA aminoacylation', 'IEA:UniProtKB-HAMAP'), ('Gene3D', '1.10.730.10', '-', '1'), ('Gene3D', '2.20.28.20', '-', '1'), ('Gene3D', '2.40.50.140', '-', '1'), ('Gene3D', '3.40.50.620', '-', '2'), ('HAMAP', 'MF_00098', 'Met_tRNA_synth_type1', '1'), ('InterPro', 'IPR001412', 'aa-tRNA-synth_I_CS'), ('InterPro', 'IPR004495', 'Met-tRNA-synth_Ia_bsu_C'), ('InterPro', 'IPR023458', 'Met-tRNA_ligase_1'), ('InterPro', 'IPR014758', 'Met-tRNA_synth'), ('InterPro', 'IPR015413', 'Methionyl/Leucyl_tRNA_Synth'), ('InterPro', 'IPR029038', 'MetRS_Zn'), ('InterPro', 'IPR012340', 'NA-bd_OB-fold'), ('InterPro', 'IPR014729', 'Rossmann-like_a/b/a_fold'), ('InterPro', 'IPR002547', 'tRNA-bd_dom'), ('InterPro', 'IPR009080', 'tRNAsynth_1a_anticodon-bd'), ('Pfam', 'PF09334', 'tRNA-synt_1g', '1'), ('Pfam', 'PF01588', 'tRNA_bind', '1'), ('PRINTS', 'PR01041', 'TRNASYNTHMET'), ('SUPFAM', 'SSF47323', 'SSF47323', '1'), ('SUPFAM', 'SSF50249', 'SSF50249', '1'), ('SUPFAM', 'SSF57770', 'SSF57770', '1'), ('TIGRFAMs', 'TIGR00398', 'metG', '1'), ('TIGRFAMs', 'TIGR00399', 'metG_C_term', '1'), ('PROSITE', 'PS00178', 'AA_TRNA_LIGASE_I', '1'), ('PROSITE', 'PS50886', 'TRBD', '1')]
+
+Palavras-chave:['Aminoacyl-tRNA synthetase', 'ATP-binding', 'Complete proteome', 'Cytoplasm', 'Ligase', 'Metal-binding', 'Nucleotide-binding', 'Protein biosynthesis', 'Reference proteome', 'RNA-binding', 'tRNA-binding', 'Zinc']
+
+Caracteristicas:[('CHAIN', 1, 670, 'Methionine--tRNA ligase.', 'PRO_0000139138'), ('DOMAIN', 570, 670, 'tRNA-binding. {ECO:0000255|HAMAP- Rule:MF_00098}.', ''), ('MOTIF', 14, 24, '"HIGH" region.', ''), ('MOTIF', 330, 334, '"KMSKS" region.', ''), ('METAL', 145, 145, 'Zinc. {ECO:0000255|HAMAP-Rule:MF_00098}.', ''), ('METAL', 148, 148, 'Zinc. {ECO:0000255|HAMAP-Rule:MF_00098}.', ''), ('METAL', 158, 158, 'Zinc. {ECO:0000255|HAMAP-Rule:MF_00098}.', ''), ('METAL', 161, 161, 'Zinc. {ECO:0000255|HAMAP-Rule:MF_00098}.', ''), ('BINDING', 333, 333, 'ATP. {ECO:0000255|HAMAP-Rule:MF_00098}.', '')]
+
+Informacao sobre a sequencia:(670, 75888, 'B52DB7867144AC03')
+
+Sequencia:MTSERKMLVTSALPYANGHLHLGHLVEHIQTDIWVRTHKMLGIQCISVCGDDAHGTPIMLKAEQLGITPEALTAEIKLSHEKDFKAFAIDYDYYHTTHSPENQALATTIFERLQAGGDIVKKTIRQFYDPVKQMFLPDRYVKGTCPKCAAVDQYGDNCEVCGATYSPTDLINPVSVISGVSPVEKESEHYFFDLPRYEELLKDWTRKGHLQTEVTNKLSEWFEAGLKQWDISRDAPYFGFPIPGVPDKYFYVWLDAPIGYMASFKKYCDERGVSFDEFWDKASKTELYHFVGKDIVYFHALFWPAMLAASGFRTPTAVYTHGFLTVEGQKMSKSRGTFIEARAYLAHLHPEYLRYYFAAKLNGRVDDLDLNFDDFVNRVNADLVGKVVNIASRCAGFINKRFDNRLSSELNDQKLYNDLLSARESVIDAFVSRDYARAIRQIMDCADKVNQYIDANKPWVLAKDESKLNEVHAICTMGINLFRILITYLKPVLPMMAKASEEFLNSEPLHWDSIDKPLLNHRINTFKPLMVRVEKEKIEAMLVQSKESLMTTPVKENTPVEDANLISIEDFAKVDLRIAKIVNAEPVEGADKLMRLILDLGDAQKQVFAGIKKAYDAEELIGRLTVMVANLEPRTMRFGVSEGMVLAAGDGQGIYLLQPDAGALPGMKVK
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRL3****
+
+****Informacao sobre a proteina****
+
+
+Nome:TYSY_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:264
+
+Accession:['Q5ZRL3']
+
+Criado:('26-APR-2005', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=Thymidylate synthase {ECO:0000255|HAMAP-Rule:MF_00008}; Short=TS {ECO:0000255|HAMAP-Rule:MF_00008}; Short=TSase {ECO:0000255|HAMAP-Rule:MF_00008}; EC=2.1.1.45 {ECO:0000255|HAMAP-Rule:MF_00008};
+
+Nome do gene:Name=thyA {ECO:0000255|HAMAP-Rule:MF_00008}; OrderedLocusNames=lpg2868;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9C18>]
+
+Comentarios:['FUNCTION: Provides the sole de novo source of dTMP for DNA biosynthesis. {ECO:0000255|HAMAP-Rule:MF_00008}.', 'CATALYTIC ACTIVITY: 5,10-methylenetetrahydrofolate + dUMP = dihydrofolate + dTMP. {ECO:0000255|HAMAP-Rule:MF_00008}.', 'PATHWAY: Pyrimidine metabolism; dTTP biosynthesis. {ECO:0000255|HAMAP-Rule:MF_00008}.', 'SUBUNIT: Homodimer. {ECO:0000255|HAMAP-Rule:MF_00008}.', 'SUBCELLULAR LOCATION: Cytoplasm {ECO:0000255|HAMAP-Rule:MF_00008}.', 'SIMILARITY: Belongs to the thymidylate synthase family. Bacterial- type ThyA subfamily. {ECO:0000255|HAMAP-Rule:MF_00008}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28915.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096862.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRL3', '-'), ('SMR', 'Q5ZRL3', '1-264'), ('STRING', '272624.lpg2868', '-'), ('EnsemblBacteria', 'AAU28915', 'AAU28915', 'lpg2868'), ('GeneID', '19834433', '-'), ('KEGG', 'lpn:lpg2868', '-'), ('KEGG', 'lpu:LPE509_00157', '-'), ('PATRIC', '22333121', 'VBILegPne29832_3055'), ('eggNOG', 'COG0207', '-'), ('HOGENOM', 'HOG000257899', '-'), ('KO', 'K00560', '-'), ('OMA', 'DVHLYSN', '-'), ('OrthoDB', 'EOG6K6V53', '-'), ('BioCyc', 'LPNE272624:GHDI-2866-MONOMER', '-'), ('UniPathway', 'UPA00575', '-'), ('GO', 'GO:0005737', 'C:cytoplasm', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0004799', 'F:thymidylate synthase activity', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0006231', 'P:dTMP biosynthetic process', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0006235', 'P:dTTP biosynthetic process', 'IEA:UniProtKB-UniPathway'), ('Gene3D', '3.30.572.10', '-', '1'), ('HAMAP', 'MF_00008', 'Thymidy_synth_bact', '1'), ('InterPro', 'IPR023451', 'Thymidate_synth/dCMP_Mease'), ('InterPro', 'IPR000398', 'Thymidylate_synthase'), ('InterPro', 'IPR020940', 'Thymidylate_synthase_AS'), ('Pfam', 'PF00303', 'Thymidylat_synt', '1'), ('PRINTS', 'PR00108', 'THYMDSNTHASE'), ('SUPFAM', 'SSF55831', 'SSF55831', '1'), ('TIGRFAMs', 'TIGR03284', 'thym_sym', '2'), ('PROSITE', 'PS00091', 'THYMIDYLATE_SYNTHASE', '1')]
+
+Palavras-chave:['Complete proteome', 'Cytoplasm', 'Methyltransferase', 'Nucleotide biosynthesis', 'Reference proteome', 'Transferase']
+
+Caracteristicas:[('CHAIN', 1, 264, 'Thymidylate synthase.', 'PRO_0000140972'), ('ACT_SITE', 146, 146, '{ECO:0000255|HAMAP-Rule:MF_00008}.', '')]
+
+Informacao sobre a sequencia:(264, 30165, '64E8894CF1814922')
+
+Sequencia:MKTYLQLLEHILQHGVEKSDRTGTGTLSVFGYQMRFDLAQGFPLVTTKKLHTRSIVHELLWFLRGDTNISYLKENGVTIWDEWADNNGDLGPVYGKQWRSWPTADGRTIDQLSEVVQQIKSNPDSRRLIVSAWNVGELDKMALMPCHALFQFYVANNKLSCQLYQRSADVFLGVPFNIASYSLLTHMVAQQCNLDVAEFIWTGGDCHLYLNHLEQAQIQLTREPLPLPSLAIKRKPASLFDYAYEDFEFLNYQSHPAIKAPIAV
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRE9****
+
+****Informacao sobre a proteina****
+
+
+Nome:UBID_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:488
+
+Accession:['Q5ZRE9']
+
+Criado:('12-DEC-2006', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=3-octaprenyl-4-hydroxybenzoate carboxy-lyase {ECO:0000255|HAMAP-Rule:MF_01636}; EC=4.1.1.- {ECO:0000255|HAMAP-Rule:MF_01636}; AltName: Full=Polyprenyl p-hydroxybenzoate decarboxylase {ECO:0000255|HAMAP-Rule:MF_01636};
+
+Nome do gene:Name=ubiD {ECO:0000255|HAMAP-Rule:MF_01636}; OrderedLocusNames=lpg2933;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9D30>]
+
+Comentarios:['FUNCTION: Catalyzes the decarboxylation of 3-octaprenyl-4-hydroxy benzoate to 2-octaprenylphenol. {ECO:0000255|HAMAP-Rule:MF_01636}.', 'COFACTOR: Name=a divalent metal cation; Xref=ChEBI:CHEBI:60240;   Evidence={ECO:0000255|HAMAP-Rule:MF_01636};', 'PATHWAY: Cofactor biosynthesis; ubiquinone biosynthesis. {ECO:0000255|HAMAP-Rule:MF_01636}.', 'SUBUNIT: Homohexamer. {ECO:0000255|HAMAP-Rule:MF_01636}.', 'SUBCELLULAR LOCATION: Cell membrane {ECO:0000255|HAMAP- Rule:MF_01636}; Peripheral membrane protein {ECO:0000255|HAMAP- Rule:MF_01636}.', 'SIMILARITY: Belongs to the UbiD family. {ECO:0000255|HAMAP- Rule:MF_01636}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28979.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096926.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRE9', '-'), ('SMR', 'Q5ZRE9', '3-487'), ('STRING', '272624.lpg2933', '-'), ('EnsemblBacteria', 'AAU28979', 'AAU28979', 'lpg2933'), ('GeneID', '19834498', '-'), ('KEGG', 'lpn:lpg2933', '-'), ('KEGG', 'lpu:LPE509_00078', '-'), ('PATRIC', '22333275', 'VBILegPne29832_3132'), ('eggNOG', 'COG0043', '-'), ('HOGENOM', 'HOG000227663', '-'), ('KO', 'K03182', '-'), ('OMA', 'SKMGMDA', '-'), ('OrthoDB', 'EOG6QZMM7', '-'), ('BioCyc', 'LPNE272624:GHDI-2931-MONOMER', '-'), ('UniPathway', 'UPA00232', '-'), ('GO', 'GO:0005886', 'C:plasma membrane', 'IEA:UniProtKB-KW'), ('GO', 'GO:0008694', 'F:3-octaprenyl-4-hydroxybenzoate carboxy-lyase activity', 'IEA:InterPro'), ('GO', 'GO:0010181', 'F:FMN binding', 'IEA:InterPro'), ('GO', 'GO:0016491', 'F:oxidoreductase activity', 'IEA:InterPro'), ('GO', 'GO:0006744', 'P:ubiquinone biosynthetic process', 'IEA:UniProtKB-UniPathway'), ('HAMAP', 'MF_01636', 'UbiD', '1'), ('InterPro', 'IPR023677', 'OPHB_Carboxy-lyase'), ('InterPro', 'IPR012349', 'Split_barrel_FMN-bd'), ('InterPro', 'IPR002830', 'UbiD'), ('Pfam', 'PF01977', 'UbiD', '1'), ('SUPFAM', 'SSF50475', 'SSF50475', '1'), ('TIGRFAMs', 'TIGR00148', 'TIGR00148', '1')]
+
+Palavras-chave:['Cell membrane', 'Complete proteome', 'Decarboxylase', 'Lyase', 'Membrane', 'Reference proteome', 'Ubiquinone biosynthesis']
+
+Caracteristicas:[('CHAIN', 1, 488, '3-octaprenyl-4-hydroxybenzoate carboxy- lyase.', 'PRO_0000267671')]
+
+Informacao sobre a sequencia:(488, 55040, '49BE3E22291FC378')
+
+Sequencia:MKYSDLRDFIAQLESRELLKRIDYPVSPHLEMTLVSDKVLRSGGPALLFTNTPNYNMPVLTNLFGTVERVALGMGEESIVALREIGKLLAALKEPDPPKGFKDAFSKLPLLKQALNMAPKYVSGAECQTHVWEKDEVDLTLLPIQTCWPGDVAPLITWGLVTTRGPHQSRENMGIYRQQLLSKNKLIMRWLSHRGGALDYQAWQQEYPKERFPVAVTLGADPATILAAVTPVPDTLSEYAFAGLLRGQRTRLTRCIGNDLHVPASAEIVLEGYLEPGNEAPEGPYGDHTGYYNEVQSFPVFTVERITHRDKPIYHSTYTGRPPDEPAILGVALNEVFIPLLQKQFPEIVDFYLPPEGCSYRLAVVTIKKQYPGHAKRIMMAVWSFLRQFMYTKFVIVCDDDVDARNWQDVIWAMTTRMDPSRDTVMVENTPIDYLDFASPVSGLGSKMGMDATSKWPGETQREWGKPITMDEDVLNRVNGYWSLLGLK
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRH9****
+
+****Informacao sobre a proteina****
+
+
+Nome:UBIE_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:250
+
+Accession:['Q5ZRH9']
+
+Criado:('15-MAR-2005', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE {ECO:0000255|HAMAP-Rule:MF_01813}; EC=2.1.1.163 {ECO:0000255|HAMAP-Rule:MF_01813}; EC=2.1.1.201 {ECO:0000255|HAMAP-Rule:MF_01813}; AltName: Full=2-methoxy-6-polyprenyl-1,4-benzoquinol methylase {ECO:0000255|HAMAP-Rule:MF_01813}; AltName: Full=Demethylmenaquinone methyltransferase {ECO:0000255|HAMAP-Rule:MF_01813};
+
+Nome do gene:Name=ubiE {ECO:0000255|HAMAP-Rule:MF_01813}; OrderedLocusNames=lpg2903;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9B00>]
+
+Comentarios:['FUNCTION: Methyltransferase required for the conversion of demethylmenaquinol (DMKH2) to menaquinol (MKH2) and the conversion of 2-polyprenyl-6-methoxy-1,4-benzoquinol (DDMQH2) to 2- polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol (DMQH2). {ECO:0000255|HAMAP-Rule:MF_01813}.', 'CATALYTIC ACTIVITY: A demethylmenaquinol + S-adenosyl-L-methionine = a menaquinol + S-adenosyl-L-homocysteine. {ECO:0000255|HAMAP- Rule:MF_01813}.', 'CATALYTIC ACTIVITY: S-adenosyl-L-methionine + 2-methoxy-6-all- trans-polyprenyl-1,4-benzoquinol = S-adenosyl-L-homocysteine + 6- methoxy-3-methyl-2-all-trans-polyprenyl-1,4-benzoquinol. {ECO:0000255|HAMAP-Rule:MF_01813}.', 'PATHWAY: Quinol/quinone metabolism; menaquinone biosynthesis; menaquinol from 1,4-dihydroxy-2-naphthoate: step 2/2. {ECO:0000255|HAMAP-Rule:MF_01813}.', 'PATHWAY: Cofactor biosynthesis; ubiquinone biosynthesis. {ECO:0000255|HAMAP-Rule:MF_01813}.', 'SIMILARITY: Belongs to the class I-like SAM-binding methyltransferase superfamily. UbiE family. {ECO:0000255|HAMAP- Rule:MF_01813}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28949.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096896.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRH9', '-'), ('STRING', '272624.lpg2903', '-'), ('EnsemblBacteria', 'AAU28949', 'AAU28949', 'lpg2903'), ('GeneID', '19834468', '-'), ('KEGG', 'lpn:lpg2903', '-'), ('KEGG', 'lpu:LPE509_00119', '-'), ('PATRIC', '22333199', 'VBILegPne29832_3094'), ('eggNOG', 'COG2226', '-'), ('HOGENOM', 'HOG000249463', '-'), ('KO', 'K03183', '-'), ('OMA', 'IWKRFTI', '-'), ('OrthoDB', 'EOG6M6JSB', '-'), ('BioCyc', 'LPNE272624:GHDI-2901-MONOMER', '-'), ('UniPathway', 'UPA00079', 'UER00169'), ('UniPathway', 'UPA00232', '-'), ('GO', 'GO:0008168', 'F:methyltransferase activity', 'IEA:UniProtKB-KW'), ('GO', 'GO:0009234', 'P:menaquinone biosynthetic process', 'IEA:UniProtKB-UniPathway'), ('GO', 'GO:0006744', 'P:ubiquinone biosynthetic process', 'IEA:UniProtKB-UniPathway'), ('Gene3D', '3.40.50.150', '-', '1'), ('HAMAP', 'MF_01813', 'UbiE_methyltran', '1'), ('InterPro', 'IPR029063', 'SAM-dependent_MTases-like'), ('InterPro', 'IPR004033', 'UbiE/COQ5_MeTrFase'), ('InterPro', 'IPR023576', 'UbiE/COQ5_MeTrFase_CS'), ('Pfam', 'PF01209', 'Ubie_methyltran', '1'), ('SUPFAM', 'SSF53335', 'SSF53335', '1'), ('TIGRFAMs', 'TIGR01934', 'MenG_MenH_UbiE', '1'), ('PROSITE', 'PS51608', 'SAM_MT_UBIE', '1'), ('PROSITE', 'PS01183', 'UBIE_1', '1'), ('PROSITE', 'PS01184', 'UBIE_2', '1')]
+
+Palavras-chave:['Complete proteome', 'Menaquinone biosynthesis', 'Methyltransferase', 'Reference proteome', 'S-adenosyl-L-methionine', 'Transferase', 'Ubiquinone biosynthesis']
+
+Caracteristicas:[('CHAIN', 1, 250, 'Ubiquinone/menaquinone biosynthesis C- methyltransferase UbiE.', 'PRO_0000193287')]
+
+Informacao sobre a sequencia:(250, 28376, '18A87202A0D1F963')
+
+Sequencia:MTNQKQTTHFGFKSVDWNEKEKKVAEVFHSVAKNYDRMNDLMSLGIHHLWKRYTIELSHVRPGQSVLDLAGGSGDLTRLLLQKVGDSGQVILADINAAMLHVGRDRLLDEGLFKNIRYVQGNAQCLPFADNSFHCITMGFGLRNVTDKDEALQSMYRVCKPGGKLMVLEFSTPVFPGLKPVYDWYSFNILPKIGKFVANDEASYQYLAESIRMHPDQETLKAMIERVGFEDCHYHNLSGGIVALHIAYKY
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRP2****
+
+****Informacao sobre a proteina****
+
+
+Nome:Y2838_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:254
+
+Accession:['Q5ZRP2']
+
+Criado:('13-SEP-2005', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('26-NOV-2014', 0)
+
+Descricao:RecName: Full=UPF0176 protein lpg2838 {ECO:0000255|HAMAP-Rule:MF_00469};
+
+Nome do gene:OrderedLocusNames=lpg2838;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9860>]
+
+Comentarios:['SIMILARITY: Belongs to the UPF0176 family. {ECO:0000255|HAMAP- Rule:MF_00469}.', 'SIMILARITY: Contains 1 rhodanese domain. {ECO:0000255|HAMAP- Rule:MF_00469}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU28886.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096833.1', 'NC_002942.5'), ('PDB', '4F67', 'X-ray', '1.79 A', 'A=1-254'), ('PDBsum', '4F67', '-'), ('ProteinModelPortal', 'Q5ZRP2', '-'), ('STRING', '272624.lpg2838', '-'), ('DNASU', '3079754', '-'), ('EnsemblBacteria', 'AAU28886', 'AAU28886', 'lpg2838'), ('GeneID', '19834403', '-'), ('KEGG', 'lpn:lpg2838', '-'), ('KEGG', 'lpu:LPE509_00190', '-'), ('PATRIC', '22333057', 'VBILegPne29832_3023'), ('eggNOG', 'COG1054', '-'), ('HOGENOM', 'HOG000034808', '-'), ('KO', 'K07146', '-'), ('OMA', 'LIGKRKY', '-'), ('OrthoDB', 'EOG6ND0G7', '-'), ('BioCyc', 'LPNE272624:GHDI-2836-MONOMER', '-'), ('Gene3D', '3.40.250.10', '-', '1'), ('HAMAP', 'MF_00469', 'UPF0176', '1'), ('InterPro', 'IPR001763', 'Rhodanese-like_dom'), ('InterPro', 'IPR020936', 'UPF0176'), ('Pfam', 'PF00581', 'Rhodanese', '1'), ('SMART', 'SM00450', 'RHOD', '1'), ('SUPFAM', 'SSF52821', 'SSF52821', '1'), ('PROSITE', 'PS50206', 'RHODANESE_3', '1')]
+
+Palavras-chave:['3D-structure', 'Complete proteome', 'Reference proteome']
+
+Caracteristicas:[('CHAIN', 1, 254, 'UPF0176 protein lpg2838.', 'PRO_0000161484'), ('DOMAIN', 123, 217, 'Rhodanese. {ECO:0000255|HAMAP- Rule:MF_00469}.', ''), ('ACT_SITE', 177, 177, 'Cysteine persulfide intermediate. {ECO:0000255|HAMAP-Rule:MF_00469}.', ''), ('STRAND', 4, 12, '{ECO:0000244|PDB:4F67}.', ''), ('HELIX', 18, 32, '{ECO:0000244|PDB:4F67}.', ''), ('STRAND', 35, 41, '{ECO:0000244|PDB:4F67}.', ''), ('STRAND', 44, 51, '{ECO:0000244|PDB:4F67}.', ''), ('HELIX', 53, 63, '{ECO:0000244|PDB:4F67}.', ''), ('HELIX', 67, 69, '{ECO:0000244|PDB:4F67}.', ''), ('STRAND', 75, 81, '{ECO:0000244|PDB:4F67}.', ''), ('STRAND', 85, 91, '{ECO:0000244|PDB:4F67}.', ''), ('STRAND', 93, 96, '{ECO:0000244|PDB:4F67}.', ''), ('HELIX', 115, 121, '{ECO:0000244|PDB:4F67}.', ''), ('STRAND', 127, 131, '{ECO:0000244|PDB:4F67}.', ''), ('HELIX', 135, 140, '{ECO:0000244|PDB:4F67}.', ''), ('STRAND', 141, 143, '{ECO:0000244|PDB:4F67}.', ''), ('HELIX', 154, 156, '{ECO:0000244|PDB:4F67}.', ''), ('HELIX', 157, 164, '{ECO:0000244|PDB:4F67}.', ''), ('HELIX', 166, 168, '{ECO:0000244|PDB:4F67}.', ''), ('STRAND', 173, 176, '{ECO:0000244|PDB:4F67}.', ''), ('STRAND', 178, 180, '{ECO:0000244|PDB:4F67}.', ''), ('HELIX', 181, 193, '{ECO:0000244|PDB:4F67}.', ''), ('STRAND', 196, 201, '{ECO:0000244|PDB:4F67}.', ''), ('HELIX', 204, 211, '{ECO:0000244|PDB:4F67}.', ''), ('TURN', 214, 216, '{ECO:0000244|PDB:4F67}.', ''), ('STRAND', 219, 221, '{ECO:0000244|PDB:4F67}.', '')]
+
+Informacao sobre a sequencia:(254, 29904, 'D71F02C16B6FEAC4')
+
+Sequencia:MKDIIIASFYKFIPLNDFESLREPILTKMHEIGIKGTIILAHEGVNGGFAGNREQMNVFYDYLRSDSRFADLHFKETYDNKNPFDKAKVKLRKEIVTMGVQKVDPSYNAGTYLSPEEWHQFIQDPNVILLDTRNDYEYELGTFKNAINPDIENFREFPDYVQRNLIDKKDKKIAMFCTGGIRCEKTTAYMKELGFEHVYQLHDGILNYLESIPESESLWEGKCFVFDDRVAVDQKLDRVYPQLPQDYKYEREQK
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZRC3****
+
+****Informacao sobre a proteina****
+
+
+Nome:Y2959_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:530
+
+Accession:['Q5ZRC3']
+
+Criado:('03-APR-2007', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=UPF0422 protein lpg2959; Flags: Precursor;
+
+Nome do gene:OrderedLocusNames=lpg2959;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9BE0>]
+
+Comentarios:['SIMILARITY: Belongs to the UPF0422 family. {ECO:0000305}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29005.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096952.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZRC3', '-'), ('STRING', '272624.lpg2959', '-'), ('EnsemblBacteria', 'AAU29005', 'AAU29005', 'lpg2959'), ('GeneID', '19834524', '-'), ('KEGG', 'lpn:lpg2959', '-'), ('KEGG', 'lpu:LPE509_00046', '-'), ('PATRIC', '22333339', 'VBILegPne29832_3164'), ('eggNOG', 'NOG76863', '-'), ('HOGENOM', 'HOG000279108', '-'), ('OMA', 'GRYSSAM', '-'), ('OrthoDB', 'EOG6GTZDR', '-'), ('BioCyc', 'LPNE272624:GHDI-2957-MONOMER', '-')]
+
+Palavras-chave:['Coiled coil', 'Complete proteome', 'Reference proteome', 'Signal']
+
+Caracteristicas:[('SIGNAL', 1, 19, '{ECO:0000255}.', ''), ('CHAIN', 20, 530, 'UPF0422 protein lpg2959.', 'PRO_0000283756'), ('COILED', 20, 66, '{ECO:0000255}.', '')]
+
+Informacao sobre a sequencia:(530, 57447, '31BC2E30A2874F87')
+
+Sequencia:MKFKKIILALACLSSPLYADQDQQLKSEIQRLQHQAEDLQAQLNRLQKQLANHKSSQQKHEQQAAAKPAEPQSKPTVKSGAAIEEKYHSSKVEVHAPDAHPESISFYPTALIADNRVVTYIAGTPVVSSPFLGDRPAFDGSDYIVNISSINRDVRLMQQRRRLYRAYQKIGYPIPNMPIISLSGKAEPAATFNNPFRSTNTDGDITLGSSELDVAAALNENVEAYIAIAYDESPPAIGPRVNNSAFNLNMGFVNIGNLDKSPLYFTAGQVYVPFGRYSSAMVSSPVTMNLARTKTRPVIFGYKSQADTGPFGAVYGYRSDTTLGRSGVGGVNLGYIFGFDNDINGEVGGGFISSIADAGGMQSTGANVGTTFGGFGSITNGNENVRKTKAADVHGHVGYDRYNLTLEWVGAIQSFRPQDLSFNGQGARPQAAQAELGMTFMAFNRPASIGVGYQWTKEALALNLPKRRYVGVFNISIWKDTVESIEYRHDIDYGLTQFANGAAPQGFVNLPTLGTGKSADTVSAQIGVYF
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZR89****
+
+****Informacao sobre a proteina****
+
+
+Nome:Y2994_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:118
+
+Accession:['Q5ZR89']
+
+Criado:('20-MAY-2008', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=UPF0102 protein lpg2994 {ECO:0000255|HAMAP-Rule:MF_00048};
+
+Nome do gene:OrderedLocusNames=lpg2994;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F97F0>]
+
+Comentarios:['SIMILARITY: Belongs to the UPF0102 family. {ECO:0000255|HAMAP- Rule:MF_00048}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29039.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096986.1', 'NC_002942.5'), ('STRING', '272624.lpg2994', '-'), ('DNASU', '3080025', '-'), ('EnsemblBacteria', 'AAU29039', 'AAU29039', 'lpg2994'), ('GeneID', '19834558', '-'), ('KEGG', 'lpn:lpg2994', '-'), ('PATRIC', '22333413', 'VBILegPne29832_3200'), ('eggNOG', 'COG0792', '-'), ('HOGENOM', 'HOG000016278', '-'), ('KO', 'K07460', '-'), ('OMA', 'YRCKGGE', '-'), ('OrthoDB', 'EOG6PP9TH', '-'), ('BioCyc', 'LPNE272624:GHDI-2992-MONOMER', '-'), ('GO', 'GO:0004518', 'F:nuclease activity', 'IEA:InterPro'), ('GO', 'GO:0003676', 'F:nucleic acid binding', 'IEA:InterPro'), ('Gene3D', '3.40.1350.10', '-', '1'), ('HAMAP', 'MF_00048', 'UPF0102', '1'), ('InterPro', 'IPR011335', 'Restrct_endonuc-II-like'), ('InterPro', 'IPR011856', 'tRNA_endonuc-like_dom'), ('InterPro', 'IPR003509', 'UPF0102'), ('Pfam', 'PF02021', 'UPF0102', '1'), ('SUPFAM', 'SSF52980', 'SSF52980', '1'), ('TIGRFAMs', 'TIGR00252', 'TIGR00252', '1')]
+
+Palavras-chave:['Complete proteome', 'Reference proteome']
+
+Caracteristicas:[('CHAIN', 1, 118, 'UPF0102 protein lpg2994.', 'PRO_0000336196')]
+
+Informacao sobre a sequencia:(118, 13591, '91DD77A408C6F8AE')
+
+Sequencia:MTQEKGKFAEQLALNYLKENGLALVMQNYHCRLGEIDLIMREGSYLVFVEVRSRSNMNFGGGLASITYEKKQKIIKATSHYMIKYRIQDKFPIRFDVISIDGKSNKITWLKNAFDAGC
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZR81****
+
+****Informacao sobre a proteina****
+
+
+Nome:YIDC_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:556
+
+Accession:['Q5ZR81']
+
+Criado:('05-FEB-2008', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=Membrane protein insertase YidC {ECO:0000255|HAMAP-Rule:MF_01810}; AltName: Full=Foldase YidC {ECO:0000255|HAMAP-Rule:MF_01810}; AltName: Full=Membrane integrase YidC {ECO:0000255|HAMAP-Rule:MF_01810}; AltName: Full=Membrane protein YidC {ECO:0000255|HAMAP-Rule:MF_01810};
+
+Nome do gene:Name=yidC {ECO:0000255|HAMAP-Rule:MF_01810}; OrderedLocusNames=lpg3002;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9E48>]
+
+Comentarios:['FUNCTION: Required for the insertion and/or proper folding and/or complex formation of integral membrane proteins into the membrane. Involved in integration of membrane proteins that insert both dependently and independently of the Sec translocase complex, as well as at least some lipoproteins. Aids folding of multispanning membrane proteins. {ECO:0000255|HAMAP-Rule:MF_01810}.', 'SUBUNIT: Interacts with the Sec translocase complex via SecD. Specifically interacts with transmembrane segments of nascent integral membrane proteins during membrane integration. {ECO:0000255|HAMAP-Rule:MF_01810}.', 'SUBCELLULAR LOCATION: Cell inner membrane {ECO:0000255|HAMAP- Rule:MF_01810}; Multi-pass membrane protein {ECO:0000255|HAMAP- Rule:MF_01810}.', 'SIMILARITY: Belongs to the OXA1/ALB3/YidC family. Type 1 subfamily. {ECO:0000255|HAMAP-Rule:MF_01810}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29047.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096994.1', 'NC_002942.5'), ('ProteinModelPortal', 'Q5ZR81', '-'), ('STRING', '272624.lpg3002', '-'), ('EnsemblBacteria', 'AAU29047', 'AAU29047', 'lpg3002'), ('GeneID', '19834566', '-'), ('KEGG', 'lpn:lpg3002', '-'), ('PATRIC', '22333431', 'VBILegPne29832_3209'), ('eggNOG', 'COG0706', '-'), ('HOGENOM', 'HOG000101822', '-'), ('KO', 'K03217', '-'), ('OMA', 'YRGAAFS', '-'), ('OrthoDB', 'EOG6X6RF2', '-'), ('BioCyc', 'LPNE272624:GHDI-3000-MONOMER', '-'), ('GO', 'GO:0016021', 'C:integral component of membrane', 'IEA:UniProtKB-KW'), ('GO', 'GO:0005886', 'C:plasma membrane', 'IEA:UniProtKB-HAMAP'), ('GO', 'GO:0051205', 'P:protein insertion into membrane', 'IEA:InterPro'), ('GO', 'GO:0015031', 'P:protein transport', 'IEA:UniProtKB-KW'), ('HAMAP', 'MF_01810', 'YidC_type1', '1'), ('InterPro', 'IPR019998', 'Membr_insert_YidC'), ('InterPro', 'IPR028055', 'Membr_insert_YidC/Oxa1_C'), ('InterPro', 'IPR028053', 'Membr_insert_YidC_N'), ('InterPro', 'IPR001708', 'Membrane_insert_OXA1/ALB3/YidC'), ('PANTHER', 'PTHR12428', 'PTHR12428', '1'), ('Pfam', 'PF02096', '60KD_IMP', '1'), ('Pfam', 'PF14849', 'YidC_periplas', '1'), ('PRINTS', 'PR00701', '60KDINNERMP'), ('PRINTS', 'PR01900', 'YIDCPROTEIN'), ('TIGRFAMs', 'TIGR03593', 'yidC_nterm', '1'), ('TIGRFAMs', 'TIGR03592', 'yidC_oxa1_cterm', '1')]
+
+Palavras-chave:['Cell inner membrane', 'Cell membrane', 'Chaperone', 'Complete proteome', 'Membrane', 'Protein transport', 'Reference proteome', 'Transmembrane', 'Transmembrane helix', 'Transport']
+
+Caracteristicas:[('CHAIN', 1, 556, 'Membrane protein insertase YidC.', 'PRO_1000070114'), ('TRANSMEM', 6, 26, 'Helical. {ECO:0000255|HAMAP- Rule:MF_01810}.', ''), ('TRANSMEM', 332, 352, 'Helical. {ECO:0000255|HAMAP- Rule:MF_01810}.', ''), ('TRANSMEM', 358, 378, 'Helical. {ECO:0000255|HAMAP- Rule:MF_01810}.', ''), ('TRANSMEM', 428, 448, 'Helical. {ECO:0000255|HAMAP- Rule:MF_01810}.', ''), ('TRANSMEM', 501, 521, 'Helical. {ECO:0000255|HAMAP- Rule:MF_01810}.', '')]
+
+Informacao sobre a sequencia:(556, 62636, '7DCCE2F81BFFDE66')
+
+Sequencia:MDIRRIVLYMALALIGLSLWNAWQIDYPAKQPVEEKTASQLTSDGHLLPQIIPSNAEQPVTLKAEEKASSGKQLIQVKTDVLDVDIDLKNGDIVKGLLLDYPLSVEDKNKPFPLLQNQASQRYVANSSLFVLDGQTPQSLDFDFTSEKEYYELKPDQNQLIVTLNGKSEDGLDVKKEFVFTKGSYLIEVNYKIANTGNSLWKGYFNTQLLRSSPKEDKSSIFHIGSYTGASFSNPGKNRYQKVSFSDMSKSNLDVDAKGGWIAMQQHYFLSAWVPNADSENKFYTLATDKDYTIGAVSQPITVKPKEDKIVGSKLYIGPEITSVLKGISPSLDLTVDYGILWFLSSLLFSLMKAIYTVVGNWGWSIVLVTVLIKLAFYRLSATSYKSMASMRKLQPKLQALRERYGDDKAKISQATMELYKQEKVNPLGGCLPILIQIPVFIALYWVLLESVELRQAPFIFWINDLASADPYHVLPLIMGATMLIQQKLNPAPADPMQAKVMMFLPILFTGLFWNFPSGLVLYWIVNNTLSILQQWYITRKYSDEKPAKKVVATAK
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
+
+****Codigo Q5ZR80****
+
+****Informacao sobre a proteina****
+
+
+Nome:YIDD_LEGPH
+
+Classe:Reviewed
+
+Tipo de molecula:None
+
+Tamanho da sequencia:81
+
+Accession:['Q5ZR80']
+
+Criado:('17-OCT-2006', 0)
+
+Adaptacao da sequencia:('23-NOV-2004', 0)
+
+Adaptacao da anotacao:('29-OCT-2014', 0)
+
+Descricao:RecName: Full=Putative membrane protein insertion efficiency factor {ECO:0000255|HAMAP-Rule:MF_00386};
+
+Nome do gene:OrderedLocusNames=lpg3003;
+
+Organismo:Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+
+Organelo:
+
+Classificacao do Organismo:['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+
+ID da taxonomia:['272624']
+
+Organismo Hospedeiro:[]
+
+ID da taxonomia do hospedeiro:[]
+
+Referencias:[<Bio.SwissProt.Reference object at 0x00000000111F9DD8>]
+
+Comentarios:['FUNCTION: Could be involved in insertion of integral membrane proteins into the membrane. {ECO:0000255|HAMAP-Rule:MF_00386}.', 'SUBCELLULAR LOCATION: Cell inner membrane {ECO:0000255|HAMAP- Rule:MF_00386}; Peripheral membrane protein {ECO:0000255|HAMAP- Rule:MF_00386}; Cytoplasmic side {ECO:0000255|HAMAP- Rule:MF_00386}.', 'SIMILARITY: Belongs to the UPF0161 family. {ECO:0000255|HAMAP- Rule:MF_00386}.']
+
+Referencias cruzadas:[('EMBL', 'AE017354', 'AAU29048.1', '-', 'Genomic_DNA'), ('RefSeq', 'YP_096995.1', 'NC_002942.5'), ('STRING', '272624.lpg3003', '-'), ('EnsemblBacteria', 'AAU29048', 'AAU29048', 'lpg3003'), ('GeneID', '19834567', '-'), ('KEGG', 'lpn:lpg3003', '-'), ('PATRIC', '22333433', 'VBILegPne29832_3210'), ('eggNOG', 'COG0759', '-'), ('HOGENOM', 'HOG000231600', '-'), ('KO', 'K08998', '-'), ('OMA', 'YMGIRRI', '-'), ('OrthoDB', 'EOG61ZTN6', '-'), ('BioCyc', 'LPNE272624:GHDI-3001-MONOMER', '-'), ('GO', 'GO:0005886', 'C:plasma membrane', 'IEA:UniProtKB-HAMAP'), ('HAMAP', 'MF_00386', 'UPF0161_YidD', '1'), ('InterPro', 'IPR002696', 'Membr_insert_effic_factor'), ('Pfam', 'PF01809', 'Haemolytic', '1'), ('ProDom', 'PD004225', 'DUF37', '1'), ('TIGRFAMs', 'TIGR00278', 'TIGR00278', '1')]
+
+Palavras-chave:['Cell inner membrane', 'Cell membrane', 'Complete proteome', 'Membrane', 'Reference proteome']
+
+Caracteristicas:[('CHAIN', 1, 81, 'Putative membrane protein insertion efficiency factor.', 'PRO_0000253121')]
+
+Informacao sobre a sequencia:(81, 9320, 'C78AC986E9302064')
+
+Sequencia:MGKISLMLRQIVCLPIKMYQYFISPLITPCCRYYPSCSEYADSAIKHYGVIKGLLMALNRLSRCHPWSKGGYDPLFPNDKN
+
+****Referencias sobre a proteina****
+
+Numero:1
+
+Posicao:['NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].']
+
+Comentarios:[('STRAIN', 'Philadelphia 1 / ATCC 33152 / DSM 7513')]
+
+Referencias:[('PubMed', '15448271'), ('DOI', '10.1126/science.1099776')]
+
+Autores:Chien M., Morozova I., Shi S., Sheng H., Chen J., Gomez S.M., Asamani G., Hill K., Nuara J., Feder M., Rineer J., Greenberg J.J., Steshenko V., Park S.H., Zhao B., Teplitskaya E., Edwards J.R., Pampou S., Georghiou A., Chou I.-C., Iannuccilli W., Ulz M.E., Kim D.H., Geringer-Sameth A., Goldsberry C., Morozov P., Fischer S.G., Segal G., Qu X., Rzhetsky A., Zhang P., Cayanis E., De Jong P.J., Ju J., Kalachikov S., Shuman H.A., Russo J.J.
+
+Titulo:The genomic sequence of the accidental pathogen Legionella pneumophila.
+
+Localizacao:Science 305:1966-1968(2004).
